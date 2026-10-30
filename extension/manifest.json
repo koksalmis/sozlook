@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Sözlook",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "İngilizce kelimeleri seç, anlamlarına bak ve cümleleriyle kaydet.",
   "permissions": ["storage"],
   "host_permissions": ["https://www.oxfordlearnersdictionaries.com/*", "https://dictionary.cambridge.org/*"],

@@ -3,11 +3,12 @@ test('expanded words popup links to the dedicated options page', async ({ page }
   await page.goto('/extension/popup.html');
   await page.evaluate(() => localStorage.setItem('sozlook-words', JSON.stringify(Array.from({ length: 20 }, (_, i) => ({ word: `word-${i}`, context: 'A longer reading context. '.repeat(30), translation: '' })))));
   await page.reload();
-  await expect(page.locator('body')).toHaveCSS('width', '480px');
-  await expect(page.locator('body')).toHaveCSS('height', '560px');
+  await expect(page.locator('html')).toHaveCSS('width', '600px');
+  await expect(page.locator('body')).toHaveCSS('width', '600px');
+  await expect(page.locator('body')).toHaveCSS('height', '600px');
   await expect(page.getByRole('radio')).toHaveCount(0);
   const geometry = await page.locator('#words').evaluate(el => ({ scrollable: el.scrollHeight > el.clientHeight, body: document.body.scrollHeight }));
-  expect(geometry.scrollable).toBe(true); expect(geometry.body).toBeLessThanOrEqual(560);
+  expect(geometry.scrollable).toBe(true); expect(geometry.body).toBeLessThanOrEqual(600);
   await page.screenshot({ path: 'test-results/sozlook-popup.png' });
   const opened = page.waitForEvent('popup');
   await page.getByRole('link', { name: 'Seçenekler' }).click();

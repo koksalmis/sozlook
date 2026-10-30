@@ -1,0 +1,2 @@
+// Generated from mark.svg by npm run icons.
+globalThis.SozlookBrand = { paths: "\n  <path fill=\"currentColor\" stroke=\"none\" d=\"M15 3h34a6 6 0 0 1 6 6v50a2 2 0 0 1-3 1.73L32 49 12 60.73A2 2 0 0 1 9 59V9a6 6 0 0 1 6-6Z\"/>\n  <path fill=\"var(--sozlook-mark-cutout, #fff)\" stroke=\"none\" d=\"M18 26c0-4.2 2.8-7.5 5.7-10H29v4l-4 6h4v13H18V26Zm17 0c0-4.2 2.8-7.5 5.7-10H46v4l-4 6h4v13H35V26Z\"/>\n" };

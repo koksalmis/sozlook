@@ -8,26 +8,26 @@
   document.documentElement.append(host);
   const shadow = host.attachShadow({ mode: 'open' });
   const icons = {
-    book: '<path d="M12 5c-3-2-6-2-9-1v15c3-1 6-1 9 1 3-2 6-2 9-1V4c-3-1-6-1-9 1Z"/><path d="M12 5v15"/>',
+    book: SozlookBrand.paths,
     sound: '<path d="m11 5-6 4H2v6h3l6 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/>',
     save: '<path d="M6 3h12v18l-6-4-6 4V3Z"/>',
     link: '<path d="M14 3h7v7m0-7L10 14"/><path d="M10 3H4v17h17v-7"/>',
     close: '<path d="m6 6 12 12M6 18 18 6"/>',
     check: '<path d="m5 12 4 4L19 6"/>'
   };
-  const icon = name => `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[name]}</svg>`;
+  const icon = name => `<svg width="20" height="20" viewBox="0 0 ${name === 'book' ? '64 64' : '24 24'}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[name]}</svg>`;
   shadow.innerHTML = `<style>
     :host{all:initial;font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:#172234;font-size:14px;line-height:1.5;color-scheme:light}
     *{box-sizing:border-box}.card,.launch{font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:14px;line-height:1.5;color:#172234}button,a{-webkit-tap-highlight-color:transparent}button{font:inherit;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid #a5c7ff;outline-offset:3px}button:disabled{cursor:wait}a{color:inherit}
-    [hidden]{display:none!important}.launch{position:fixed;pointer-events:auto;background:#1764ed;color:white;border:0;border-radius:9px;width:36px;height:34px;display:grid;place-items:center;box-shadow:0 3px 12px #17223422}
+    [hidden]{display:none!important}.launch{--sozlook-mark-cutout:#1764ed;position:fixed;pointer-events:auto;background:#1764ed;color:white;border:0;border-radius:9px;width:36px;height:34px;display:grid;place-items:center;box-shadow:0 3px 12px #17223422}
     .card{position:fixed;pointer-events:auto;width:344px;max-width:calc(100vw - 24px);max-height:calc(100dvh - 24px);overflow:auto;background:#fff;border:1px solid #dce1e9;border-radius:12px;box-shadow:0 10px 35px #182d481c;animation:appear .15s ease-out}
     @keyframes appear{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.card{animation:none}}
-    .header{height:49px;padding:0 19px;display:flex;align-items:center;border-bottom:1px solid #edf0f4;gap:9px;font-size:13px;font-weight:600;color:#5a6476}.brand{color:#1764ed;display:flex}.close{margin-left:auto;border:0;background:none;color:#8992a1;display:grid;place-items:center;padding:5px;border-radius:5px}.close:hover{background:#f1f5fa}
+    .header{height:49px;padding:0 19px;display:flex;align-items:center;border-bottom:1px solid #edf0f4;gap:7px;font-size:16px;font-family:Georgia,serif;font-weight:700;color:#18253a}.brand{color:#1764ed;display:flex}.close{margin-left:auto;border:0;background:none;color:#8992a1;display:grid;place-items:center;padding:5px;border-radius:5px}.close:hover{background:#f1f5fa}
     .body{padding:20px 21px 19px}.word-row{display:flex;align-items:center;justify-content:space-between;gap:12px}.word{font-size:29px;font-family:Georgia,serif;font-weight:700;line-height:1.15;overflow-wrap:anywhere;margin:0 0 5px}.mini{border:0;background:transparent;padding:4px;color:#6d7787;display:flex;border-radius:4px}.mini.active{color:#1764ed;background:#edf4ff}.pronunciation{display:flex;gap:5px;align-items:center;color:#7c8696;font-size:13px;min-height:26px}.pronunciation svg{width:16px;height:16px}.type{display:inline-block;margin:9px 0 4px;padding:1px 8px;background:#f0f2f6;border-radius:5px;font-size:11px;color:#647084}.translation{font-size:22px;font-weight:600;color:#1764ed;margin:3px 0 17px;line-height:1.3}.tabs{display:flex;background:#f7f9fc;border:1px solid #e0e6ef;border-radius:6px;padding:2px;margin:0 0 17px}.tab{flex:1;padding:5px;border:1px solid transparent;border-radius:4px;background:transparent;color:#687385;font-size:12px}.tab[aria-selected=true]{background:#fff;color:#1764ed;border-color:#bdd4ff;box-shadow:0 1px 3px #142a4610}.label{font-size:11px;color:#8590a0;margin:0 0 6px}.definition{font-size:14px;line-height:1.65;margin:0;color:#313b4d}.example{font-family:Georgia,serif;font-style:italic;font-size:14px;color:#7a8595;line-height:1.6;margin:8px 0 0}.notice{border-top:1px solid #edf0f4;margin:16px 0 0;padding-top:10px;color:#8992a1;font-size:10px;line-height:1.5}.source-info{font-size:12px;color:#647084;line-height:1.6}.source-info a{color:#1764ed;text-decoration:none;display:inline-flex;align-items:center;gap:5px}.source-info a:hover{text-decoration:underline}.context{font-size:12px;color:#6d7787;border-left:2px solid #d4e4ff;padding-left:10px;margin-top:12px}.footer{display:grid;grid-template-columns:repeat(3,1fr);background:#f8f9fc;border-top:1px solid #e9edf3;padding:11px 0}.tool{border:0;background:transparent;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;font-size:10px;color:#5c6678;min-height:42px}.tool+.tool{border-left:1px solid #e0e5ed}.tool:hover{color:#1764ed}.tool.saved{color:#1764ed}.status{font-size:11px;color:#647084;margin:10px 0 0}.translation-link{font-size:14px;text-decoration:none;color:#1764ed}
   </style>
   <button class="launch" title="Sözlook ile bak" aria-label="Sözlook ile bak" hidden>${icon('book')}</button>
   <section class="card" role="dialog" aria-label="Sözlook sözlük kartı" hidden>
-    <header class="header"><span class="brand">${icon('book')}</span>Sözlook<button class="close" aria-label="Kapat">${icon('close')}</button></header>
+    <header class="header"><span class="brand">${icon('book')}</span>sözlook<button class="close" aria-label="Kapat">${icon('close')}</button></header>
     <div class="body"><div class="word-row"><h2 class="word"></h2><button class="mini bookmark" aria-label="Kelimeyi kaydet">${icon('save')}</button></div>
     <div class="pronunciation"><span class="ipa"></span><button class="mini speak" aria-label="Telaffuzu dinle">${icon('sound')}</button></div>
     <span class="type"></span><div class="translation"></div>

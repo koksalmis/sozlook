@@ -2,7 +2,7 @@
 
 **Oku. Anla. Öğren.** İngilizce okurken seçtiğin kelimenin Oxford ve Cambridge anlamlarına bak, Türkçesini gör, dinle ve cümlesiyle kaydet.
 
-## 0.2.3 — Seçenekler sayfası ve geniş kelimeler menüsü
+## 0.2.4 — Kelime işareti logosu
 
 Sözlük içeriği artık örnek veriden gelmez. Kartı açtığında Oxford’un kelime sayfası ve Cambridge’in İngilizce–Türkçe sayfası istenir. Cambridge sekmesine geçince Cambridge’in İngilizce sayfası da okunur. Kartta ilk açıklama ve ona ait ilk örnek cümle, kelime türü, telaffuz yazımı ve kaynak bağlantısı gösterilir. Türkçe karşılık Cambridge Learner’s Dictionary sayfasından gelir.
 
@@ -69,3 +69,11 @@ npm run test:e2e -- --config=playwright.live.config.js
 30 Ekim 2026 denemesinde **reliable**, **curious**, **improve** için Oxford İngilizce, Cambridge İngilizce ve Cambridge İngilizce–Türkçe sayfalarının 9/9’u alınıp ayrıştırıldı. Yüklü eklentide de iki İngilizce kaynak ve Türkçe karşılık alındı. Bu anlık erişim sonucudur; gelecekteki erişimi garanti etmez.
 
 İlk Playwright kurulumunda `npx playwright install chromium` gerekebilir.
+
+## Logo
+
+Seçilen yön: **04 / Kelime işareti**. Mavi kitap ayracı içinde beyaz açılış alıntıları ve lacivert serif sözlook yazısı. Simge, açılır pencere, seçenekler sayfası, sözlük kartı ve web önizlemesinde kullanılır.
+
+Vektör kaynak: `extension/brand/mark.svg`. İlk tasarım referansı: `docs/brand/04-kelime-isareti-reference.png`. Arayüz yazısı sistemdeki Georgia serif yazı tipiyle oluşturulur; konsept görselindeki özel harf çiziminin birebir font dosyası değildir.
+
+`npm run icons` vektör kaynaktan şeffaf 16, 32, 48 ve 128 piksel PNG ikonları ve içerik betiği için `brand/mark.js` üretir. İkonlar repoya dahildir; normal kurulumda yeniden üretmek gerekmez.

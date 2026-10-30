@@ -1,0 +1,55 @@
+import { test, expect } from '@playwright/test';
+test('lookup, source switch, saved words, search and removal', async ({ page }) => {
+  await page.goto('/');
+  await page.getByRole('button', { name: 'reliable' }).click();
+  const card = page.getByRole('dialog');
+  await expect(card).toBeVisible();
+  await expect(card.getByText('güvenilir', { exact: true })).toBeVisible();
+  await expect(card.getByText('Sözlook örnek açıklaması')).toBeVisible();
+  await card.getByRole('tab', { name: 'Cambridge' }).click();
+  await expect(card.getByRole('link', { name: 'Kaynağı aç', exact: true })).toHaveAttribute('href', /cambridge/);
+  await card.getByRole('button', { name: 'Kaydet', exact: true }).click();
+  await expect(card.getByRole('button', { name: 'Kaydedildi', exact: true })).toBeVisible();
+  await page.screenshot({ path: 'test-results/sozlook-desktop.png' });
+  await page.goto('/extension/popup.html');
+  await expect(page.getByText('1 kelime kaydettin')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'reliable', exact: true })).toBeVisible();
+  await page.getByRole('searchbox').fill('xyz');
+  await expect(page.getByText('Eşleşen kelime bulunamadı.')).toBeVisible();
+  await page.getByRole('searchbox').fill('güvenilir');
+  await expect(page.getByRole('link', { name: 'reliable', exact: true })).toBeVisible();
+  await page.reload();
+  await expect(page.getByText('1 kelime kaydettin')).toBeVisible();
+  await page.getByRole('button', { name: 'reliable kaydını kaldır' }).click();
+  await expect(page.getByText('İlk kelimen seni bekliyor.')).toBeVisible();
+});
+test('real text selection launches card; Escape closes it', async ({ page }) => {
+  await page.goto('/');
+  await page.locator('#reliable').dblclick();
+  await page.getByRole('button', { name: 'Sözlook ile bak' }).click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await page.keyboard.press('Escape');
+  await expect(page.getByRole('dialog')).toBeHidden();
+});
+test('unknown words link to actual dictionaries without fabricated definitions', async ({ page }) => {
+  await page.goto('/');
+  await page.evaluate(() => window.SozlookPreview.open('serendipity', document.querySelector('#reliable')));
+  const card = page.getByRole('dialog');
+  await expect(card.getByText('Türkçe karşılığına bak ↗')).toBeVisible();
+  await expect(card.getByText('Sözlook örnek açıklaması')).toBeHidden();
+  await expect(card.getByRole('link', { name: 'Kaynağı aç', exact: true })).toHaveAttribute('href', /serendipity/);
+});
+test('mobile card fits, tabs work by keyboard and content is safe', async ({ page }) => {
+  await page.setViewportSize({ width: 375, height: 812 });
+  await page.goto('/');
+  await page.getByRole('button', { name: 'reliable' }).click();
+  const card = page.getByRole('dialog');
+  const box = await card.boundingBox();
+  expect(box.x).toBeGreaterThanOrEqual(0); expect(box.x + box.width).toBeLessThanOrEqual(375); expect(box.y + box.height).toBeLessThanOrEqual(812);
+  await card.getByRole('tab', { name: 'Oxford' }).focus();
+  await page.keyboard.press('ArrowRight');
+  await expect(card.getByRole('tab', { name: 'Cambridge' })).toHaveAttribute('aria-selected', 'true');
+  await page.evaluate(() => window.SozlookPreview.open('<img src=x onerror=alert(1)>', document.querySelector('#reliable')));
+  await expect(card.getByRole('heading')).toHaveText('<img src=x onerror=alert(1)>');
+  await expect(card.locator('img')).toHaveCount(0);
+});

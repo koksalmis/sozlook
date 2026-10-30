@@ -1,0 +1,16 @@
+{
+  "name": "sozlook",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sözlook — Oku. Anla. Öğren.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:e2e": "playwright test",
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  }
+}

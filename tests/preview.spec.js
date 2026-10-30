@@ -26,13 +26,52 @@ test('lookup, source switch, saved words, search and removal', async ({ page }) 
   await page.getByRole('button', { name: 'reliable kaydını kaldır' }).click();
   await expect(page.getByText('İlk kelimen seni bekliyor.')).toBeVisible();
 });
-test('real text selection launches card; Escape closes it', async ({ page }) => {
+test('text selection opens card automatically by default; Escape closes it', async ({ page }) => {
   await page.goto('/');
   await page.locator('#reliable').dblclick();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await expect(page.getByRole('button', { name: 'Sözlook ile bak' })).toBeHidden();
+  await page.keyboard.press('Escape');
+  await expect(page.getByRole('dialog')).toBeHidden();
+});
+test('opening preference persists and changes behavior in already open pages', async ({ page, context }) => {
+  await page.goto('/');
+  const settings = await context.newPage();
+  await settings.goto('/extension/popup.html');
+  await expect(settings.getByRole('radio', { name: /Kelime seçince otomatik aç/ })).toBeChecked();
+  await settings.getByRole('radio', { name: 'Düğmeye tıklayınca aç' }).check();
+  await expect(settings.getByText('Tercihin kaydedildi.')).toBeVisible();
+  await page.locator('#reliable').dblclick();
+  await expect(page.getByRole('button', { name: 'Sözlook ile bak' })).toBeVisible();
+  await expect(page.getByRole('dialog')).toBeHidden();
   await page.getByRole('button', { name: 'Sözlook ile bak' }).click();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await settings.reload();
+  await expect(settings.getByRole('radio', { name: 'Düğmeye tıklayınca aç' })).toBeChecked();
+  await settings.getByRole('radio', { name: /Kelime seçince otomatik aç/ }).check();
+  await expect(page.getByRole('dialog')).toBeHidden();
+  await page.locator('#reliable').dblclick();
+  await expect(page.getByRole('dialog')).toBeVisible();
+  await settings.close();
+});
+test('keyboard selection opens on Shift release and shortcut works in click mode', async ({ page }) => {
+  await page.goto('/');
+  await page.evaluate(() => {
+    const range = document.createRange(); range.selectNodeContents(document.querySelector('#reliable'));
+    const selection = getSelection(); selection.removeAllRanges(); selection.addRange(range);
+  });
+  await page.keyboard.press('Shift');
   await expect(page.getByRole('dialog')).toBeVisible();
   await page.keyboard.press('Escape');
   await expect(page.getByRole('dialog')).toBeHidden();
+  await page.evaluate(() => {
+    localStorage.setItem('sozlook-opening-mode', 'click');
+    window.dispatchEvent(new StorageEvent('storage', { key: 'sozlook-opening-mode', newValue: 'click' }));
+  });
+  await page.locator('#reliable').dblclick();
+  await expect(page.getByRole('button', { name: 'Sözlook ile bak' })).toBeVisible();
+  await page.keyboard.press('Alt+Shift+KeyS');
+  await expect(page.getByRole('dialog')).toBeVisible();
 });
 test('unknown words link to actual dictionaries without fabricated definitions', async ({ page }) => {
   await page.goto('/');

@@ -44,6 +44,15 @@
   let revision = 0;
   let focusBeforeOpen = null;
   let savePending = false;
+  let openingMode = 'auto';
+  let selectionTimer;
+  const modeReady = SozlookStore.readOpeningMode().then(mode => { openingMode = mode; }).catch(() => {});
+  globalThis.chrome?.storage?.onChanged?.addListener((changes, area) => {
+    if (area === 'local' && changes.openingMode) { openingMode = changes.openingMode.newValue === 'click' ? 'click' : 'auto'; close(); }
+  });
+  window.addEventListener('storage', event => {
+    if (event.key === 'sozlook-opening-mode' || event.key === null) { openingMode = event.newValue === 'click' ? 'click' : 'auto'; close(); }
+  });
   const setText = (sel, value) => { $(sel).textContent = value; };
   const failureText = status => ({
     blocked: 'Sözlük sitesi bu isteğe izin vermedi. Kaynak sayfasını açarak okuyabilirsin.',
@@ -135,6 +144,7 @@
     catch { if (ticket === revision) setText('.status', 'Kayıtlar okunamadı. Sayfayı yenileyip tekrar dene.'); }
   }
   function close() {
+    clearTimeout(selectionTimer);
     revision++; card.hidden = true; launcher.hidden = true;
     if (focusBeforeOpen?.isConnected && focusBeforeOpen !== document.body) focusBeforeOpen.focus({ preventScroll: true });
   }
@@ -173,11 +183,11 @@
       }
     });
   });
-  function readSelection() {
+  function readSelection({ forceOpen = false } = {}) {
     const selection = window.getSelection();
     if (!selection || !selection.rangeCount || selection.isCollapsed) { launcher.hidden = true; return; }
     const parent = selection.anchorNode?.parentElement;
-    if (parent?.closest('input,textarea,[contenteditable]:not([contenteditable="false"])')) return;
+    if (parent?.closest('input,textarea,[contenteditable]:not([contenteditable="false"])')) { launcher.hidden = true; return; }
     const value = selection.toString();
     if (!isLookup(value)) { launcher.hidden = true; return; }
     const range = selection.getRangeAt(0);
@@ -191,13 +201,22 @@
     launcher.style.left = `${Math.max(8, Math.min(rect.right + 7, innerWidth - 44))}px`;
     launcher.style.top = `${Math.max(8, Math.min(rect.bottom + 5, innerHeight - 42))}px`;
     launcher.hidden = false;
+    if (forceOpen || openingMode === 'auto') open();
   }
-  document.addEventListener('pointerup', e => { if (e.composedPath().includes(host)) return; setTimeout(readSelection, 0); });
+  function scheduleSelection() {
+    clearTimeout(selectionTimer);
+    const ticket = revision;
+    selectionTimer = setTimeout(async () => {
+      await modeReady;
+      if (ticket === revision) readSelection();
+    }, 80);
+  }
+  document.addEventListener('pointerup', e => { if (e.composedPath().includes(host)) return; scheduleSelection(); });
   document.addEventListener('pointerdown', e => { if (!e.composedPath().includes(host)) close(); });
-  document.addEventListener('keyup', e => { if (e.shiftKey && !e.composedPath().includes(host)) readSelection(); });
+  document.addEventListener('keyup', e => { if (e.key === 'Shift' && !e.composedPath().includes(host) && !e.altKey) scheduleSelection(); });
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') close();
-    if (e.altKey && e.shiftKey && e.code === 'KeyS') { e.preventDefault(); readSelection(); if (!launcher.hidden) open(); }
+    if (e.altKey && e.shiftKey && e.code === 'KeyS') { e.preventDefault(); clearTimeout(selectionTimer); readSelection({ forceOpen: true }); }
   });
   shadow.addEventListener('keydown', e => {
     if (e.key !== 'Tab' || card.hidden) return;

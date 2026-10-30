@@ -32,7 +32,7 @@ test('installed extension makes real dictionary requests without a local backend
     const page = await context.newPage();
     await page.goto('http://127.0.0.1:4173/preview/fixture.html');
     await page.locator('#word').dblclick();
-    await page.getByRole('button', { name: 'Sözlook ile bak' }).click();
+    await expect(page.getByRole('dialog')).toBeVisible();
     const card = page.getByRole('dialog');
     await expect(card.locator('[role=tabpanel]')).toHaveAttribute('aria-busy', 'false', { timeout: 20_000 });
     await expect(card.locator('.translation')).not.toHaveText('Türkçesi yükleniyor…', { timeout: 20_000 });

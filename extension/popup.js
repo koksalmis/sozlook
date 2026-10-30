@@ -3,6 +3,26 @@
   const list = document.querySelector('#words');
   const status = document.querySelector('#status');
   const search = document.querySelector('#search');
+  const modes = [...document.querySelectorAll('[name="openingMode"]')];
+  const settingsStatus = document.querySelector('#settings-status');
+  let openingMode = 'auto';
+  async function refreshOpeningMode() {
+    try {
+      openingMode = await SozlookStore.readOpeningMode();
+      modes.forEach(input => { input.checked = input.value === openingMode; input.disabled = false; });
+    } catch { settingsStatus.textContent = 'Ayar okunamadı. Menüyü yeniden açmayı dene.'; }
+  }
+  modes.forEach(input => input.addEventListener('change', async () => {
+    const previous = openingMode;
+    modes.forEach(mode => { mode.disabled = true; });
+    try {
+      await SozlookStore.writeOpeningMode(input.value); openingMode = input.value;
+      settingsStatus.textContent = 'Tercihin kaydedildi.';
+    } catch {
+      modes.forEach(mode => { mode.checked = mode.value === previous; });
+      settingsStatus.textContent = 'Tercih kaydedilemedi. Tekrar dene.';
+    } finally { modes.forEach(mode => { mode.disabled = false; }); }
+  }));
   const text = (tag, cls, value) => { const el = document.createElement(tag); el.className = cls; el.textContent = value; return el; };
   function render() {
     const query = search.value.toLocaleLowerCase('tr');
@@ -41,4 +61,5 @@
   window.addEventListener('focus', refresh);
   globalThis.chrome?.storage?.onChanged?.addListener(refresh);
   refresh();
+  refreshOpeningMode();
 })();

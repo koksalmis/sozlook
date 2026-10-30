@@ -2,7 +2,7 @@
 
 **Oku. Anla. Öğren.** İngilizce okurken seçtiğin kelimenin Oxford ve Cambridge anlamlarına bak, Türkçesini gör, dinle ve cümlesiyle kaydet.
 
-## 0.2 — API anahtarı olmadan sayfa okuma denemesi
+## 0.2.1 — Otomatik açılma ve API’siz sözlük okuma
 
 Sözlük içeriği artık örnek veriden gelmez. Kartı açtığında Oxford’un kelime sayfası ve Cambridge’in İngilizce–Türkçe sayfası istenir. Cambridge sekmesine geçince Cambridge’in İngilizce sayfası da okunur. Kartta ilk açıklama ve ona ait ilk örnek cümle, kelime türü, telaffuz yazımı ve kaynak bağlantısı gösterilir. Türkçe karşılık Cambridge Learner’s Dictionary sayfasından gelir.
 
@@ -17,7 +17,7 @@ npm ci
 npm run dev
 ```
 
-http://127.0.0.1:4173 adresini aç. **reliable** düğmesine bas veya makalede bir kelime seçip mavi Sözlook düğmesini aç.
+http://127.0.0.1:4173 adresini aç. **reliable** düğmesine bas veya makalede bir kelime seç; sözlük kartı otomatik açılır.
 
 Web önizlemesinde tarayıcılar arası erişim kısıtları nedeniyle sayfaları yerel Node sunucusu alır. Sunucu yalnızca bilgisayarın loopback adresini dinler, sadece iki sabit sözlük alanına istek gönderir. Kurulu eklenti bu sunucuya ihtiyaç duymaz.
 
@@ -27,7 +27,8 @@ Web önizlemesinde tarayıcılar arası erişim kısıtları nedeniyle sayfalar�
 2. Chrome’da `chrome://extensions` aç, **Geliştirici modu**nu etkinleştir.
 3. **Paketlenmemiş öğe yükle** ile `dist/sozlook` klasörünü seç. Daha önce yüklediysen eklentinin **Yenile** düğmesine bas.
 4. Yeni sürüm için Oxford ve Cambridge alanlarına erişim izinlerini kabul et; açık web sayfalarını yenile.
-5. Bir İngilizce kelimeyi veya en fazla beş kelimelik ifadeyi seç. Mavi düğmeye bas veya **Alt + Shift + S** kullan. Escape ile kapat.
+5. Bir İngilizce kelimeyi veya en fazla beş kelimelik ifadeyi seç. Kart varsayılan olarak otomatik açılır. Escape ile kapat.
+6. Chrome araç çubuğundaki **Sözlook** menüsünde **Sözlük kartı ne zaman açılsın?** bölümünden **Düğmeye tıklayınca aç** seçeneğine geçebilirsin. Tercihin cihazda saklanır ve açık sayfalara da uygulanır. **Alt + Shift + S** iki modda da kartı açar.
 
 Tarayıcının kendi sayfaları, Chrome Web Store ve dahili PDF görüntüleyicisi gibi korumalı yüzeylerde çalışmaz. Üst sayfadaki normal metin seçimini destekler; giriş alanlarına ve düzenlenebilir metinlere müdahale etmez.
 

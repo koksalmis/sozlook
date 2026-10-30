@@ -19,7 +19,6 @@ test('installed extension selects and persists words on an ordinary web page', a
     await page.goto('http://127.0.0.1:4173/preview/fixture.html');
     await expect(page.locator('#sozlook-extension')).toHaveCount(1);
     await page.locator('#word').dblclick();
-    await page.getByRole('button', { name: 'Sözlook ile bak' }).click();
     const card = page.getByRole('dialog');
     await expect(card.getByText('güvenilir', { exact: true })).toBeVisible();
     await expect(card.getByText('Oxford test: a friend who keeps a promise.')).toBeVisible();
@@ -32,7 +31,21 @@ test('installed extension selects and persists words on an ordinary web page', a
     expect(stored[0]).not.toHaveProperty('definition');
     await page.reload();
     await page.locator('#word').dblclick();
-    await page.getByRole('button', { name: 'Sözlook ile bak' }).click();
     await expect(card.getByRole('button', { name: 'Kaydedildi', exact: true })).toBeVisible();
+    const settings = await context.newPage();
+    await settings.goto(`chrome-extension://${new URL(worker.url()).host}/popup.html`);
+    await settings.getByRole('radio', { name: 'Düğmeye tıklayınca aç' }).check();
+    await expect(card).toBeHidden();
+    await page.locator('#word').dblclick();
+    await expect(page.getByRole('button', { name: 'Sözlook ile bak' })).toBeVisible();
+    await expect(card).toBeHidden();
+    await page.getByRole('button', { name: 'Sözlook ile bak' }).click();
+    await expect(card).toBeVisible();
+    await settings.reload();
+    await expect(settings.getByRole('radio', { name: 'Düğmeye tıklayınca aç' })).toBeChecked();
+    await settings.getByRole('radio', { name: /Kelime seçince otomatik aç/ }).check();
+    await expect(card).toBeHidden();
+    await page.locator('#word').dblclick();
+    await expect(card).toBeVisible();
   } finally { await context.close(); await rm(dir, { recursive: true, force: true }); }
 });

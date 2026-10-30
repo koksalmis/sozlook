@@ -1,12 +1,15 @@
 import { test, expect } from '@playwright/test';
+import { mockLookups } from './fixtures.js';
+test.beforeEach(async ({ page }) => mockLookups(page));
 test('lookup, source switch, saved words, search and removal', async ({ page }) => {
   await page.goto('/');
   await page.getByRole('button', { name: 'reliable' }).click();
   const card = page.getByRole('dialog');
   await expect(card).toBeVisible();
   await expect(card.getByText('güvenilir', { exact: true })).toBeVisible();
-  await expect(card.getByText('Sözlook örnek açıklaması')).toBeVisible();
+  await expect(card.getByText('Oxford test: a friend who keeps a promise.')).toBeVisible();
   await card.getByRole('tab', { name: 'Cambridge' }).click();
+  await expect(card.getByText('Cambridge test: a person who does what they promise.')).toBeVisible();
   await expect(card.getByRole('link', { name: 'Kaynağı aç', exact: true })).toHaveAttribute('href', /cambridge/);
   await card.getByRole('button', { name: 'Kaydet', exact: true }).click();
   await expect(card.getByRole('button', { name: 'Kaydedildi', exact: true })).toBeVisible();
@@ -16,7 +19,7 @@ test('lookup, source switch, saved words, search and removal', async ({ page }) 
   await expect(page.getByRole('link', { name: 'reliable', exact: true })).toBeVisible();
   await page.getByRole('searchbox').fill('xyz');
   await expect(page.getByText('Eşleşen kelime bulunamadı.')).toBeVisible();
-  await page.getByRole('searchbox').fill('güvenilir');
+  await page.getByRole('searchbox').fill('reliable');
   await expect(page.getByRole('link', { name: 'reliable', exact: true })).toBeVisible();
   await page.reload();
   await expect(page.getByText('1 kelime kaydettin')).toBeVisible();
@@ -36,7 +39,7 @@ test('unknown words link to actual dictionaries without fabricated definitions',
   await page.evaluate(() => window.SozlookPreview.open('serendipity', document.querySelector('#reliable')));
   const card = page.getByRole('dialog');
   await expect(card.getByText('Türkçe karşılığına bak ↗')).toBeVisible();
-  await expect(card.getByText('Sözlook örnek açıklaması')).toBeHidden();
+  await expect(card.getByText('Bu kelime için sözlük sayfası bulunamadı. Kaynakta aramayı deneyebilirsin.')).toBeVisible();
   await expect(card.getByRole('link', { name: 'Kaynağı aç', exact: true })).toHaveAttribute('href', /serendipity/);
 });
 test('mobile card fits, tabs work by keyboard and content is safe', async ({ page }) => {

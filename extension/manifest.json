@@ -1,9 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Sözlook",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "İngilizce kelimeleri seç, anlamlarına bak ve cümleleriyle kaydet.",
   "permissions": ["storage"],
+  "host_permissions": ["https://www.oxfordlearnersdictionaries.com/*", "https://dictionary.cambridge.org/*"],
+  "background": { "service_worker": "background.js" },
   "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
   "action": {
     "default_title": "Sözlook · Kelimelerim",
@@ -11,7 +13,7 @@
   },
   "content_scripts": [{
     "matches": ["http://*/*", "https://*/*"],
-    "js": ["data.js", "core.js", "storage.js", "content.js"],
+    "js": ["core.js", "storage.js", "parser.js", "lookup.js", "content.js"],
     "run_at": "document_idle"
   }]
 }

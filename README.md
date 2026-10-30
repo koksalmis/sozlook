@@ -1,47 +1,53 @@
 # Sözlook
 
-**Oku. Anla. Öğren.** İngilizce okurken seçtiğin kelimenin anlamına bak, dinle ve cümlesiyle kaydet.
+**Oku. Anla. Öğren.** İngilizce okurken seçtiğin kelimenin Oxford ve Cambridge anlamlarına bak, Türkçesini gör, dinle ve cümlesiyle kaydet.
 
-Seçilen tasarım: beyaz/mavi sözlük kartı, Oxford–Cambridge sekmeleri, altta Dinle / Kaydet / Kaynağı aç araç çubuğu.
+## 0.2 — API anahtarı olmadan sayfa okuma denemesi
 
-## Başlat
+Sözlük içeriği artık örnek veriden gelmez. Kartı açtığında Oxford’un kelime sayfası ve Cambridge’in İngilizce–Türkçe sayfası istenir. Cambridge sekmesine geçince Cambridge’in İngilizce sayfası da okunur. Kartta ilk açıklama ve ona ait ilk örnek cümle, kelime türü, telaffuz yazımı ve kaynak bağlantısı gösterilir. Türkçe karşılık Cambridge Learner’s Dictionary sayfasından gelir.
 
-Node.js 22+ ile:
+Bu deneysel bir kişisel geliştirme sürümüdür. Erişim engellenebilir ve sayfa yapısı değişebilir; kesintisiz çalışma garantisi yoktur. Erişim engelleri, CAPTCHA veya ücretli içerik aşılmaz. Başarısız istek otomatik tekrarlanmaz; **Kaynağı aç** bağlantısı sunulur. Kişisel denemenin çalışması, kaynak içeriğini herkese açık bir üründe yeniden yayımlama hakkı anlamına gelmez. Mağaza yayını yapılmamıştır.
+
+## Web önizlemesi
+
+Node.js 22+:
 
 ```sh
 npm ci
 npm run dev
 ```
 
-Önizleme: http://127.0.0.1:4173. `reliable` düğmesine bas veya makalede bir kelime seçip mavi Sözlook düğmesini aç.
+http://127.0.0.1:4173 adresini aç. **reliable** düğmesine bas veya makalede bir kelime seçip mavi Sözlook düğmesini aç.
 
-## Chrome eklentisini yükle
+Web önizlemesinde tarayıcılar arası erişim kısıtları nedeniyle sayfaları yerel Node sunucusu alır. Sunucu yalnızca bilgisayarın loopback adresini dinler, sadece iki sabit sözlük alanına istek gönderir. Kurulu eklenti bu sunucuya ihtiyaç duymaz.
+
+## Chrome eklentisini yükle / güncelle
 
 1. `npm run build` çalıştır.
 2. Chrome’da `chrome://extensions` aç, **Geliştirici modu**nu etkinleştir.
-3. **Paketlenmemiş öğe yükle** ile `dist/sozlook` klasörünü seç.
-4. Mevcut web sayfalarını yenile. Bir İngilizce kelimeyi veya en fazla beş kelimelik ifadeyi seç.
-5. Mavi sözlük düğmesine bas veya **Alt + Shift + S** kısayolunu kullan. Escape ile kapat.
+3. **Paketlenmemiş öğe yükle** ile `dist/sozlook` klasörünü seç. Daha önce yüklediysen eklentinin **Yenile** düğmesine bas.
+4. Yeni sürüm için Oxford ve Cambridge alanlarına erişim izinlerini kabul et; açık web sayfalarını yenile.
+5. Bir İngilizce kelimeyi veya en fazla beş kelimelik ifadeyi seç. Mavi düğmeye bas veya **Alt + Shift + S** kullan. Escape ile kapat.
 
-Tarayıcının kendi sayfaları, Chrome Web Store ve dahili PDF görüntüleyicisi gibi korumalı yüzeylerde çalışmaz. İlk sürüm üst sayfadaki normal metin seçimini destekler; giriş alanlarına ve düzenlenebilir metinlere müdahale etmez.
+Tarayıcının kendi sayfaları, Chrome Web Store ve dahili PDF görüntüleyicisi gibi korumalı yüzeylerde çalışmaz. Üst sayfadaki normal metin seçimini destekler; giriş alanlarına ve düzenlenebilir metinlere müdahale etmez.
 
-## Bu sürümün kapsamı
+## Nasıl çalışıyor?
 
-- Gerçek sayfalarda seçim düğmesi, konuma uyarlanan Shadow DOM kartı, klavye kontrolü.
-- Cihazın İngilizce sesiyle telaffuz; gerçek Oxford/Cambridge ses kaydı değildir.
-- Kelime, Türkçe karşılık (varsa), sayfa adresi ve metin bağlamıyla yerel kayıt.
-- Eklenti menüsünde kelime arama, kaldırma ve JSON dışa aktarma.
-- Eklentisiz web önizlemesi; aynı kart kodunu kullanır.
+- `sources.js`: izin verilen sözlük adreslerini üretir; 12 saniyelik süre ve 2 MB yanıt sınırıyla HTML alır. Yönlendirmeler aynı alanla sınırlıdır.
+- `background.js`: eklentinin arka plan çalışanı HTTP isteklerini yapar. Anahtar ve haricî sunucu yoktur.
+- `parser.js`: HTML’yi etkinleşmeyen bir template içinde ayrıştırır; yalnızca metin alanlarını çıkarır. Kaynak sayfanın scriptleri, görselleri veya HTML’si okuduğun sayfaya eklenmez.
+- `lookup.js` ve `content.js`: yükleniyor / sonuç / hata durumlarını, kaynak sekmelerini ve eski isteklerin yeni kelimeyi bozmamasını yönetir.
+- Seslendirme cihazın İngilizce sesiyle yapılır; sözlük ses kaydı değildir.
 
-**Oxford ve Cambridge API içerikleri henüz bağlı değildir.** Kartta bu durum açıkça yazılır. 12 kelime/ifade için özgün Sözlook örnek açıklamaları bulunur; Oxford/Cambridge’den alınmamıştır. Sekmeler ilgili gerçek sözlük bağlantısını değiştirir. Diğer kelimelerde uydurma anlam gösterilmez; İngilizce ve Türkçe sözlük sayfalarına yönlendirilir. Bağlama göre otomatik çeviri henüz yoktur.
+İlk sözlük anlamı gösterilir; cümleye göre otomatik anlam seçimi yoktur. Çekimli kelimeler ve deyimler, sözlüklerin kelime sayfası/yönlendirme yapısına göre bulunamayabilir. Diğer anlamlar için kaynağı aç.
 
-## Veri ve izinler
+## Kayıtlar ve veri
 
-`storage` izni kelimeleri `chrome.storage.local` içinde tutar. HTTP/HTTPS sayfalarına içerik betiği eklenir; sayfa metni veya seçimler sunucuya gönderilmez. Yalnızca Kaydet’e basıldığında seçilen kelime, kısa bağlam ve sayfa adresi saklanır. Kaynağı açma işlemi ilgili sözlük sitesini yeni sekmede açar. Web önizlemesinde kayıtlar localStorage’a yazılır. JSON dışa aktarımlarında kayıtlı cümleler ve sayfa adresleri de yer alır.
-
-## Sonraki adım: gerçek sözlük verisi
-
-Oxford’un [resmî API’si](https://developer.oxforddictionaries.com/) ve Cambridge’in [geliştirici programı](https://dictionary.cambridge.org/develop) üzerinden uygun erişim/lisans alınmalı. Erişim anahtarları eklentiye gömülmemeli; sunucu tarafındaki sağlayıcı katmanında tutulmalı. Türkçe karşılık sağlayıcısı ayrıca seçilmeli. Gerçek yanıtlar ile kaynak etiketleri bağlandıktan sonra örnek veri kaldırılabilir. Bu prototip mağazada yayımlanmamıştır.
+- Sözlük sayfalarına yalnızca seçilen kelime/ifade gönderilir; okuduğun sayfanın cümlesi ve adresi gönderilmez.
+- Sözlük isteklerinde oturum çerezleri gönderilmez. Normal ağ erişiminde IP adresin ilgili sözlük tarafından görülebilir.
+- Toplu indirme, arka planda tarama ve kalıcı sözlük önbelleği yoktur. Çıkarılan açıklamalar yalnızca kartın geçici belleğinde tutulur.
+- **Kaydet** kelimeyi, senin okuduğun sayfadaki kısa bağlamı, sayfa adresini ve kayıt tarihini yerel olarak tutar. Çekilen sözlük açıklamaları ve Türkçe karşılık kalıcı kayda/dışa aktarıma eklenmez.
+- Eklentide `chrome.storage.local`, web önizlemesinde `localStorage` kullanılır. Kelimeler menüsünde arama, kaldırma ve JSON dışa aktarma vardır. Önceki sürümden kalan kayıtlar değiştirilmez.
 
 ## Kontroller
 
@@ -50,5 +56,15 @@ npm test
 npm run test:e2e
 npm run build
 ```
+
+Normal tarayıcı testleri özgün, yapay test HTML’siyle çalışır; üçüncü taraf sitelere bağımlı değildir. İstek engeli, eski yanıtlar, mobil yerleşim, klavye kontrolü, gerçek eklenti mesajlaşması, kayıt kalıcılığı ve etkinleşmeyen HTML ayrıştırma kontrol edilir.
+
+Canlı sözlük denemesi ayrı olarak çalıştırılır:
+
+```sh
+npm run test:e2e -- --config=playwright.live.config.js
+```
+
+30 Ekim 2026 denemesinde **reliable**, **curious**, **improve** için Oxford İngilizce, Cambridge İngilizce ve Cambridge İngilizce–Türkçe sayfalarının 9/9’u alınıp ayrıştırıldı. Yüklü eklentide de iki İngilizce kaynak ve Türkçe karşılık alındı. Bu anlık erişim sonucudur; gelecekteki erişimi garanti etmez.
 
 İlk Playwright kurulumunda `npx playwright install chromium` gerekebilir.

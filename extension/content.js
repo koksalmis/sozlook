@@ -32,7 +32,7 @@
     <div class="pronunciation"><span class="ipa"></span><button class="mini speak" aria-label="Telaffuzu dinle">${icon('sound')}</button></div>
     <span class="type"></span><div class="translation"></div>
     <div class="tabs" role="tablist" aria-label="Sözlük kaynağı"><button class="tab" role="tab" data-source="oxford" aria-selected="true" aria-controls="sozlook-entry" id="sozlook-oxford">Oxford</button><button class="tab" role="tab" data-source="cambridge" aria-selected="false" aria-controls="sozlook-entry" id="sozlook-cambridge" tabindex="-1">Cambridge</button></div>
-    <div role="tabpanel" id="sozlook-entry" aria-labelledby="sozlook-oxford"><p class="label">Sözlook örnek açıklaması</p><p class="definition"></p><p class="example"></p><div class="context" hidden></div><p class="source-info"></p><p class="notice"></p></div><p class="status" role="status" aria-live="polite"></p></div>
+    <div role="tabpanel" id="sozlook-entry" aria-labelledby="sozlook-oxford" aria-live="polite"><p class="label"></p><p class="definition"></p><p class="example"></p><div class="context" hidden></div><p class="source-info"></p><p class="notice"></p></div><p class="status" role="status" aria-live="polite"></p></div>
     <footer class="footer"><button class="tool speak">${icon('sound')}<span>Dinle</span></button><button class="tool save">${icon('save')}<span>Kaydet</span></button><a class="tool source-link" target="_blank" rel="noopener noreferrer">${icon('link')}<span>Kaynağı aç</span></a></footer>
   </section>`;
   const $ = selector => shadow.querySelector(selector);
@@ -45,6 +45,23 @@
   let focusBeforeOpen = null;
   let savePending = false;
   const setText = (sel, value) => { $(sel).textContent = value; };
+  const failureText = status => ({
+    blocked: 'Sözlük sitesi bu isteğe izin vermedi. Kaynak sayfasını açarak okuyabilirsin.',
+    not_found: 'Bu kelime için sözlük sayfası bulunamadı. Kaynakta aramayı deneyebilirsin.',
+    timeout: 'Sözlük sayfası zamanında yanıt vermedi. Kaynağı açarak devam edebilirsin.',
+    busy: 'Şu anda çok fazla istek var. Kartı biraz sonra yeniden açabilirsin.',
+    invalid_request: 'Bu seçim sözlük araması için uygun değil.'
+  })[status] || 'Sözlük içeriği okunamadı. Kaynağı açarak devam edebilirsin.';
+  function renderTranslation() {
+    const result = current.turkish;
+    $('.translation').replaceChildren();
+    if (result?.entry?.translation) setText('.translation', result.entry.translation);
+    else if (!result) setText('.translation', 'Türkçesi yükleniyor…');
+    else {
+      const a = document.createElement('a'); a.className = 'translation-link'; a.textContent = 'Türkçe karşılığına bak ↗';
+      a.href = links(current.word).turkish; a.target = '_blank'; a.rel = 'noopener noreferrer'; $('.translation').append(a);
+    }
+  }
   function renderSource() {
     if (!current) return;
     shadow.querySelectorAll('.tab').forEach(tab => {
@@ -53,15 +70,38 @@
       tab.tabIndex = active ? 0 : -1;
     });
     $('#sozlook-entry').setAttribute('aria-labelledby', `sozlook-${source}`);
-    $('.source-link').href = links(current.word)[source];
+    const result = current.results?.[source];
+    const entry = result?.entry;
+    $('.source-link').href = entry?.url || links(current.word)[source];
     const name = source === 'oxford' ? 'Oxford' : 'Cambridge';
+    const loading = !result;
+    $('#sozlook-entry').setAttribute('aria-busy', String(loading));
+    $('.label').hidden = false;
+    setText('.label', loading ? `${name} sayfası yükleniyor…` : entry ? `${name} · İngilizce açıklama` : `${name} · İçerik alınamadı`);
+    setText('.definition', entry?.definition || (loading ? 'Kelimenin anlamı kaynak sayfadan alınıyor.' : failureText(result.status)));
+    setText('.example', entry?.example || '');
+    setText('.ipa', entry?.ipa || 'İngilizce telaffuz');
+    $('.type').hidden = !entry?.type; setText('.type', entry?.type || '');
+    renderTranslation();
     const container = $('.source-info');
     container.replaceChildren();
     const a = document.createElement('a');
     a.textContent = `${name} sözlüğünde incele ↗`;
-    a.href = links(current.word)[source]; a.target = '_blank'; a.rel = 'noopener noreferrer';
+    a.href = entry?.url || links(current.word)[source]; a.target = '_blank'; a.rel = 'noopener noreferrer';
     container.append(a);
-    setText('.notice', `${name} API bağlantısı henüz etkin değil. ${current.entry ? 'Yukarıdaki açıklama Sözlook demo içeriğidir; sözlükten alınmamıştır.' : 'Bu kelime için yerel örnek bulunmuyor. Gerçek anlama kaynak bağlantısından ulaşabilirsin.'}`);
+    setText('.notice', entry ? `${entry.copyright}${current.turkish?.entry?.translation ? ' · Türkçe: Cambridge Learner’s Dictionary © Cambridge University Press' : ''} · İlk sözlük anlamı gösterilir; cümleye göre seçilmez.` : 'Ücretsiz sayfa okuma denemesi · Erişim engelleri aşılmaz.');
+  }
+  async function loadSource(selectedSource) {
+    if (!current || current.results?.[selectedSource] || current.pending?.has(selectedSource)) return;
+    const ticket = revision; const selected = current;
+    selected.pending.add(selectedSource);
+    const result = await SozlookLookup.lookup(selected.word, selectedSource);
+    if (ticket !== revision || current !== selected) return;
+    selected.results[selectedSource] = result; selected.pending.delete(selectedSource);
+    if (source === selectedSource) { renderSource(); layout(); }
+  }
+  function selectSource(selectedSource) {
+    source = selectedSource; renderSource(); layout(); loadSource(selectedSource);
   }
   function renderSave() {
     $('.save').classList.toggle('saved', saved);
@@ -80,23 +120,17 @@
     focusBeforeOpen = document.activeElement;
     launcher.hidden = true;
     source = 'oxford';
-    current.entry = SozlookSamples[current.word];
-    const entry = current.entry;
+    current.results = {}; current.pending = new Set(); current.turkish = null;
     setText('.word', current.word);
-    setText('.ipa', entry?.ipa || 'İngilizce telaffuz');
-    $('.type').hidden = !entry; setText('.type', entry?.type || '');
-    $('.translation').replaceChildren();
-    if (entry) setText('.translation', entry.tr);
-    else {
-      const a = document.createElement('a'); a.className = 'translation-link'; a.textContent = 'Türkçe karşılığına bak ↗';
-      a.href = links(current.word).turkish; a.target = '_blank'; a.rel = 'noopener noreferrer'; $('.translation').append(a);
-    }
-    $('.label').hidden = !entry;
-    setText('.definition', entry?.definition || 'İngilizce anlamını görmek için sözlüğü aç.');
-    setText('.example', entry?.example || '');
     $('.context').hidden = !current.context; setText('.context', current.context || '');
     setText('.status', ''); saved = false; renderSave(); renderSource();
     card.hidden = false; layout(); $('.close').focus({ preventScroll: true });
+    loadSource(source);
+    const selected = current;
+    SozlookLookup.lookup(selected.word, 'turkish').then(result => {
+      if (ticket !== revision || current !== selected) return;
+      selected.turkish = result; renderSource(); layout();
+    });
     try { const words = await SozlookStore.read(); if (ticket === revision) { saved = words.some(w => w.word === current.word); renderSave(); } }
     catch { if (ticket === revision) setText('.status', 'Kayıtlar okunamadı. Sayfayı yenileyip tekrar dene.'); }
   }
@@ -112,7 +146,7 @@
     try {
       const words = await SozlookStore.read();
       const exists = words.some(w => w.word === selected.word);
-      const next = exists ? words.filter(w => w.word !== selected.word) : [{ word: selected.word, translation: selected.entry?.tr || '', context: selected.context, url: location.href, title: document.title, savedAt: new Date().toISOString() }, ...words];
+      const next = exists ? words.filter(w => w.word !== selected.word) : [{ word: selected.word, translation: '', context: selected.context, url: location.href, title: document.title, savedAt: new Date().toISOString() }, ...words];
       await SozlookStore.write(next);
       if (ticket === revision) { saved = !exists; renderSave(); setText('.status', saved ? 'Kelimelerine eklendi.' : 'Kayıt kaldırıldı.'); layout(); }
       document.dispatchEvent(new Event('sozlook-saved'));
@@ -131,11 +165,11 @@
   $('.close').addEventListener('click', close);
   launcher.addEventListener('click', open);
   shadow.querySelectorAll('.tab').forEach(tab => {
-    tab.addEventListener('click', () => { source = tab.dataset.source; renderSource(); layout(); });
+    tab.addEventListener('click', () => selectSource(tab.dataset.source));
     tab.addEventListener('keydown', e => {
       if (['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(e.key)) {
         e.preventDefault(); source = e.key === 'Home' ? 'oxford' : e.key === 'End' ? 'cambridge' : source === 'oxford' ? 'cambridge' : 'oxford';
-        renderSource(); $(`[data-source="${source}"]`).focus(); layout();
+        selectSource(source); $(`[data-source="${source}"]`).focus();
       }
     });
   });

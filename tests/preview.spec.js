@@ -37,7 +37,7 @@ test('text selection opens card automatically by default; Escape closes it', asy
 test('opening preference persists and changes behavior in already open pages', async ({ page, context }) => {
   await page.goto('/');
   const settings = await context.newPage();
-  await settings.goto('/extension/popup.html');
+  await settings.goto('/extension/options.html');
   await expect(settings.getByRole('radio', { name: /Kelime seçince otomatik aç/ })).toBeChecked();
   await settings.getByRole('radio', { name: 'Düğmeye tıklayınca aç' }).check();
   await expect(settings.getByText('Tercihin kaydedildi.')).toBeVisible();

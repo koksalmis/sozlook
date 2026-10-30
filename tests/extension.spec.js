@@ -32,8 +32,12 @@ test('installed extension selects and persists words on an ordinary web page', a
     await page.reload();
     await page.locator('#word').dblclick();
     await expect(card.getByRole('button', { name: 'Kaydedildi', exact: true })).toBeVisible();
-    const settings = await context.newPage();
-    await settings.goto(`chrome-extension://${new URL(worker.url()).host}/popup.html`);
+    const menu = await context.newPage();
+    await menu.goto(`chrome-extension://${new URL(worker.url()).host}/popup.html`);
+    const opened = context.waitForEvent('page');
+    await menu.getByRole('link', { name: 'Seçenekler' }).click();
+    const settings = await opened;
+    await expect(settings).toHaveURL(/options\.html$/);
     await settings.getByRole('radio', { name: 'Düğmeye tıklayınca aç' }).check();
     await expect(card).toBeHidden();
     await page.locator('#word').dblclick();

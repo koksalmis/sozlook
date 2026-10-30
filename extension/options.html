@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="tr">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Sözlook · Seçenekler</title><link rel="stylesheet" href="options.css"></head>
+<body>
+  <header><a class="logo" href="popup.html" aria-label="Sözlook kelimelerim">s<span>ö</span>zlook<span>.</span></a><span>SEÇENEKLER</span></header>
+  <main>
+    <div class="intro"><p class="eyebrow">SANA GÖRE SÖZLOOK</p><h1>Okuma ritmini sen seç.</h1><p>Kelimeleri nasıl keşfetmek istediğine karar ver.</p></div>
+    <section class="setting" aria-labelledby="opening-title">
+      <div class="section-heading"><h2 id="opening-title">Sözlük kartının açılması</h2><p>Tercihin otomatik kaydedilir ve açık sayfalara da uygulanır.</p></div>
+      <fieldset><legend>Sözlük kartı ne zaman açılsın?</legend>
+        <label class="choice"><input type="radio" name="openingMode" value="auto" checked disabled><span class="choice-content"><span class="choice-title">Kelime seçince otomatik aç <small>Varsayılan</small></span><span class="description">Bir kelime veya kısa ifade seçtiğinde anlamı hemen yanında görünsün.</span></span></label>
+        <label class="choice"><input type="radio" name="openingMode" value="click" disabled><span class="choice-content"><span class="choice-title">Düğmeye tıklayınca aç</span><span class="description">Önce küçük Sözlook düğmesi görünsün; kartı istediğin zaman aç.</span></span></label>
+      </fieldset>
+      <p id="settings-status" role="status" aria-live="polite"></p>
+    </section>
+    <aside class="tip"><span class="tip-label">KÜÇÜK BİR KISAYOL</span><p>İki modda da <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> ile seçtiğin kelimenin kartını açabilirsin. <kbd>Esc</kbd> ile kapat.</p></aside>
+  </main>
+  <footer><span>Oku. Anla. Öğren.</span><span>Tercihlerin bu tarayıcıda saklanır.</span></footer>
+  <script src="storage.js"></script><script src="options.js"></script>
+</body></html>

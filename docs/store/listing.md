@@ -114,7 +114,7 @@ Diğer kategoriler işaretlenmez. Kayıtlı sayfa adresleri yalnızca cihazda ka
 - [x] I do not use or transfer user data for purposes that are unrelated to my item's single purpose
 - [x] I do not use or transfer user data to determine creditworthiness or for lending purposes
 
-**Privacy policy URL:** `docs/privacy.md` dosyasının herkese açık adresi.
+**Privacy policy URL:** https://koksalmis.github.io/sozlook/privacy.html
 
 ---
 

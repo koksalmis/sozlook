@@ -70,6 +70,15 @@ npm run test:e2e -- --config=playwright.live.config.js
 
 İlk Playwright kurulumunda `npx playwright install chromium` gerekebilir.
 
+## Chrome Web Store paketi
+
+```sh
+npm run package       # dist/sozlook-<sürüm>.zip — manifest ZIP kökünde, sürüm uyumu kontrol edilir
+npm run screenshots   # docs/store/images/ — mağaza ölçülerinde ekran görüntüleri ve tanıtım görselleri
+```
+
+Mağaza alanlarına girilecek metinler, izin gerekçeleri ve veri beyanları: `docs/store/listing.md`. Gizlilik politikası: `docs/privacy.md`.
+
 ## Logo
 
 Seçilen yön: **04 / Kelime işareti**. Mavi kitap ayracı içinde beyaz açılış alıntıları ve lacivert serif sözlook yazısı. Simge, açılır pencere, seçenekler sayfası, sözlük kartı ve web önizlemesinde kullanılır.

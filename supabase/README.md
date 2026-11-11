@@ -1,0 +1,47 @@
+# Sözlook bulut eşitlemesi (Supabase)
+
+Chrome eklentisindeki kayıtlı kelimeleri iOS uygulamasıyla eşitlemek için kullanılır. Eşitleme isteğe bağlıdır; giriş yapmayan kullanıcıda eklenti tamamen yerel çalışır.
+
+## Proje
+
+| | |
+|---|---|
+| Proje | `sozlook` · ref `fwiranhsgrzcnnnqkbba` |
+| Bölge | eu-central-1 (Frankfurt) |
+| API URL | `https://fwiranhsgrzcnnnqkbba.supabase.co` |
+| Publishable key | `sb_publishable_wDtWdYXfM2EFP9i4hzNfkw_NbAn5clc` |
+
+Publishable key istemcide (eklenti, iOS) bulunması için tasarlanmıştır; erişimi satır bazlı güvenlik (RLS) sınırlar. **Secret / service_role anahtarı hiçbir istemciye ve repoya konmaz.**
+
+## Şema
+
+`migrations/` altındaki SQL dosyaları sırayla uygulanır.
+
+`public.words`: kullanıcı başına kelime başına tek satır (`unique (user_id, word)`).
+
+| Sütun | Açıklama |
+|---|---|
+| `word` | Eklentinin `normalize()` ettiği kelime (küçük harf) |
+| `context`, `url`, `title` | Kelimenin bulunduğu cümle ve sayfa |
+| `translation` | Şimdilik boş; ileride kullanılacak |
+| `saved_at` | Kullanıcının kaydettiği an (istemciden gelir) |
+| `updated_at` | Son değişiklik, **her zaman sunucu saati** (tetikleyici yazar) |
+| `deleted_at` | Dolu ise kelime silinmiştir; diğer cihazın da silmesi için satır tutulur |
+
+RLS: `authenticated` rolü yalnızca `user_id = auth.uid()` olan satırları okuyup yazabilir. `anon` rolünün tabloya erişimi yoktur.
+
+## Giriş: e-posta + 6 haneli kod
+
+İstemci `signInWithOtp({ email })` ile kod ister, `verifyOtp({ email, token, type: 'email' })` ile oturum açar. Kodun e-postada görünmesi için panelde:
+
+1. **Authentication → Emails → Magic link** şablonunu `{{ .Token }}` içerecek şekilde değiştir.
+2. **Authentication → Sign In / Providers → Email**: "Email OTP Length" = 6.
+
+Supabase'in yerleşik e-posta servisi yalnızca organizasyon üyelerine ve saatte birkaç e-posta gönderir. Geliştirme için yeterlidir; herkese açık sürümden önce özel SMTP (ör. Resend) bağlanmalıdır.
+
+## Eşitleme kuralları (istemciler)
+
+- **Gönder:** yerelde değişen kelimeler `upsert(..., { onConflict: 'user_id,word' })`. Silme = `deleted_at = now()` ile güncelleme.
+- **Çek:** `updated_at > son_çekilen - 60 sn` olan satırlar (küçük örtüşme, saat/commit sırası farklarına karşı). Birleştirme idempotent.
+- **Çakışma:** aynı kelime iki yerde değiştiyse son yazan kazanır.
+- **İlk giriş:** yereldeki tüm kelimeler gönderilir, sonra buluttakiler çekilir; aynı kelime iki tarafta varsa eski `saved_at` korunur.

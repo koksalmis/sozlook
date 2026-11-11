@@ -1,0 +1,624 @@
+{{translation subpage}}
+==English==
+
+===Verb===
+
+====Translations====
+{{trans-top|to get into one's hands or control}}
+* Abkhaz: {{t|ab|агара}}
+* Afrikaans: {{t+|af|neem}}
+* Alabama: {{t|akz|isi}}
+* Albanian: {{t+|sq|marr}}
+* Altai:
+*: Southern Altai: {{t|alt|алар}}
+* Arabic: {{t+|ar|أَخَذَ}}
+*: Egyptian Arabic: {{t|arz|خد|tr=ḵad}}
+*: Hijazi Arabic: {{t|acw|أخذ|tr=ʔaḵad}}
+*: South Levantine Arabic: {{t|ajp|أخذ|tr=ʔáḵad}}
+* Aramaic:
+*: Syriac: {{t|syc|ܐܚܕ|tr=ʼeħað}}
+* Armenian: {{t+|hy|վերցնել}}, {{t+|hy|առնել}}
+* Aromanian: {{t|rup|ljeau}}, {{t|rup|ljau}}
+* Assamese: {{t|as|ল}}
+* Azerbaijani: {{t+|az|almaq}}, {{t+|az|götürmək}}
+* Bashkir: {{t|ba|алыу}}
+* Belarusian: {{t|be|браць|impf}}, {{t|be|ўзяць}}, {{t|be|узя́ць|pf}}
+* Bengali: {{t+|bn|গ্রহণ করা}}, {{t+|bn|নেওয়া}}
+* Breton: {{t+|br|kemer}}
+* Bulgarian: {{t+|bg|взе́мам|impf}}, {{t+|bg|взи́мам|impf}}, {{t+|bg|взе́ма|pf}}
+* Burmese: {{t+|my|ယူ}}
+* Buryat: {{t|bua|абаха}}
+* Catalan: {{t+|ca|agafar}}, {{t+|ca|prendre}}
+* Cebuano: {{t|ceb|kuha}}
+* Cherokee: {{t|chr|ᎠᎩᏍᏗ}}
+* Chinese:
+*: Cantonese: {{t+|yue|攞|tr=lo2}}
+*: Dungan: {{t|dng|на}}, {{t|dng|чү}}
+*: Mandarin: {{t+|cmn|拿|tr=ná}}, {{t+|cmn|取|tr=qǔ}}
+* Comorian:
+*: Ngazidja Comorian: {{t|zdj|usiha}}, {{t|zdj|usika}}
+* Czech: {{t+|cs|brát|impf}}, {{t+|cs|vzít|pf}}
+* Dalmatian: {{t|dlm|levur}}, {{t|dlm|prendar}}
+* Danish: {{t+|da|tage}}
+* Dutch: {{t+|nl|nemen}}, {{t+|nl|pakken}}
+* East Yugur: {{t|yuy|ab}}
+* Egyptian: {{t-egy|jṯj|h=iTi}}
+* Elfdalian: {{t|ovd|tågå}}
+* Esperanto: {{t+|eo|preni}}
+* Estonian: {{t+|et|võtma}}
+* Even: {{t|eve|гадай}}
+* Evenki: {{t|evn|гами}}
+* Faroese: {{t|fo|taka}}
+* Finnish: {{t+|fi|ottaa}}, {{t|fi|[[ottaa]] [[haltuun]]}}
+* French: {{t+|fr|prendre}}
+* Frisian:
+*: North Frisian:
+*:: Föhr-Amrum: {{t|frr|nem}}
+*:: Mooring: {{t|frr|naame}}
+* Friulian: {{t|fur|cjapâ}}, {{t|fur|čhapâ}}, {{t|fur|cjoli}}, {{t|fur|čholi}}, {{t|fur|piâ}}
+* Georgian: {{t|ka|აღება}}
+* German: {{t+|de|nehmen}}, {{t+|de|greifen}}
+*: Alemannic German: {{t|gsw|nää}}
+* Gothic: {{t|got|𐌽𐌹𐌼𐌰𐌽}}
+* Greek: {{t+|el|παίρνω}}
+*: Ancient Greek: {{t|grc|λαμβάνω}}, {{t|grc|αἱρέω}}
+* Greenlandic: {{t|kl|tiguaa}}
+* Haitian Creole: {{t|ht|pran}}
+* Hawaiian: {{t|haw|lawe}}
+* Hebrew: {{t+|he|לָקַח|tr=lakákh}}
+* Hindi: {{t+|hi|लेना}}
+* Hungarian: {{t+|hu|vesz}}, {{t+|hu|fog}}, {{t+|hu|megfog}}, {{t+|hu|megragad}}, {{t|hu|kézbe vesz}}
+* Icelandic: {{t+|is|taka}}, {{t+|is|nema}}
+* Indonesian: {{t+|id|ambil}}
+* Interlingua: {{t+|ia|prender}}
+* Irish: {{t|ga|tóg}}
+* Istriot: {{t|ist|ciapà}}
+* Italian: {{t+|it|prendere}}
+* Japanese: {{t+|ja|取る|tr=とる, toru}}, {{t+|ja|つかむ|tr=つかむ, tsukamu}}
+* Kaitag: {{t|xdq|цурса́ра|impf}}, {{t|xdq|цаса́ра|pf}}
+* Kalmyk: {{t|xal|авх}}
+* Kambera: {{t|xbr|piti}}, {{t|xbr|ngàndi}}
+* Kashmiri: {{t|ks|نیُٛن|tr=n'un}}, {{t|ks|ہیٛۆن|tr=h'on}}
+* Kaurna: {{t|zku|mankunthi}}
+* Kazakh: {{t+|kk|алу}}
+* Khalaj: {{t|klj|almaq}}
+* Khmer: {{t+|km|យក}}
+* Korean: {{t+|ko|잡다}}, {{t+|ko|쥐다}}
+* Kyrgyz: {{t+|ky|алуу}}
+* Lao: {{t|lo|ເອົາ}}
+* Latgalian: {{t|ltg|jimt}}
+* Latin: {{t+|la|capiō}}, {{t|la|prehendō}}, {{t+|la|sūmō}}
+* Latvian: {{t+|lv|ņemt}}
+* Lingala: {{t|ln|kamata}}
+* Lithuanian: {{t+|lt|imti}}
+* Lombard: {{t+|lmo|ciapà}}
+* Lü: {{t|khb|ᦀᧁ}}
+* Lutuv: {{t|clt|la}}
+* Luxembourgish: {{t|lb|huelen}}
+* Macedonian: {{t|mk|зема|impf}}, {{t|mk|грабнува|impf}}
+* Malay: {{t+|ms|ambil|alt=mengambil}}
+* Maltese: {{t|mt|ħa}}
+* Manchu: {{t|mnc|ᡤᠠᡳᠮᠪᡳ}}
+* Mandar: {{t|mdr|ala}}
+* Māori: {{t|mi|tango}}
+* Marathi: {{t|mr|घेणे}}
+* Mauritian Creole: {{t|mfe|pran}}
+* Mazanderani: {{t|mzn|هائیتن|tr=hâïten}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|авах}}
+*: Mongolian script: {{t|mn|ᠠᠪᠬᠤ}}
+* Nanai: {{t|gld|га-}}
+* Neapolitan: {{t|nap|piglià}}
+* Norman: {{t|nrf|prendre}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}, {{t|nb|gripe}}
+*: Nynorsk: {{t|nn|ta}}, {{t|nn|taka}}, {{t|nn|gripa}}
+* Occitan: {{t+|oc|agafar}}, {{t+|oc|prendre}}
+* Old Church Slavonic:
+*: Cyrillic: {{t|cu|бьрати|impf}}
+* Old English: {{t|ang|niman}}
+* Old Turkic: {{t|otk|𐰞|tr=al-}}
+* Ossetian: {{t|os|исын}}
+* Pannonian Rusyn: {{t|rsk|брац|impf}}, {{t|rsk|вжац|pf}}
+* Pashto: {{t|ps|اخستل|tr=axəstᶕl}}
+* Persian:
+*: Dari: {{t|prs|گِرِفْتَن}}
+*: Iranian Persian: {{t|fa-ira|گِرِفْتَن}}
+* Pitjantjatjara: {{t|pjt|katinyi}}
+* Polish: {{t+|pl|brać|impf}}, {{t+|pl|wziąć|pf}}, {{t+|pl|jąć|pf}} {{qualifier|archaic}}
+* Portuguese: {{t+|pt|tomar}}, {{t+|pt|agarrar}}, {{t+|pt|pegar}}
+* Romanian: {{t+|ro|lua}}
+* Romansh: {{t|rm|prender}}, {{t|rm|piglier}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}, {{t+|ru|хвата́ть|impf}}, {{t+|ru|схвати́ть|pf}}
+* Sami:
+*: Northern Sami: {{t|se|váldit}}
+* Sango: {{t|sg|kamata}}
+* Sardinian: {{t|sc|leai}}, {{t|sc|leare}}, {{t|sc|lebare}}, {{t|sc|levare}}
+* Scots: {{t|sco|tak}}
+* Scottish Gaelic: {{t|gd|gabh}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|узети}}, {{t|sh|зграбити}}, {{t|sh|шчепати}}
+*: Latin: {{t+|sh|uzeti}}, {{t+|sh|zgrabiti}}, {{t+|sh|ščepati}}
+* Shan: {{t-needed|shn}}
+* Shor: {{t|cjs|аларға}}
+* Sinhalese: {{t|si|අරගන්නවා}}
+* Slovak: {{t|sk|brať|impf}}, {{t|sk|vziať|pf}}
+* Slovene: {{t+|sl|brati|impf}}, {{t+|sl|vzeti|pf}}
+* Somali: {{t|so|qaadasho}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|braś|impf}}, {{t|dsb|wześ|pf}}
+*: Upper Sorbian: {{t|hsb|brać|impf}}, {{t|hsb|wzać|pf}}
+* Spanish: {{t+|es|tomar}}, {{t+|es|coger}}, {{t+|es|prender}} {{qualifier|obsolete}}
+* Swedish: {{t+|sv|fatta}}, {{t+|sv|gripa}}, {{t+|sv|ta}}, {{t+|sv|ta}}, {{t+|sv|tag}} i, {{t+|sv|hålla}} sig i
+* Sylheti: {{t|syl|ꠟꠃꠀ}}
+* Tagalog: {{t|tl|kunin}}
+* Tajik: {{t+|tg|гирифтан}}
+* Tamil: {{t+|ta|எடு}}, {{t+|ta|கொள்}}
+* Tatar: {{t+|tt|алырга}}
+* Tày: {{t|tyz|au}}
+* Thai: {{t+|th|เอา}}, {{t+|th|หยิบ}}
+* Tibetan: {{t|bo|ལེན}}, {{t|bo|བཞེས}} {{qualifier|honorific}}
+* Turkish: {{t+|tr|almak}}, {{t+|tr|tutmak}}
+*: Ottoman Turkish: {{t|ota|آلمق|tr=almak}}, {{t|ota|طوتمق|tr=tutmak}}
+* Turkmen: {{t+|tk|almak}}, {{t|tk|tutmak}}
+* Tuvan: {{t|tyv|алыр}}
+* Ugaritic: {{t|uga|𐎀𐎃𐎏}}
+* Ukrainian: {{t+|uk|бра́ти|impf}}, {{t+|uk|взя́ти|pf}}, {{t+|uk|узя́ти|pf}}
+* Urdu: {{t|ur|لینا}}
+* Uyghur: {{t|ug|ئالماق}}
+* Uzbek: {{t+|uz|olmoq}}
+* Venetan: {{t|vec|ciapar}}
+* Vietnamese: {{t+|vi|nắm}}, {{t+|vi|lấy}}, {{t|vi|nắm lấy}}, {{t+|vi|cầm}}
+* Welsh: {{t|cy|mynd â}}, {{t+|cy|dwyn}}
+* Yakut: {{t|sah|ыл}}
+* Yiddish: {{t|yi|נעמען}}
+* Zhuang: {{t|za|aeu}}
+{{trans-bottom}}
+
+{{trans-top|to get into one's possession}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Armenian: {{t+|hy|վերցնել}}
+* Atayal: {{t|tay|magal}}
+* Bashkir: {{t|ba|алыу}}
+* Catalan: {{t+|ca|prendre}}, {{t+|ca|portar}}, {{t+|ca|tardar}}, {{t+|ca|agafar}}
+* Czech: {{t+|cs|vzít}}
+* Dutch: {{t+|nl|nemen}}
+* Esperanto: {{t+|eo|preni}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|omia}}
+* French: {{t+|fr|prendre}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|nehmen}}
+* Gothic: {{t|got|𐌽𐌹𐌼𐌰𐌽}}
+* Greek: {{t+|el|παίρνω}}
+*: Ancient Greek: {{t|grc|λαμβάνω}}, {{t|grc|αἱρέω}}
+* Hebrew: {{t+|he|לָקַח|tr=lakákh}}
+* Hungarian: {{t+|hu|elvesz}}
+* Ido: {{t+|io|prenar}}
+* Interlingua: {{t+|ia|prender}}
+* Italian: {{t+|it|portare}}
+* Japanese: {{t+|ja|取る|tr=とる, toru}}
+* Khmer: {{t+|km|យក}}
+* Korean: {{t+|ko|얻다}}
+* Latin: {{t|la|rapiō}}
+* Macedonian: {{t|mk|зема|impf}}
+* Norman: {{t|nrf|prendre}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}
+* Polish: {{t+|pl|brać}}, {{t+|pl|wziąć}}
+* Portuguese: {{t+|pt|tomar}}
+* Rapa Nui: {{t|rap|ma'u}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}
+* Scottish Gaelic: {{t|gd|gabh}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|uzeti}}, {{t+|sh|prisvojiti}}
+* Slovene: {{t+|sl|vzeti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|braś|impf}}, {{t|dsb|wześ|pf}}
+* Spanish: {{t+|es|tomar}}
+* Swedish: {{t+|sv|ta}}, {{t+|sv|få tag på}}
+* Tagalog: {{t|tl|kunin}}
+* Telugu: {{t+|te|తీసుకొను}}
+* Vietnamese: {{t+|vi|nắm}}, {{t+|vi|lấy}}, {{t|vi|nắm lấy}}
+* Yiddish: {{t|yi|נעמען}}
+{{trans-bottom}}
+
+{{trans-top|to seize or capture}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Bashkir: {{t|ba|алыу}}
+* Finnish: {{t+|fi|ottaa}}, {{t|fi|[[ottaa]] [[haltuunsa]]}}, {{t+|fi|vallata}}, {{t+|fi|valloittaa}}
+* Old Turkic: {{t|otk|𐰞|tr=al-}}
+* Spanish: {{t+|es|tomar}}
+* Vietnamese: {{t+|vi|bắt}}, {{t+|vi|bắt giữ}}, {{t+|vi|chiếm}}, {{t|vi|chiếm lấy}}
+* ǃXóõ: {{t|nmn|ǁʼa}}
+{{trans-bottom}}
+
+{{trans-top|to catch fish or game}}
+* Bashkir: {{t|ba|тотоу}}
+* Finnish: {{t+|fi|saada}}
+* Vietnamese: {{t+|vi|bắt}}
+{{trans-bottom}}
+
+{{trans-top|cricket: to catch the ball}}
+* Albanian: {{t|sq|zë}} , {{t+|sq|kap}}
+* Finnish: {{t+|fi|ottaa kiinni}}
+{{trans-bottom}}
+
+{{trans-top|to appropriate or transfer into one's own possession}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|omia}}, {{t|fi|[[ottaa]] [[haltuunsa]]}}
+* Vietnamese: {{t+|vi|lấy}}
+{{trans-bottom}}
+
+{{trans-see|to exact|exact}}
+
+{{trans-top|to capture or win in a game}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|voittaa}}
+{{trans-bottom}}
+
+{{trans-top|to receive or accept}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Armenian: {{t+|hy|ընդունել}}
+* Bashkir: {{t|ba|алыу}}
+* Dutch: {{t+|nl|aannemen}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|hyväksyä}}, {{t+|fi|vastaanottaa}}, {{t+|fi|saada}}
+* German: {{t+|de|annehmen}}
+* Hebrew: {{t+|he|קיבל|tr=kibél|alt=קיבל / קִבֵּל}}
+* Hungarian: {{t+|hu|átvesz}}, {{t+|hu|elfogad}}
+* Japanese: {{t+|ja|受け付ける|tr=うけつける, uketsukeru}}
+* Khmer: {{t+|km|ទទួល}}
+* Korean: {{t+|ko|받아들이다}}, {{t|ko|접수하다}}
+* Latin: {{t+|la|accipiō}}, {{t+|la|recipiō}}, {{t+|la|capio}}, {{t+|la|sumo}}
+* Macedonian: {{t|mk|прифаќа|impf}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}, {{t|nb|ta imot}}
+*: Nynorsk: {{t|nn|taka}}, {{t|nn|taka imot}}
+* Portuguese: {{t+|pt|aceitar}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}, {{t+|ru|принима́ть|impf}}, {{t+|ru|приня́ть|pf}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|prihvatiti}}
+* Turkish: {{t+|tr|kabul etmek}}
+* Vietnamese: {{t+|vi|nhận}}
+{{trans-bottom}}
+
+{{trans-top|to receive or accept as payment or compensation}}
+* Chinese:
+*: Mandarin: {{t+|cmn|收|tr=shōu}}
+* Finnish: {{t|fi|[[voida]] [[maksaa]]|lit=can pay, to be able to pay}}; {{t+|fi|kelvata}} {{q|what is taken is the subject, who or what takes in the allative or adessive case}}; {{t+|fi|hyväksyä}}, {{t+|fi|ottaa vastaan}}, {{t+|fi|ottaa}}, {{t+|fi|saada}}
+{{trans-bottom}}
+
+{{trans-top|to accept and follow advice{{,}} etc.}}
+* Arabic: {{t+|ar|أخذ|alt=أَخَذَ بِـ}}
+* Finnish: {{t+|fi|noudattaa}}
+* Vietnamese: {{t+|vi|theo}}, {{t|vi|nghe theo}}
+{{trans-bottom}}
+
+{{trans-top|to receive into some relationship}}
+* Arabic: {{t|ar|اِتَّخَذَ}}
+* Finnish: {{t+|fi|ottaa}}
+* Vietnamese: {{t+|vi|nhận}}
+{{trans-bottom}}
+
+{{trans-top|to receive or acquire property by law}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Finnish: {{t+|fi|saada}}
+{{trans-bottom}}
+
+{{trans-top|to grab and move to oneself}}
+* Albanian: {{t|sq|merr}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Armenian: {{t+|hy|վերցնել}}
+* Assamese: {{t|as|নিয়া}}
+* Bengali: {{t+|bn|নেওয়া}}
+* Catalan: {{t+|ca|prendre}}
+* Chinese:
+*: Mandarin: {{t+|cmn|拿|tr=ná}}
+* Czech: {{t+|cs|vzít}}
+* Dalmatian: {{t|dlm|prendar}}
+* Dutch: {{t+|nl|nemen}}
+* Esperanto: {{t+|eo|preni}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|napata}}, {{t+|fi|kahmia}}
+* French: {{t+|fr|prendre}}
+* Friulian: {{t|fur|cjapâ}}, {{t|fur|cjoli}}
+* German: {{t+|de|nehmen}}
+* Greek: {{t+|el|παίρνω}}
+*: Ancient Greek: {{t|grc|αἱρέω}}
+* Hawaiian: {{t|haw|lawe}}
+* Hungarian: {{t+|hu|vesz}}, {{t+|hu|elvesz}}
+* Interlingua: {{t+|ia|prender}}
+* Irish: {{t|ga|tóg}}
+* Italian: {{t+|it|prendere}}
+* Japanese: {{t+|ja|運ぶ|tr=はこぶ, hakobu}}
+* Kazakh: {{t+|kk|алу}}
+* Korean: {{t+|ko|잡다}}
+* Latin: {{t+|la|capio}}
+* Macedonian: {{t|mk|зема|impf}}, {{t|mk|присвојува|impf}}
+* Norman: {{t|nrf|prendre}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}
+* Polish: {{t+|pl|brać}}, {{t+|pl|wziąć}}
+* Portuguese: {{t+|pt|tomar}}
+* Romanian: {{t+|ro|lua}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}
+* Scots: {{t|sco|tak}}
+* Scottish Gaelic: {{t|gd|gabh}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|uzeti}}, {{t+|sh|zgrabiti}}, {{t+|sh|ščepati}}, {{t+|sh|prigrliti}}
+* Slovene: {{t+|sl|vzeti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|braś|impf}}, {{t|dsb|wześ|pf}}
+* Spanish: {{t+|es|tomar}}
+* Swedish: {{t+|sv|ta}}, {{t+|sv|föra}} {{t+|sv|fram}} {{t+|sv|till}} {{t+|sv|sig}}
+* Tagalog: {{t|tl|kunin}}
+* Telugu: {{t+|te|తీసుకొను}}
+* Turkish: {{t+|tr|almak}}
+* Ugaritic: {{t|uga|𐎀𐎃𐎏}}
+* Venetan: {{t|vec|ciapar}}
+* Vietnamese: {{t+|vi|lấy}}, {{t+|vi|nắm}}, {{t|vi|nắm lấy}}
+{{trans-bottom}}
+
+{{trans-top|to gain a position by force}}
+* Armenian: {{t+|hy|վերցնել}}, {{t+|hy|առնել}}
+* Catalan: {{t+|ca|prendre}}
+* Chinese:
+*: Mandarin: {{t+|cmn|佔據|tr=zhànjù}}
+* Czech: {{t+|cs|dobýt}}
+* Finnish: {{t+|fi|ottaa}}
+* French: {{t+|fr|prendre}}
+* German: {{t+|de|einnehmen}}
+* Hebrew: {{t+|he|תפס|m|tr=tafas}}
+* Hungarian: {{t+|hu|megszerez}}, {{t+|hu|elfoglal}}, {{t+|hu|bevesz}}, {{t+|hu|megragad}}, {{t|hu|birtokba vesz}}, {{t+|hu|foglyul ejt}}
+* Japanese: {{t+|ja|占拠|tr=せんきょする, senkyo suru|alt=占拠する}}
+* Korean: {{t+|ko|빼앗다}}, {{t+|ko|점령하다}}
+* Latin: {{t+|la|capio}}
+* Macedonian: {{t|mk|зазема|impf}}
+* Norman: {{t|nrf|prendre}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}
+* Polish: {{t+|pl|zawładnąć}}
+* Portuguese: {{t+|pt|tomar}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}, {{t+|ru|захва́тывать|impf}}, {{t+|ru|захвати́ть|pf}}, {{t+|ru|занима́ть|impf}}, {{t+|ru|заня́ть|pf}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|osvojiti}}, {{t+|sh|zadobiti}}
+* Slovene: {{t|sl|zavzeti}}
+* Spanish: {{t+|es|tomar}}
+* Swedish: {{t+|sv|erövra}}, {{t+|sv|ta}}
+* Tagalog: {{t|tl|makipagtalik}}
+* Vietnamese: {{t+|vi|chiếm}}, {{t+|vi|chiếm giữ}}
+{{trans-bottom}}
+
+{{trans-top|to have sex with}}
+* Catalan: {{t+|ca|violar}}, {{t+|ca|forçar}}
+* Czech: {{t+|cs|vzít}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|maata}}, {{t+|fi|naida}}
+* French: {{qualifier|[[de]] [[force]]}} {{t+|fr|prendre}}, {{t+|fr|forcer}}, {{t+|fr|violer}}
+* German: {{t|de|([[mit]] [[Gewalt]]) [[nehmen]]}}
+* Japanese: {{t+|ja|襲う|tr=おそう, osou}}
+* Latin: {{t+|la|capio}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}
+* Polish: {{t+|pl|brać}}, {{t+|pl|wziąć}}
+* Portuguese: {{t+|pt|violar}}, {{t+|pt|violentar}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}
+* Slovene: {{t+|sl|vzeti}}
+* Spanish: {{t+|es|violar}}
+* Swedish: {{t+|sv|ta}}
+{{trans-bottom}}
+
+{{trans-top|to carry}}
+* Arabic: {{t+|ar|أَخَذَ}}, {{t|ar|وَدَّى}}
+* Azerbaijani: {{t+|az|aparmaq}}
+* Bakhtiari: {{t|bqi|بردن|tr=borden}}
+* Catalan: {{t+|ca|portar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|攜帶|tr=xiédài, xīdài}}, {{t+|cmn|攜|tr=xié}}, {{t+|cmn|帶|tr=dài}}, {{t+|cmn|運|tr=yùn}}
+* Czech: {{t+|cs|vzít}}
+* Esperanto: {{t|eo|transporti}}
+* Finnish: {{t+|fi|viedä}}, {{t+|fi|kantaa}}
+* French: {{t+|fr|transporter}}, {{t+|fr|emporter}}
+* Georgian: {{t-needed|ka}}
+* German: {{t+|de|nehmen}}, {{t+|de|tragen}}
+* Hebrew: {{t+|he|נשא|m|tr=nasa}}
+* Hungarian: {{t+|hu|visz}}, {{t+|hu|elvisz}}, {{t+|hu|odavisz}}
+* Italian: {{t+|it|portare}}
+* Japanese: {{t+|ja|運ぶ|tr=はこぶ, hakobu}}
+* Korean: {{t+|ko|나르다}}
+* Ladino: {{t|lad|yevar}}
+* Latin: {{t+|la|fero}}
+* Norwegian:
+*: Bokmål: {{t+|nb|bringe}}
+* Old Galician-Portuguese: {{t|roa-opt|levar}}
+* Persian:
+*: Iranian Persian: {{t|fa-ira|بُرْدَن}}
+* Polish: {{t+|pl|brać|impf}}, {{t+|pl|wziąć|pf}}
+* Portuguese: {{t+|pt|levar}}, {{t+|pt|carregar}}
+* Romanian: {{t+|ro|lua}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}, {{t+|ru|забира́ть|impf}}, {{t+|ru|забра́ть|pf}}, {{t+|ru|нести́}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|uzeti}}, {{t+|sh|ponijeti}}
+* Spanish: {{t+|es|llevar}}
+* Swedish: {{t+|sv|ta}}
+* Tagalog: {{t|tl|kunin}}, {{t|tl|dalhin}}
+* Turkish: {{t+|tr|götürmek}}
+* Vietnamese: {{t+|vi|mang}}, {{t|vi|mang theo}}, {{t+|vi|đem}}, {{t|vi|đem theo}}
+{{trans-bottom}}
+
+{{trans-top|to lead or convey}}
+* Finnish: {{t+|fi|viedä}}
+* French: {{t+|fr|emmener}}
+* Latin: {{t+|la|dūcō}}
+* Vietnamese: {{t+|vi|đưa}}, {{t+|vi|dẫn}}, {{t+|vi|dắt}}
+{{trans-bottom}}
+
+{{trans-top|to use as transportation}}
+* Finnish: {{t+|fi|kulkea}} {{q|+ adessive}}
+* Spanish: {{t+|es|tomar}}, {{t+|es|coger}}, {{t+|es|chapar}} {{q|colloquial}}
+* Vietnamese: {{t+|vi|đi}}
+{{trans-bottom}}
+
+{{trans-top|to choose}}
+* Altai:
+*: Southern Altai: {{t|alt|талда-}}, {{t|alt|ылга-}}
+* Arabic: {{t+|ar|أَخَذَ}}
+* Catalan: {{t+|ca|agafar}}, {{t+|ca|escollir}}
+* Czech: {{t+|cs|vzít}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|valita}}, {{t+|fi|poimia}}
+* Galician: {{t+|gl|escoller}}
+* German: {{t+|de|nehmen}}
+* Greek: {{t+|el|παίρνω}}, {{t+|el|διαλέγω}}
+* Hebrew: {{t+|he|בָּחַר|tr=bakhár}}
+* Hungarian: {{t+|hu|választ}}, {{t+|hu|kiválaszt}}
+* Japanese: {{t+|ja|選ぶ|tr=えらぶ, erabu}}
+* Kazakh: {{t|kk|таңдау}}
+* Korean: {{t+|ko|고르다}}, {{t+|ko|선택하다}}
+* Kyrgyz: {{t+|ky|ылгоо}}
+* Latin: {{t+|la|capio}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}
+* Persian:
+*: Iranian Persian: {{t|fa-ira|بَرْداشْتَن}}
+* Polish: {{t+|pl|wybrać}}
+* Portuguese: {{t+|pt|tomar}}, {{t+|pt|escolher}}
+* Russian: {{t+|ru|брать|impf}}, {{t+|ru|взять|pf}}, {{t+|ru|выбира́ть|impf}}, {{t+|ru|вы́брать|pf}}
+* Salar: {{t|slr|dañna}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|odabrati}}
+* Slovene: {{t+|sl|vzeti}}
+* Spanish: {{t+|es|tomar}}
+* Swedish: {{t+|sv|ta}}, {{t+|sv|välja}}
+* Tagalog: {{t|tl|piliin}}, {{t|tl|kunin}}
+* Turkish: {{t+|tr|seçmek}}
+* Vietnamese: {{t+|vi|chọn}}
+{{trans-bottom}}
+
+{{trans-top|to support or carry without failing or breaking}}
+* Czech: {{t+|cs|unést}}
+* Finnish: {{t+|fi|kestää}}, {{t+|fi|kantaa}}
+* German: {{t+|de|aushalten}}
+* Hungarian: {{t+|hu|bír}}, {{t+|hu|elbír}}
+* Japanese: {{t|ja|壊さずに運ぶ|tr=こわさずにはこぶ, kowasazu ni hakobu}}
+* Portuguese: {{t+|pt|aguentar}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|uzdržati}}, {{t+|sh|izdržati}}
+* Spanish: {{t+|es|soportar}}
+* Swedish: {{t+|sv|hålla}}, {{t+|sv|ta}}
+* Turkish: {{t+|tr|almak}}, {{t+|tr|taşımak}}
+* Vietnamese: {{t+|vi|chịu}}
+{{trans-bottom}}
+
+{{trans-top|to undergo or be subjected to}}
+* Finnish: {{t+|fi|käydä}}, {{t+|fi|ottaa}}
+* Spanish: {{t+|es|tomar}}, {{t+|es|opositar}} {{q|a test|intransitive}}
+{{trans-bottom}}
+
+{{trans-top|to endure}}
+* Arabic: {{t|ar|عَانَى}}
+* Catalan: {{t|ca|suportar}}, {{t|ca|aguantar}}
+* Chinese:
+*: Mandarin: {{t+|cmn|忍受|tr=rěnshòu}}
+* Czech: {{t+|cs|vydržet}}, {{t|cs|vystát}}
+* Finnish: {{t+|fi|sietää}}, {{t+|fi|kestää}}, {{t+|fi|kärsiä}}
+* French: {{t+|fr|endurer}}, {{t+|fr|supporter}}
+* German: {{t+|de|aushalten}}, {{t+|de|vertragen}}
+* Hungarian: {{t+|hu|elvisel}}, {{t+|hu|kibír}}, {{t+|hu|bír}}, {{t+|hu|visel}}
+* Italian: {{t|it|sopportare}}
+* Japanese: {{t+|ja|我慢|tr=がまんする, gaman suru|alt=我慢する}}
+* Korean: {{t+|ko|참다}}, {{t+|ko|견디다}}, {{t|ko|인내하다}}
+* Latin: {{t|la|suffero}}
+* Norwegian:
+*: Bokmål: {{t+|nb|tåle}}, {{t+|nb|ta}}
+* Portuguese: {{t+|pt|aguentar}}, {{t+|pt|suportar}}
+* Russian: {{t+|ru|выде́рживать|impf}}, {{t+|ru|вы́держать|pf}}, {{t+|ru|выноси́ть|impf}}, {{t+|ru|вы́нести|pf}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|izdržati}}, {{t+|sh|proživjeti}}
+* Spanish: {{t+|es|soportar}}, {{t+|es|aguantar}}, {{t+|es|apechugar}}
+* Swedish: {{t+|sv|ta}}, {{t+|sv|tåla}}
+* Turkish: {{t+|tr|tahammül etmek}}, {{t+|tr|katlanmak}}, {{t+|tr|dayanmak}}
+* Vietnamese: {{t+|vi|chịu}}, {{t+|vi|chịu đựng}}
+{{trans-bottom}}
+
+{{trans-top-see|to ingest medicine|ingest}}
+* Azerbaijani: {{t+|az|içmək}} {{qualifier|take via mouth}}, {{t+|az|qəbul etmək}} {{qualifier|formal}}
+* Catalan: {{t+|ca|prendre}}
+* Czech: {{t+|cs|vzít}}
+* Finnish: {{t+|fi|ottaa}}
+* French: {{t+|fr|prendre}}
+* German: {{t+|de|nehmen}}
+* Hungarian: {{t+|hu|bevesz}}, {{t+|hu|szed}}
+* Irish: {{t|ga|caith}}
+* Japanese: {{sense|take via mouth}} {{qualifier|general}} {{t+|ja|飲む|tr=のむ, nomu}}, {{qualifier|formal}} {{t+|ja|摂取|tr=せっしゅする, sesshu suru|alt=摂取す}}
+* Korean: {{t+|ko|먹다}}, {{t+|ko|복용하다}} {{qualifier|formally}}
+* Latin: {{t+|la|capio}}
+* Norman: {{t|nrf|prendre}}
+* Norwegian:
+*: Bokmål: {{t+|nb|ta}}
+* Polish: {{t+|pl|brać}}, {{t+|pl|przyjmować}}, {{t+|pl|zażywać}}
+* Portuguese: {{t+|pt|tomar}}
+* Russian: {{t+|ru|принима́ть|impf}}, {{t+|ru|приня́ть|pf}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|uzeti}}, {{t+|sh|konzumirati}}
+* Slovene: {{t+|sl|vzeti}}
+* Spanish: {{t+|es|[[tomar]]([[se]])}}, {{t|es|[[zampar]]([[se]])}} {{q|colloquial}}
+* Swedish: {{t+|sv|ta}}
+* Urdu: {{t|ur|کھانا}} {{qualifier|for tablets, pills etc.}}, {{t|ur|پِینا}} {{qualifier|liquid medicine etc.}}
+* Vietnamese: {{t+|vi|uống}}
+{{trans-bottom}}
+
+{{trans-top|to assume or interpret to be}}
+* Azerbaijani: {{t+|az|götürmək}}, {{t+|az|qəbul etmək}}
+* Finnish: {{t+|fi|ottaa}}, {{t+|fi|tulkita}}, {{t+|fi|olettaa}}
+* Hungarian: {{t+|hu|vesz}}, {{t+|hu|értelmez}}, {{t+|hu|feltételez}}, {{t+|hu|felfog}}
+* Korean: {{t+|ko|받아들이다}}
+* Portuguese: {{t+|pt|ter}}, {{t+|pt|tomar}}
+* Russian: {{t+|ru|принима́ть|impf}}, {{t+|ru|приня́ть|pf}}
+* Turkish: {{t+|tr|almak}}
+* Vietnamese: {{t+|vi|coi như}}, {{t+|vi|cho là}}, {{t+|vi|xem như}}
+{{trans-bottom}}
+
+{{trans-top|to consider in a particular way}}
+* Finnish: {{t|fi|[[ottaa]] ([[esimerkiksi]])}}
+* Hungarian: {{t+|hu|vesz}}, {{t+|hu|tekint}}, {{t+|hu|néz}}, {{t+|hu|gondol}}, {{t+|hu|vél}}, {{t+|hu|tart}}, {{t+|hu|felfog}}
+* Korean: {{t+|ko|간주하다}}
+{{trans-bottom}}
+
+{{trans-top|to last or expend (an amount of time)}}
+* Arabic: {{t|ar|اِسْتَغْرَقَ}}
+* Azerbaijani: {{t+|az|çəkmək}}
+* Chinese:
+*: Mandarin: {{t+|cmn|需要|tr=xūyào}}
+* Dutch: {{t+|nl|duren}}
+* Finnish: {{t+|fi|kestää}}, {{t+|fi|viettää}}, {{t+|fi|kulua}}
+* French: {{t+|fr|prendre}}
+* German: {{t+|de|dauern}}, {{t|de|in Anspruch nehmen}}
+* Hebrew: {{t+|he|לקח|m|tr=lakákh}}, {{t|he|נמשך|m|tr=nimshákh}}
+* Hungarian: {{t+|hu|tart}}, {{t+|hu|igénybe vesz}}
+* Japanese: {{t+|ja|掛かる|tr=かかる, kakaru}}
+* Korean: {{t+|ko|걸리다}}
+* Latin: {{t+|la|capio}}
+* Norman: {{t|nrf|prendre}}
+* Persian:
+*: Iranian Persian: {{t|fa-ira|طول کَشیدَن}}
+* Polish: {{t+|pl|zająć|pf}}, {{t+|pl|zajmować|impf}}
+* Portuguese: {{t+|pt|durar}}
+* Russian: {{t+|ru|занима́ть|impf}}, {{t+|ru|заня́ть|pf}}
+* Serbo-Croatian:
+*: Latin: {{t+|sh|trajati}}
+* Spanish: {{t+|es|durar}}, {{t+|es|llevar}}
+* Tibetan: {{t|bo|འགོར}}
+* Turkish: {{t+|tr|sürmek}}
+* Vietnamese: {{t+|vi|mất}}
+{{trans-bottom}}
+
+{{trans-top|a photo, film, fingerprints{{,}} etc.}}
+* Arabic: {{t|ar|اِلْتَقَطَ}}
+* Azerbaijani: {{t+|az|çəkmək}}, {{t+|az|götürmək}}
+* Finnish: {{t+|fi|ottaa}}
+* Japanese: {{t+|ja|撮る|tr=とる, toru}}
+* Russian: {{t+|ru|фотографи́ровать|impf}}, {{t+|ru|сфотографи́ровать|pf}}, {{t+|ru|снима́ть|impf}}, {{t+|ru|снять|pf}}
+* Spanish: {{t+|es|tomar}}
+* Vietnamese: {{t+|vi|lấy}} {{qualifier|photo, fingerprints}}, {{t+|vi|chụp}} {{qualifier|photo}}, {{t+|vi|quay}} {{qualifier|film}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Woiwurrung: {{t-check|wyi|kunga}}
+{{trans-bottom}}

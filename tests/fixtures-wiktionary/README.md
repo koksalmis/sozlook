@@ -1,0 +1,3 @@
+Bu klasördeki `.wikitext` dosyaları English Wiktionary sayfalarının (reliable, strike, running, took, take, take/translations, run, run/translations; `/` dosya adında `_` olarak yazıldı) 11 Kasım 2026 tarihli kaynak metnidir.
+Lisans: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · Kaynak ve yazarlar: https://en.wiktionary.org/wiki/reliable, https://en.wiktionary.org/wiki/strike, https://en.wiktionary.org/wiki/running, https://en.wiktionary.org/wiki/took, https://en.wiktionary.org/wiki/take, https://en.wiktionary.org/wiki/run (sayfa geçmişleri).
+Yalnızca `supabase/functions/wiktionary-tr/parse.ts` testleri için kullanılır.

@@ -48,3 +48,16 @@ Supabase, şablonların düzenlenebilmesi için özel SMTP ister. Şu an Gmail S
 - **Bekleyen yerel değişiklik korunur:** eşitleme sürerken kaydedilen veya kaldırılan kelime, buluttan gelen eski bilgiyle ezilmez; bir sonraki eşitlemede gönderilir.
 
 Eklentideki uygulama: `extension/sync-core.js` (saf birleştirme mantığı, `tests/sync-core.test.mjs`) ve `extension/sync.js` (arka plan çalışanında REST istekleri). Eşitleme; giriş sonrası, popup açılınca, kelime kaydedilip kaldırılınca (1,5 sn sonra) ve 15 dakikada bir çalışır.
+
+## Türkçe karşılıklar: Wiktionary
+
+`dictionary_tr` tablosu ve `wiktionary-tr` Edge Function'ı, kaydedilen kelimelerin Türkçe karşılıklarını [Wiktionary](https://en.wiktionary.org)'den (CC BY-SA 4.0) getirir. Oxford/Cambridge içeriği kopyalanmaz.
+
+- **İstek:** `POST /functions/v1/wiktionary-tr` + `{ "words": [...] }` (en fazla 30). Kullanıcının oturum token'ı gerekir; yalnızca publishable/anon anahtarı 401 alır.
+- **Yanıt:** `{ results: { kelime: { lemma, senses: [{ pos, gloss, translations }], url } }, source }`. Çekimli kelimede (`took`) kökün (`take`) uygun türdeki karşılıkları önce gelir.
+- **Önbellek:** `dictionary_tr` tüm kullanıcılar için ortaktır; yalnızca fonksiyon (service role) yazar, 30 günden eski kayıtlar yenilenir. Ağ hatası önbelleğe yazılmaz.
+- **Ayrıştırma:** `functions/wiktionary-tr/parse.ts` (saf modül, `tests/wiktionary-parse.test.mjs` ve `tests/fixtures-wiktionary/`).
+- **Kapsam:** Wiktionary'de Türkçe karşılığı olmayan kelimeler (ör. `thorough`) boş döner; uygulama Cambridge İngilizce–Türkçe bağlantısını önerir.
+- **Atıf:** Karşılıkların gösterildiği her yerde "Wiktionary · CC BY-SA 4.0" ve sayfa bağlantısı bulunur.
+
+Dağıtım: `supabase functions deploy wiktionary-tr` (veya MCP `deploy_edge_function`, `index.ts` + `parse.ts`).

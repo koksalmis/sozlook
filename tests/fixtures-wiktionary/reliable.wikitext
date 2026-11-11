@@ -1,0 +1,126 @@
+==English==
+
+===Etymology===
+{{ety|en|:af|rely|-able|text=+|tree=1}}
+
+===Pronunciation===
+* {{IPA|en|/ɹɪˈlaɪəbl̩/}}, {{enPR|rĭ-līʹə-bəl}}
+* {{audio|en|en-us-reliable.ogg|a=US}}
+* {{rhymes|en|aɪəbəl|s=4}}
+
+===Adjective===
+{{en-adj}}
+
+# [[suitable|Suitable]] or [[fit]] to be [[rely|relied]] on; worthy of [[dependence]], [[reliance]] or [[trust]]; [[dependable]], [[trustworthy]]
+#: {{syn|en|authoritative}}
+#* {{quote-book|en|year=1855|author=w:Andrews Norton|title=Internal Evidences of the Genuineness of the Gospels
+|passage=a '''reliable''' witness to the truth of the miracles}}
+#* '''February 18, 1800''', {{w|Samuel Taylor Coleridge}}, ''Report on Mr. Pitt's Speech in Parliament of February 17, 1800, on the Continuance of the War with France'' (published in ''The Morning Post'')
+#*: the best means, and the most '''reliable''' pledge, of a higher object
+#* {{RQ:Irving Washington
+|passage=According to General Livingston's humorous account, his own village of Elizabethtown was not much more '''reliable''', being peopled in those agitated times by unknown, unrecommended strangers, guilty-looking Tories, and very knavish Whigs.}}
+# {{lb|en|signal processing|of a [[communication]] [[protocol]]}} Such that either a sent packet will reach its destination, even if it requires retransmission, or the sender will be told that it didn't.
+
+====Synonyms====
+* {{l|en|secure}}
+* {{l|en|dependable}}
+* {{l|en|trustworthy}}
+* {{l|en|solid}}
+* {{l|en|firm}}
+* {{l|en|sure}}
+
+====Antonyms====
+* {{l|en|unreliable}}
+
+====Derived terms====
+{{col|en|nonreliable|reliabilism|reliabilist|superreliable|ultrareliable
+|reliableness|reliably|semireliable}}
+
+====Related terms====
+* {{l|en|reliability}}
+* {{l|en|reliance}}
+* {{l|en|rely}}
+
+====Translations====
+{{trans-top-see|fit to be relied on|trustworthy}}
+* Arabic: {{t|ar|مَوْثُوق|m}}
+*: Egyptian Arabic: {{t|arz|امين|tr=amīn}}
+* Armenian: {{t+|hy|վստահելի}}, {{t+|hy|հուսալի}}
+* Azerbaijani: {{t|az|etibarlı}}
+* Bashkir: {{t|ba|ышаныслы}}, {{t|ba|яуаплы}}
+* Belarusian: {{t|be|надзе́йны}}
+* Bulgarian: {{t+|bg|наде́жден}}
+* Chinese:
+*: Mandarin: {{t+|cmn|可靠|tr=kěkào}}, {{t+|cmn|穩妥}}
+* Czech: {{t+|cs|spolehlivý}}
+* Danish: {{t|da|pålidelig}}
+* Dutch: {{t+|nl|betrouwbaar}}, {{t+|nl|zeker}}
+* Esperanto: {{t|eo|fidinda}}
+* Finnish: {{t+|fi|luotettava}}
+* French: {{t+|fr|fiable}}, {{t+|fr|sûr}}
+* Frisian:
+*: West Frisian: {{t|fy|fertroud}}
+* Galician: {{t+|gl|fiábel|m|f}}, {{t+|gl|fiable}}
+* Georgian: {{t|ka|საიმედო}}, {{t|ka|სანდო}}
+* German: {{t+|de|verlässlich}}, {{t+|de|zuverlässig}}
+* Greek: {{t+|el|αξιόπιστος|m}}
+* Hebrew: {{t+|he|אמין|tr=amin}}
+* Hindi: {{t|hi|निष्ठावान}}
+* Hungarian: {{t+|hu|megbízható}}, {{t+|hu|szavahihető}}
+* Irish: {{t|ga|iontaofa}}
+* Italian: {{t+|it|affidabile}}, {{t+|it|sicuro|m}}
+* Japanese: {{t+|ja|頼もしい|tr=たのもしい, tanomoshii}}
+* Khmer: {{t|km|អាច​ទុកចិត្ត​បាន}}
+* Korean: {{t|ko|믿음직스럽다}}
+* Latvian: {{t|lv|uzticams}}
+* Macedonian: {{t|mk|доверлив}}
+* Malay: {{t+|ms|andal}}
+* Māori: {{t|mi|haepapa}}, {{t|mi|titikaha}}, {{t|mi|horopū}}
+* Mongolian: {{t-needed|mn}}
+* Norwegian:
+*: Bokmål: {{t+|nb|pålitelig}}, {{t+|nb|troverdig}}
+*: Nynorsk: {{t|nn|påliteleg}}, {{t|nn|truverdig}}
+* Polish: {{t+|pl|niezawodny}}, {{t+|pl|spolegliwy}}
+* Portuguese: {{t+|pt|fiável}}
+* Romanian: {{t+|ro|fiabil|m}}, {{t+|ro|sigur|m}}
+* Russian: {{t+|ru|надёжный}}
+* Scottish Gaelic: {{t|gd|seasmhach}}, {{t|gd|earbsach}}
+* Serbo-Croatian: {{t+|sh|pouzdan}}
+* Slovak: {{t|sk|spoľahlivý}}
+* Spanish: {{t+|es|fiable}}, {{t|es|bienqueda}} {{q|of a person}}
+* Swedish: {{t+|sv|pålitlig}}
+* Thai: {{t|th|ไว้ใจได้}}, {{t|th|เชื่อถือได้}}
+* Turkish: {{t+|tr|güvenilir}}
+* Turkmen: {{t|tk|ygtybarly}}
+* Ukrainian: {{t|uk|наді́йний}}
+* Vietnamese: {{t+|vi|tin cậy}}, {{t|vi|[[đáng]] [[tin cậy]]}}
+* Welsh: {{t+|cy|dibynadwy}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Indonesian: {{t+check|id|reliabel}}
+{{trans-bottom}}
+
+====See also====
+* {{pedia|Reliability}}
+
+===Noun===
+{{en-noun}}
+
+# Something or someone [[#Adjective|reliable]] or [[dependable]]
+#: ''the old '''reliables'''''
+
+====Translations====
+{{trans-top|someone to be relied on}}
+* Dutch: {{t+|nl|getrouwe|m}}
+* Spanish: {{t+|es|confiable|m}}, {{t+|es|fiable|m}}
+{{trans-bottom}}
+
+{{trans-top|something reliable or dependable}}
+* Dutch: {{t+|nl|zekerheid}}
+{{trans-bottom}}
+
+===Anagrams===
+* {{anagrams|en|a=abeeillr|Abrielle|Bellaire|lieberal}}
+
+{{C|en|Personality}}

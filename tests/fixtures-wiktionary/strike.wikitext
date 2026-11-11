@@ -1,0 +1,1007 @@
+{{also|Strike}}
+==English==
+
+===Alternative forms===
+* {{alter|en|strick||obsolete}}
+
+===Etymology===
+{{root|en|ine-pro|*streyg-}}
+From {{inh|en|enm|striken}}, from {{inh|en|ang|strīcan}}, from {{inh|en|gmw-pro|*strīkan}}, from {{inh|en|gem-pro|*strīkaną}}, from {{der|en|ine-pro|*streyg-|t=to stroke, rub, press}}.
+
+Cognate with {{cog|nl|strijken}}, {{cog|de|streichen}}, {{cog|da|stryge}}, {{cog|is|strýkja}}, {{m|is|strýkva}}.
+
+===Pronunciation===
+* {{IPA|en|/stɹaɪk/|a=RP,GA}}
+* {{qualifier|US, emphatic, baseball, before one, two, or especially three}} {{IPA|en|/stiː.ɹaɪk/|[stiː.ɹ̠ʌɪ̯k(ʰ)]}}
+* {{audio|en|En-us-strike.ogg|a=US}}
+* {{audio|en|LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-strike.wav|a=GA}}
+* {{rhymes|en|aɪk|s=1}}
+
+===Verb===
+{{en-verb|+|+|struck,~d<l:non-standard>,strook<l:all obsolete>,stroke,strake|struck,stricken<q:see usage notes>,strucken<l:both obsolete>,striken,strook}}
+
+# {{lb|en|transitive|sometimes with [[out]] or [[through]]}} To [[delete]] or [[cross out]]; to [[scratch]] or [[eliminate]].
+#: {{ux|en|Please '''strike''' the last sentence.}}
+# To have a sharp or sudden physical effect, as of a blow.
+## {{lb|en|transitive}} To [[hit]].
+##: {{syn|en|thump}}
+##: {{ux|en|'''Strike''' the door sharply with your foot and see if it comes loose.&emsp; {{nowrap|A bullet '''struck''' him.}}&emsp; {{nowrap|The ship '''struck''' a reef.}}}}
+##* {{RQ:Shakespeare Antony and Cleopatra|act=III|scene=xi|page=356|column=1|passage={{...}}he at Philippi kept&nbsp;/ His ſword e’ne like a dancer, while I '''ſtrooke'''&nbsp;/ The leane and wrinkled ''Caſſius'',{{...}}}}
+##* {{quote-journal|en|date=2021 December 29|title=Network News: RAIB: tighten up supervision after 27mph train sideswipe incident|journal=RAIL|issue=947|page=8|text=The 0812 Huddersfield-Sheffield service '''struck''' the stabiliser leg of a lorry being used to take away portable toilets after local repair work.}}
+## {{lb|en|transitive}} To give, as a blow; to impel, as with a blow; to give a force to; to dash; to cast.
+##* {{RQ:KJV|Exodus|12|7|page=147|column=2|passage=And they ſhall take of the blood and '''ſtrike''' it on the two ſide poſtes,{{...}}}}
+##* {{RQ:Byron Childe Harold|canto=II|stanza=LXXV|page=102|passage=Who would be free themselves must '''strike''' the blow?}}
+## {{lb|en|intransitive}} To deliver a quick blow or thrust; to give blows.
+##: {{ux|en|A hammer '''strikes''' against the bell of a clock.}}
+##* {{RQ:Shakespeare Henry 6-2|act=V|scene=i|page=168|column=2|passage=Nay when? '''ſtrike''' now, or elſe the Iron cooles.}}
+## {{lb|en|transitive}} To [[manufacture]], as by [[stamping]].
+##: {{ux|en|We will '''strike''' a medal in your honour.}}
+##* {{quote-book|en|year=1977|author=Jaques Heyman|title=Equilibrium of Shell Structures|publisher=Clarendon Press, Oxford|page=107|passage=[I]n practice, small deformations will occur in the shell on '''striking''' the shuttering, or... alternatively, some small deformations are due to slightly imperfect placing of the original formwork.}}
+## {{lb|en|intransitive|dated}} To run upon a rock or bank; to be stranded; to [[run aground]].
+##: {{ux|en|The ship '''struck''' in the night.}}
+## {{lb|en|transitive}} To cause to sound by one or more beats; to indicate or notify by audible strokes. Of a [[clock]], to [[announce]] (an hour of the day), usually by one or more sounds.
+##: {{ux|en|The clock '''struck''' twelve.&emsp; The drums '''strike''' up a march.}}
+##* {{RQ:Dickens Great Expectations|II|XX|328-329|I read with my watch upon the table, purposing to close my book at eleven o’clock. As I shut it, Saint Paul’s, and all the many church-clocks in the City—some leading, some accompanying, some following—'''struck''' that hour.}}
+##* {{RQ:1984
+|section=Part I, Chapter I
+|passage=It was a bright cold day in April, and the clocks were '''striking''' thirteen.
+}}
+## {{lb|en|intransitive}} To sound by percussion, with blows, or as if with blows.
+##* {{RQ:Byron Childe Harold|canto=III|stanza=XXI|page=13|text=But hush! hark! a deep sound '''strikes''' like a rising knell!}}
+## {{lb|en|transitive}} To cause or produce by a stroke, or suddenly, as by a stroke.
+##: {{ux|en|to '''strike''' a light}}
+##* {{RQ:Milton Poems|poem=On the Morning of Christ's Nativity|section=The Hymn|stanza=III|page=3|text=And waving wide her mirtle wand&nbsp;/ She '''ſtrikes''' a univerſall Peace through Sea and Land.|translation=And waving wide her myrtle wand,&nbsp;/ She '''strikes''' a universal peace through sea and land.}}
+## {{lb|en|transitive}} To cause to [[ignite]] by [[friction]].
+##: {{ux|en|to '''strike''' a match}}
+# {{lb|en|transitive}} To thrust in; to cause to enter or penetrate.
+#: {{ux|en|A tree '''strikes''' its roots deep.}}
+# To [[infest]] the [[flesh]] of a living vertebrate.
+#* {{quote-book|en|year=1937|year_published=1947|author={{w|Ion L. Idriess}}|title={{w|Over the Range (Idriess book)|Over the Range}}|publisher={{w|Angus and Robertson}}|location=Sydney|page=217|passage=The blowflies come in March, but if a man shears then the flies don’t bother much. The flies '''strike''' young lambs, but then the lambing could be regulated.}}
+# To have a sharp or severe effect on a more abstract level.
+## {{lb|en|transitive}} To punish; to afflict; to smite.
+##* {{RQ:KJV|Proverbs|17|26|page=736|column=2|passage=Alſo to puniſh the iuſt ''is'' not good, ''nor'' to '''ſtrike''' princes for equitie.}}
+## {{lb|en|intransitive}} To carry out a violent or illegal action.
+##* {{RQ:Rinehart Hopwood Bat|The Shadow of the Bat|6|The Bat—they called him the Bat. Like a bat he chose the night hours for his work of rapine; like a bat he '''struck''' and vanished, pouncingly, noiselessly; like a bat he never showed himself to the face of the day.}}
+## {{lb|en|intransitive}} To act suddenly, especially in a violent or criminal way.
+##: {{ux|en|The bank robber '''struck''' on the 2nd and 5th of May.}}
+## {{lb|en|transitive|figurative}} To impinge upon.
+##: {{ux|en|The first thing to '''strike''' my eye was a beautiful pagoda.&emsp; {{nowrap|Tragedy '''struck''' when his brother was killed in a bush fire.}}}}
+##* {{RQ:Churchill Celebrity|I|1|In the old days, to my commonplace and unobserving mind, he gave no evidences of genius whatsoever. He never read me any of his manuscripts,{{nb...}}, and therefore my lack of detection of his promise may in some degree be pardoned. But he had then none of the oddities and mannerisms which I hold to be inseparable from genius, and which '''struck''' my attention in after days when I came in contact with the Celebrity.}}
+## {{lb|en|transitive}} To [[impress]], [[seem]] or [[appear]] to (a person).
+##: {{ux|en|Golf has always '''struck''' me as a waste of time.}}
+##* {{RQ:Wells Time Machine|edition=US|page=163|passage=I fancied at first the stuff was paraffin wax, and smashed the jar accordingly. But the odor of camphor was unmistakable. It '''struck''' me as singularly odd, that among the universal decay, this volatile substance had chanced to survive, perhaps through many thousand years.}}
+## {{lb|en|transitive}} To [[create]] an [[impression]].
+##: {{ux|en|The news '''struck''' a sombre chord.}}
+##* {{RQ:Allingham China Governess|Eye Witness|249|The story '''struck''' the depressingly familiar note with which true stories ring in the tried ears of experienced policemen. No one queried it. It was in the classic pattern of human weakness, mean and embarrassing and sad.}}
+##* {{quote-journal|en|journal=w:San Francisco Chronicle|title=SFO and Oakland settle trademark dispute — ‘Oakland San Francisco Bay’ name stays|date=April 28 2026|author=Rachel Swan
+|text=While the resolution seemed amicable, leaders of San Francisco and Oakland each '''struck''' a parrying tone in statements following Tuesday’s announcement.
+|archiveurl=https://web.archive.org/web/20260429044957/https://www.sfchronicle.com/bayarea/article/sfo-oakland-airport-name-22230395.php}}
+## {{lb|en|sports}} To [[score]] a [[goal]].
+##* {{quote-journal|en|date=December 28, 2010|author=Marc Vesty|work=BBC|title=[http://news.bbc.co.uk/sport1/hi/football/eng_prem/9306533.stm Stoke 0-2 Fulham]|passage=Defender Chris Baird '''struck''' twice early in the first half to help Fulham move out of the relegation zone and ease the pressure on manager Mark Hughes.}}
+## To make a sudden impression upon, as if by a blow; to affect with some strong emotion.
+##: {{co|en|to '''strike''' the mind with surprise;&emsp; {{nowrap|to '''strike''' somebody with wonder, alarm, dread, or horror}}}}
+##* {{quote-book|en|author=w:Francis Atterbury|chapter=A Sermon Preached at the Rolls, December 24, 1710: The Baptist's Message to Jesus, and Jesus's Answer Explained|location=London|year=1734|title=Sermons on Several Occasions|volume=I|others=published from the originals by Thomas Moore|newversion=reprinted in|title2=Sermons and Discourses on Several Subjects and Occasions|location2=London|year2=1820|edition=new|volume2=II|page2=25|pageurl2=https://archive.org/details/sermonsanddisco00attegoog/page/n73/mode/1up|text=In like manner the writings of mere men{{...}}'''strike''' and surprise us most upon our first perusal of them{{nb...}}.}}
+##* {{quote-book|en|author=w:Alexander Pope|title={{w|Moral Essays|An Epistle To The Right Honourable Richard Lord Viscount Cobham}}|year=1734|newversion=reprinted in|title2=The Complete Poetical Works of Alexander Pope|year2=1903|editor2=Henry W. Boynton|location2=Boston; New York|publisher2=Houghton Mifflin Company|series2=The Cambridge Edition of the Poets|lines2=141–144|page2=159|pageurl2=https://archive.org/details/completepoetical01pope/page/159/mode/1up|text=Court-virtues bear, like gems, the highest rate,&nbsp;/ Born where Heav'n's influence scarce can penetrate.&nbsp;/ In life's low vale, the soil the virtues like,&nbsp;/ They please as beauties, here as wonders '''strike'''.}}
+## To affect by a sudden impression or impulse.
+##: {{ux|en|The proposed plan '''strikes''' me favourably.}}
+##: {{ux|en|I was '''struck''' dumb with astonishment.}}
+## {{lb|en|intransitive|UK|obsolete|slang}} To [[steal]] or [[rob]]; to take forcibly or fraudulently.
+##* {{quote-book|en|year=1567|author=w:Thomas Harman|chapter=The vpright Coſe cateth to the Roge.|trans-chapter=The Upright Man speaketh to the Rogue.|title='{{w|A Caveat or Warning for Common Cursitors|A Caveat or Warning for Common Cursitors, vulgarly called vagabonds}}'|newversion=reprinted in|year2=1871|editor2=Charles Hindley|title2=A Caveat or Warning for Common Cursetors, Vulgarly called Vagabonds|pageurl2=https://babel.hathitrust.org/cgi/pt?id=uiug.30112066845568&view=1up&seq=135|page2=119|location2=London|publisher2=Reeves and Turner|text=Now we haue well bousd, let vs '''strike''' some chete.|translation=Now we have well drunk, let us '''steal''' something.}}
+##* {{quote-book|en|year=1591|author=[[w:Robert Greene (dramatist)|Robert Greene]]|chapter=A discourse, or rather discovery of the Nip and the Foist, laying open the nature of the Cutpurse and Pick-pocket.|title='The Second Part of Conny-catching'|location=London|publisher={{w|John Wolfe (printer)|John Wolfe}}|newversion=reprinted in|year2=1881|editor2={{w|Alexander Balloch Grosart|Alexander B. Grosart}}|title2='The Life and Complete Works in Prose and Verse of Robert Greene'|pageurl2=https://archive.org/details/cu31924064949294/page/n125|volume2=10|page2=112|location2=London; Aylesbury|publisher2=Hazell, Watson and Viney|text=Hee being thus duſted with meale, intreated the meale man to wipe it out of his necke, and ſtoopte downe his head: the meale man laughing to ſee him ſo rayed and whited, was willing to ſhake off the meal, and the whilſt, while hee was buſie about that, the Nippe had '''ſtroken''' the purſe and done his feate, and both courteouſly thanked the meale man and cloſely / went away with his purchaſe.|translation=He being thus dusted with meal, entreated the meal-man to wipe it out of his neck, and stooped down his head, the meal-man laughing to see him so arrayed and whited, was willing to shake off the meal, and while he was busy about that, the nip had '''stroken''' the purse and done his feat, and both courteously thanked the meal-man and closely went away with his purchase.<ref>Modernised spelling via {{cite-web|last=Greene|first=Robert|title=A discourse, or rather discovery of the Nip and the Foist, laying open the nature of the Cutpurse and Pick-pocket.|titleurl=https://www.exclassics.com/cony/cony015.htm|work=Ex-Classics Project|year=2017|accessdate=2019-12-12|section=The Complete Cony-Catching by Robert Greene|sectionurl=https://www.exclassics.com/cony/conyintro.htm|archiveurl=https://web.archive.org/web/20251009212627/https://www.exclassics.com/cony/cony015.htm|archivedate=9 October 2025}}</ref>}}
+## {{lb|en|slang|archaic}} To borrow money from; to make a demand upon.
+##* {{quote-book|en|year=1655|author=w:James Shirley|title='{{w|The Gentleman of Venice}}'|editors2=w:William Gifford; w:Alexander Dyce|title2='The Dramatic Works and Poems of James Shirley'|location2=London|publisher2={{w|John Murray (publisher)|John Murray}}|year2=1833|volume2=5|page2=6|pageurl2=https://archive.org/details/dramaticworksan02unkngoog/page/n18/mode/1up|newversion=reprinted in|text=I must borrow money, / And that some call a '''striking'''; [...]}}
+# To touch; to act by [[appulse]].
+#* {{RQ:Locke Human Understanding|chapter=Some Farther Considerations Concerning Our Simple Ideas|section=19|page=58|passage=Let us conſider the red and white colours in ''Porphyre'': Hinder light, but from '''ſtriking''' on it, and its Colours vaniſh{{nb...}}.}}
+# {{lb|en|transitive|fishing}} To hook (a fish) by a quick turn of the wrist.
+#* {{quote-book|en|year=1894|title=Outing and the Wheelman|volume=24|page=56
+|passage=Of course, almost any fool could '''strike''' a fish if it lay quiet in very shallow water.}}
+# {{lb|en|transitive}} To take down, especially in the following contexts.
+## {{lb|en|nautical}} To [[haul]] down or [[lower]] (a [[flag]], [[mast]], etc.)
+## {{lb|en|by extension}} To [[capitulate]]; to signal a [[surrender]] by hauling down the colours.
+##: {{ux|en|The frigate has '''struck,''' sir! We've beaten them, the lily-livers!}}
+##* {{RQ:Burnet History|I|pages=396–397|pageref=397|text=He [King Charles II] ſent him [the Earl of Essex] Embaſſador to ''Denmark'', where his behaviour in the affair of the flag gained him much reputation:{{...}}Lord ''Eſſex''’s firſt buſineſs was to juſtify his behaviour in refuſing to '''ſtrike'''.{{...}}And he found very good materials to juſtify his conduct; ſince by formal treaties it had been expreſſly ſtipulated, that the ''Engliſh'' ſhips of war ſhould not '''ſtrike''' in the ''Daniſh'' ſeas.}}
+## {{lb|en|intransitive|by extension}} To stop working as a [[protest]] to achieve better working conditions.
+##: {{usex|en|The workers '''striked''' for better wages.}}
+##: {{syn|en|strike work}}
+##* '''1889''', New York (State). Dept. of Labor. Bureau of Statistics, ''Annual Report'' (part 2, page 127)
+##*: Two men were put to work who could not set their looms; a third man was taken on who helped the inefficients to set the looms. The other weavers thought this was a breach of their union rules and 18 of them '''struck''' {{...}}
+##* {{quote-book|en|year=1933|author=w:Frank Clune|title={{w|Try Anything Once (book)|Try Anything Once}}|location=Sydney|publisher=Angus and Robertson|page=43|passage=At the end of the week they '''struck''' for double pay and got it, because the job had to be done.}}
+## {{lb|en|transitive|dated|by extension}} To [[quit]] (one's job).
+##* {{quote-book|en|year=1887|author=Harriet W. Daly|title=Digging, Squatting, and Pioneering Life in the Northern Territory of South Australia|page=227|passage=It appears that a compositor had been engaged for the Northem Territory Times, and for a considerable time the editor seems to have led a comparatively unruffled existence; till in an evil hour the compositor was smitten with gold fever, and '''struck''' work.}}
+## To dismantle and take away (a theater set; a tent; etc.).
+##* {{RQ:Melville Moby-Dick|Merry Christmas|113|“'''Strike''' the tent there!”—was the next order. As I hinted before, this whalebone marquee was never pitched except in port; and on board the Pequod, for thirty years, the order to '''strike''' the tent was well known to be the next thing to heaving up the anchor.}}
+##* {{quote-journal|en|year=1979|journal=Texas Monthly|volume=7|issue=8|page=109
+|passage=The crew '''struck''' the set with a ferocity hitherto unseen, an army more valiant in retreat than advance.}}
+## To [[unfasten]], to [[loosen]] ([[chain]]s, [[bond]]s, etc.).
+##* {{RQ:Shelley Poetical Works|I|The Revolt of Islam|217|He '''struck''' my chains, and gently spake and smiled:<br>As they were loosened by that Hermit old,<br>Mine eyes were of their madness half beguiled,<br>To answer those kind looks.}}
+# {{lb|en|intransitive}} To [[set off]] on a [[walk]] or [[trip]].
+#: {{ux|en|They '''struck''' off along the river.}}
+#* {{quote-journal
+|en
+|url=https://archive.org/details/naturevolume17unkngoog/
+|date=October 8, 1885
+|title=The British Association
+|volume=32
+|issue=832
+|journal={{w|Nature (journal)|Nature}}
+|page=[https://archive.org/details/naturevolume17unkngoog/page/n606/ 564]
+|passage=In February, 1883, Mr. Hosie again left Chʻung-chʻing, and proceeded north-west to Chʻêng-tu, the capital of the province of Ssŭ-chʻuan, by way of the brine and petroleum wells of Tzŭ-liu-ching....In June, 1884, Mr. Hosie again left Chʻung-chʻing, and form Ho Chou, a three days' journey to the north of that city, he '''struck''' westward through a beautifully cultivated and fertile country to Chia-ting Fu, on the right bank of the Min at its junction with the Tʻung River.}}
+#* {{RQ:Lincoln Pratt's Patients|chapter=1|passage=I stumbled along through the young pines and huckleberry bushes. Pretty soon I '''struck''' into a sort of path that, I cal'lated, might lead to the road I was hunting for. It twisted and turned, and, the first thing I knew, made a sudden bend around a bunch of bayberry scrub and opened out into a big clear space like a lawn.}}
+# {{lb|en|intransitive}} To pass with a quick or strong effect; to dart; to penetrate.
+#* {{RQ:KJV|Proverbs|7|23|page=728|column=2|passage=Til a dart '''ſtrike''' through his liuer,{{...}}}}
+#* {{RQ:Dryden Spanish Fryar|act=Dedicatory|11|For if either the Story move us, or the Actor help the lameneſs of it with his performance, or now and then a glittering beam of wit or paſſion '''ſtrike''' through the obſcurity of the Poem, any of theſe are ſufficient to effect a preſent liking{{nb...}}.}}
+# {{lb|en|dated}} To break forth; to commence suddenly; with ''into''.
+#: {{co|en|to '''strike''' into reputation;&emsp; to '''strike''' into a run}}
+# {{lb|en|intransitive}} To become attached to something; said of the [[spat]] of [[oyster]]s.
+# {{senseid|en|to make}} {{lb|en|transitive}} To make and ratify; to [[reach]]; to [[find]].
+#: {{coi|en|to '''strike''' a bargain, deal or agreement}}
+#: {{coi|en|to '''strike''' a compromise}}
+#: {{coi|en|to '''strike''' a pact}}
+#: {{coi|en|to '''strike''' a truce, to '''strike''' an uneasy truce}}
+#: {{coi|en|to '''strike''' an accord, alliance, ceasefire or armistice}}
+#: {{coi|en|to '''strike''' a balance, to '''strike''' a delicate balance between}}
+# To discover a source of something, often a buried raw material such as [[ore]] (especially [[gold]]) or [[crude oil]].
+#: {{coi|en|to [[strike gold|'''strike''' gold]]}}
+#* {{quote-journal|en
+ | title = A Gold Rush Timeline
+ | journal = The Brasher Bulletin
+ | volume = 10
+ | issue = 2
+ | url = https://archive.org/details/brasherbulletinv10n2soc
+ | page = 5
+ | text = Howard Franklin and Henry Madison '''strike''' gold on the Fortymile River...
+ | year = 1998
+}}
+# To [[level]] (a measure of grain, salt, etc.) with a straight instrument, scraping off what is above the level of the top.
+# {{lb|en|masonry}} To cut off (a mortar joint, etc.) [[even]] with the face of the wall, or inward at a slight angle.
+# To [[hit upon]], or [[light]] upon, suddenly.
+#: {{ux|en|My eye '''struck''' a strange word in the text.&emsp; {{nowrap|They soon '''struck''' the trail.}}}}
+# {{lb|en|sugar-making|obsolete}} To [[lade]] [[thickened]] [[sugar cane]] [[juice]] from a [[teache]] into a [[cooler]].
+#* {{quote-book|en|year=1793|author=[[w:Bryan Edwards (politician)|Bryan Edwards]]|title=The History, Civil and Commercial, of the British Colonies in the West Indies|location=London|publisher=w:John Stockdale|volume=II|newversion=republished in|year2=1806|location2=Philadelphia|publisher2={{w|James Humphreys (printer)|James Humphreys}}|edition2=englarged and corrected|volume2=III|page2=46|pageurl2=https://archive.org/details/historycivilcom3edwa/page/46/mode/1up|text=In the teache the subject is still further evaporated, till it is judged sufficiently boiled to be removed from the fire. This operation is usually called '''''striking''';'' (i.e.) lading the liquor, now exceedingly thick, into the cooler.}}
+# To stroke or pass lightly; to wave.
+#* {{RQ:KJV|2 Kings|5|11|columns=2–1|passage={{...}}Beholde, I thought, He will{{...}}'''ſtrike''' his hand ouer the place, and recouer the leper.}}
+# {{lb|en|UK|dialect}} To apply or [[rub]] in [[liniment]] or [[ointment]]; to [[anoint]].
+#* {{quote-book|en|year=1850|author=w:Thomas Keightley|title=The Fairy Mythology|location=London|publisher=H.G. Bohn|page=302|passage=The mother said nothing to this, but gave nurse a certain ointment, with directions that she should '''''strike''''' (i.e. ''rub'') the child's eyes with it.}}
+# {{lb|en|obsolete}} To advance; to cause to go forward; used only in the past participle.
+#* {{RQ:Shakespeare Richard 3|act=I|scene=i|page=174|column=1|passage={{...}}Well '''ſtrooke''' in yeares,{{...}}}}
+# {{lb|en|transitive|finance}} To [[balance]] (a ledger or account).
+# {{lb|en|intransitive|obsolete}} To become saturated with salt. <!--Chambers 1908-->
+# {{lb|en|intransitive|obsolete}} To run, or fade in colour. <!--Chambers 1908-->
+# {{lb|en|intransitive|US|obsolete}} To do menial work for an officer. <!--Chambers 1908-->
+
+====Usage notes====
+* Longman Dictionary of Contemporary English: "In everyday English, people usually say ''hit'' rather than ''strike''."
+* The simple past is almost always ''struck'', but it is often avoided by using the verb {{m|en|hit}} (even more than in other tenses) or other verbs and expressions. This is especially true in the sense of ''stopped working in protest'', about which many native speakers have strong opinions concerning the use or appropriateness of ''struck'' or ''striked''. These strong opinions and criticism of different usage by other people are partly due to regional differences but mostly due to the verb being essentially [[defective]] (not used in all tenses) in this sense. The expressions ''workers went on strike'' and ''workers were on strike'' are much more common than ''workers struck'' and ''workers striked'', which sound odd, dated, or wrong to many native speakers.
+* The past participle is usually ''struck'' (e.g. ''He'd struck it rich'', or ''When the clock had struck twelve'', etc.). The form ''stricken'' is significantly rarer. However, it is still found in the sense of "to delete, cross out", as in {{m|en||The Court has stricken the statement from the record}}. Moreover, it is used in the passive in the sense of "[[afflicted]]", as in {{m|en||The city was stricken with/by disease}}. In other contexts it is literary or archaic.
+
+====Derived terms====
+{{col3|en
+|counterstrike
+|misstrike
+|panic-strike
+|outstrike
+|overstrike
+|restrike
+|strikeable
+|strikee
+|strikefire
+|striker
+|strike a balance
+|strike a bargain|downstrike|unstrike
+|strike a blow
+|strike a chord
+|strike a false note
+|strike a jury|strike fear
+|strike a lead
+|strike a light
+|strike a medium
+|strike a nerve
+|strike a stroke|lightning does not strike twice in the same place|lightning doesn't strike twice in the same place
+|strike at the heart of
+|strike back
+|strike camp
+|strike down
+|strike dumb
+|strike gold
+|strike hands
+|strike in
+|strike it lucky
+|strike it rich
+|strike lucky
+|strike me blind
+|strike me lucky
+|strike me pink
+|strike me silly
+|strike off
+|strike oil
+|strike one's flag
+|strike out
+|strike sail
+|strike tallies
+|strike the colors
+|strike through
+|strike up
+|strike work
+|striking distance
+|grief-stricken
+|heartstricken
+|panic-stricken
+|poverty-stricken
+|sunstricken
+|sunstrike
+|terror-stricken
+|awestruck
+|cunt-struck
+|double-struck
+|dumbstruck
+|flystruck
+|fuckstruck
+|gobstruck
+|horror-struck
+|light-struck
+|love-struck
+|moonstruck
+|planet-struck
+|stagestruck
+|star-struck
+|thunderstruck
+|wonderstruck
+|lightning never strikes twice in the same place
+|strike me up a gum tree|strike one's colors
+|strike while the iron is hot
+|strike someone when they are down|strike someone's fancy|strike the flag|strike the iron while it's hot|strike the tent|strike off strength}}
+
+====Descendants====
+* {{desc|de|streiken|bor=1}}
+
+====Translations====
+{{trans-top|to delete}}
+* Afrikaans: {{t|af|uitwis}}
+* Armenian: {{t+|hy|ջնջել}}
+* Assamese: {{t|as|কাটি পেলোৱা}}
+* Azerbaijani: {{t+|az|silmək}}
+* Bashkir: {{t|ba|һыҙыу}} {{q|to cross out}}, {{t|ba|юйыу}} {{q|to erase}}
+* Bengali: {{t+|bn|কেটে ফেলা}}
+* Bulgarian: {{t+|bg|задрасквам}}
+* Danish: {{t|da|overstrege}}, {{t|da|gennemstrege}}
+* Dutch: {{t+|nl|doorstrepen}}, {{t+|nl|uitwissen}}, {{t+|nl|wissen}}
+* Finnish: {{t+|fi|poistaa}}
+* French: {{t+|fr|biffer}}, {{t+|fr|rayer}}, {{t+|fr|barrer}}
+* Galician: {{t+|gl|riscar}}, {{t+|gl|cancelar}}, {{t+|gl|borrar}}
+* Georgian: {{t|ka|გადახაზვა}}
+* German: {{t+|de|streichen}}
+* Greek: {{t+|el|διαγράφω}}
+* Hungarian: {{t+|hu|kitöröl}}
+* Italian: {{t+|it|cancellare}}
+* Japanese: {{t+|ja|消す|tr=kesu}}
+* Luganda: {{t|lg|okwekalakaasa}}
+* Macedonian: {{t|mk|за́чкрта}}
+* Malayalam: {{t+|ml|വെട്ടുക}}
+* Māori: {{t|mi|muru}}, {{t|mi|muku}}
+* Norwegian: {{t+|no|stryke}}
+* Occitan: {{t+|oc|escafar}}, {{t+|oc|cancelar}}, {{t+|oc|esfaçar}}
+* Portuguese: {{t+|pt|eliminar}}, {{t+|pt|deletar}}, {{t+|pt|excluir}}
+* Russian: {{t+|ru|вычёркивать|impf}}, {{t+|ru|вы́черкнуть|pf}}, {{t+|ru|зачёркивать|impf}}, {{t+|ru|зачеркну́ть|pf}}
+* Sotho: {{t+|st|hlakola}}
+* Spanish: {{t+|es|tachar}}, {{t+|es|borrar}}
+* Swedish: {{t+|sv|stryka}}
+* Ukrainian: {{t|uk|закре́слювати}}, {{t|uk|викре́слювати}}
+{{trans-bottom}}
+
+{{trans-top|to hit}}
+* Afrikaans: {{t+|af|slaan}}
+* Akkadian: {{t|akk|𒉺|tr=maḫāṣu, SÌG}}
+* Albanian: {{t+|sq|qëlloj}}, {{t+|sq|gju}}, {{t+|sq|mëshoj|m}}, {{t+|sq|hi}}(gheg)
+* Arabic: {{t+|ar|ضَرَبَ}}
+* Armenian: {{t+|hy|խփել}}, {{t+|hy|հարվածել}}
+* Assamese: {{t|as|কোবোৱা}}, {{t|as|পিটা}}
+* Azerbaijani: {{t+|az|vurmaq}}, {{t+|az|çaxmaq}}, {{t|az|qaxmaq}}, {{t+|az|çalmaq}}, {{t|az|çırpmaq}}
+* Bashkir: {{t|ba|һуғыу}} 
+* Belarusian: {{t|be|біць|impf}}, {{t|be|пабі́ць|pf}}, {{t|be|удара́ць|impf}}, {{t|be|ўдара́ць|impf}}, {{t|be|уда́рыць|pf}}, {{t|be|ўда́рыць|pf}}
+* Bengali: {{t+|bn|আঘাত}}
+* Bikol:
+*: Central Bikol: {{t+|bcl|uragan}}
+* Bulgarian: {{t+|bg|у́дрям}}, {{t+|bg|бия}}
+* Catalan: {{t+|ca|colpejar}}
+* Cherokee: {{t|chr|ᎬᏂᎭ}}
+* Chinese:
+*: Mandarin: {{t+|cmn|打擊|tr=dǎjī}}
+* Dutch: {{t+|nl|slaan}}, {{t+|nl|treffen}}, {{t+|nl|raken}}
+* Esperanto: {{t+|eo|frapi}}, {{t+|eo|bati}}, {{t+|eo|trafi}}
+* Finnish: {{t+|fi|iskeä}}, {{t+|fi|lyödä}}
+* French: {{t+|fr|frapper}}, {{t+|fr|battre}}
+* Galician: {{t+|gl|golpear}}, {{t+|gl|bater}}, {{t|gl|zoscar}}, {{t|gl|zorregar}}, {{t|gl|zoupar}}, {{t+|gl|apancar}}, {{t+|gl|bourar}}
+* German: {{t+|de|schlagen}}
+* Greek: {{t+|el|χτυπώ}}
+*: Ancient Greek: {{t|grc|τύπτω}}, {{t|grc|πλήσσω}}, {{t|grc|παίω}}
+* Hebrew: {{t+|he|הִכָּה|tr=hiká}}
+* Hungarian: {{t+|hu|üt}}
+* Ido: {{t+|io|frapar}}, {{t+|io|batar}}
+* Indonesian: {{t+|id|menabrak}}, {{t+|id|tabrak}}
+* Ingrian: {{t|izh|iskiä}}, {{t|izh|löövvä}}, {{t|izh|tappaa}}, {{t|izh|issuttaa}}, {{t|izh|peeksää}}, {{t|izh|napsuttaa}}, {{t|izh|kleittää}}, {{t|izh|kommia}}
+* Irish: {{t|ga|buail}}, {{t|ga|failp}}, {{t|ga|smiot}}
+*: Old Irish: {{t|sga|benaid}}
+* Italian: {{t+|it|colpire}}
+* Jamaican Creole: {{t|jam|lick}}
+* Japanese: {{t+|ja|打つ|tr=utsu}}, {{t|ja|攻撃する|tr=kōgeki suru}}
+* Kalmyk: {{t|xal|цокх}}
+* Khmer: {{t+|km|វាយ}}
+* Korean: {{t-needed|ko}}
+* Lao: {{t|lo|ຕີ}}
+* Latin: {{t|la|feriō}}, {{t|la|cūdō}}, {{t|la|pulsō}}, {{t|la|plangō}}
+* Lithuanian: {{t+|lt|trenkti}}
+* Low German:
+*: German Low German: {{t|nds-de|slaan}}
+* Macedonian: {{t|mk|у́дри}}, {{t|mk|би́е}}
+* Malayalam: {{t|ml|അടിയ്ക്കുക}}
+* Māori: {{t|mi|tiu}} {{qualifier|with a weapon}}, {{t|mi|pāike}} {{qualifier|with a tool e.g. a hammer}}, {{t|mi|whakaruke}}
+* Marshallese: {{t|mh|bait}}
+* Middle English: {{t|enm|stryken}}, {{t|enm|swyngen}}
+* Mongolian: {{t-needed|mn}}
+* Nepali: {{t|ne|ठोक्नु}}
+* Ngeq: {{t|ngt|tiɲ}}
+* Norman: {{t|nrf|porter un coup}} {{qualifier|Jersey}}
+* Norwegian: {{t+|no|slå}}, {{t+|no|ramme}}
+* Old English: {{t|ang|cnyssan}}
+* Old Prussian: {{t|prg|buktun}}
+* Persian: {{t+|fa|زدن|tr=zadan}}
+* Polish: {{t+|pl|trafiać|impf}}
+* Portuguese: {{t+|pt|acertar}}, {{t+|pt|golpear}}
+* Romanian: {{t+|ro|bate}}
+* Russian: {{t+|ru|бить|impf}}, {{t+|ru|ударя́ть|impf}}, {{t+|ru|уда́рить|pf}}
+* Sanskrit: {{t+|sa|तुदति}}
+* Scottish Gaelic: {{t|gd|buail}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|у̀дарити}}
+*: Latin: {{t+|sh|ùdariti}}
+* Sorbian:
+*: Lower Sorbian: {{t|dsb|biś}}
+* Sotho: {{t+|st|shapa}}
+* Spanish: {{t+|es|golpear}}, {{t+|es|pegar}}, {{t+|es|asestar}}, {{t+|es|propinar}}
+* Swedish: {{t+|sv|slå}}
+* Tamil: {{t+|ta|படு}}
+* Thai: {{t+|th|ตี}}
+* Turkish: {{t+|tr|vurmak}}
+*: Ottoman Turkish: {{t|ota|چالمق|tr=çalmak}}
+* Ugaritic: {{t|uga|𐎎𐎃𐎕}}
+* Ukrainian: {{t+|uk|би́ти}}, {{t|uk|вда́рити}}
+* Vietnamese: {{t+|vi|đánh}}
+* Welsh: {{t+|cy|taro}}
+* Yiddish: {{t|yi|שלאָגן}}
+{{trans-bottom}}
+
+{{trans-top|transitive: to give, as a blow; to give force to}}
+* Alabama: {{t|akz|ɬahi}} {{q|of a snake}}
+* Finnish: {{t+|fi|iskeä}}
+* Marshallese: {{t|mh|bait}}
+* Swedish: {{t+|sv|slå}}, {{t+|sv|träffa}}
+* Turkish:
+*: Ottoman Turkish: {{t|ota|چالمق|tr=çalmak}}
+{{trans-bottom}}
+
+{{trans-top|intransitive: to deliver a quick blow or thrust}}
+* Bulgarian: {{t+|bg|удрям}}
+* Finnish: {{t+|fi|iskeä}}, {{t+|fi|hakata}}, {{t+|fi|takoa}}
+* French: {{t+|fr|frapper}}
+* Greek: {{t+|el|πλήττω}}
+* Macedonian: {{t|mk|у́дри}}
+* Old English: {{t|ang|cnossian}}
+* Swedish: {{t+|sv|slå}}
+* Turkish:
+*: Ottoman Turkish: {{t|ota|چالمق|tr=çalmak}}
+{{trans-bottom}}
+
+{{trans-top|to manufacture by stamping}}
+* Afrikaans: {{t+|af|slaan}}
+* Bashkir: {{t|ba|һуғыу}} 
+* Bulgarian: {{t|bg|чеканя}}, {{t|bg|щамповам}}
+* Dutch: {{t+|nl|slaan}}
+* Finnish: {{t+|fi|lyödä}}
+* French: {{t+|fr|frapper}}
+* German: {{t+|de|prägen}}
+* Italian: {{t+|it|coniare}}
+* Russian: {{t+|ru|чека́нить|impf}}, {{t+|ru|отчека́нить|pf}}
+* Spanish: {{t+|es|acuñar}}
+* Swedish: {{t+|sv|slå}}
+* Welsh: {{t+|cy|bathu}}
+{{trans-bottom}}
+
+{{trans-top|dated: to run upon a rock or bank}}
+* Bashkir: {{t|ba|терәлеү}} 
+* Finnish: {{t|fi|[[ajaa]] [[karille]]}}
+{{trans-bottom}}
+
+{{trans-top|to cause to sound by one or more beats}}
+* Bashkir: {{t|ba|һуғыу}} 
+* Finnish: {{t+|fi|lyödä}}
+* French: {{t+|fr|battre}} {{qualifier|drums}}
+* Swedish: {{t+|sv|slå}}, {{t+|sv|anslå}}
+{{trans-bottom}}
+
+{{trans-top|to sound by percussion}}
+* Finnish: {{t+|fi|lyödä}}
+* Swedish: {{t+|sv|anslå}}
+{{trans-bottom}}
+
+{{trans-top|to cause or produce by a stroke}}
+* Finnish: {{t|fi|räväyttää}}
+* Turkish:
+*: Ottoman Turkish: {{t|ota|چاقمق|tr=çakmak}}
+{{trans-bottom}}
+
+{{trans-top|to cause to ignite by friction}}
+* Bulgarian: {{t+|bg|драсвам}}
+* Finnish: {{t+|fi|raapaista}}
+* Gagauz: {{t|gag|çakmaa}}
+* Turkish:
+*: Ottoman Turkish: {{t|ota|چاقمق|tr=çakmak}}
+{{trans-bottom}}
+
+{{trans-top|to thrust in; to cause to enter or penetrate}}
+* Bulgarian: {{t+|bg|пронизвам}}
+* Finnish: {{t+|fi|tunkea}}
+{{trans-bottom}}
+
+{{trans-top|to punish; to afflict; to smite}}
+* Bulgarian: {{t+|bg|поразявам}}
+* Finnish: {{t+|fi|lyödä}}
+{{trans-bottom}}
+
+{{trans-top|to carry out a violent or illegal action}}
+* Finnish: {{t+|fi|iskeä}}
+{{trans-bottom}}
+
+{{trans-top|to act suddenly}}
+* Finnish: {{t+|fi|iskeä}}
+* Swedish: {{t+|sv|slå till}}
+{{trans-bottom}}
+
+{{trans-top|(figurative) to impinge upon}}
+* Bulgarian: {{t|bg|попадам}}
+* Finnish: {{t+|fi|iskeä}}, {{t+|fi|koskettaa}}; {{t|fi|kiinnittää huomiota}} {{qualifier|to strike attention}}
+* French: {{t+|fr|frapper}}
+* Spanish: {{t+|es|sobrevenir}}
+{{trans-bottom}}
+
+{{trans-top|to stop working as a form of protest}}
+* Afrikaans: {{t|af|staak}}
+* Amharic: {{t|am|አደመ}}
+* Bulgarian: {{t|bg|стачкувам}}
+* Czech: {{t|cs|stávkovat}}
+* Dutch: {{t+|nl|staken}}
+* Esperanto: {{t+|eo|striki}}
+* Finnish: {{t+|fi|lakkoilla}}
+* French: {{t+|fr|faire grève}}
+* Georgian: {{t|ka|გაფიცვა}}
+* German: {{t+|de|streiken}}
+* Greek: {{t+|el|απεργώ}}
+* Hebrew: {{t+|he|שָׁבַת|tr=shavát}}
+* Irish: {{t|ga|dul ar stailc}}
+* Italian: {{t+|it|scioperare}}
+* Japanese: {{t|ja|ストライキを起こす|tr=sutoraiki o okosu}}
+* Khmer: {{t+|km|បះ}}, {{t|km|[[ធ្វើ]][[កូដកម្ម]]|tr=thvəə  koudaʼkam}}
+* Māori: {{t|mi|auporo}}, {{t|mi|porotū}}
+* Norwegian: {{t|no|streike}}
+* Polish: {{t+|pl|strajkować}}
+* Portuguese: {{t|pt|[[fazer]] [[greve]]}}
+* Romanian: {{t+|ro|grevă}}
+* Russian: {{t+|ru|бастова́ть|impf}}, {{t+|ru|забастова́ть|pf}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|штра̏јкати}}
+*: Latin: {{t+|sh|štrȁjkati}}
+* Slovak: {{t|sk|štrajkovať}}
+* Sotho: {{t|st|seteraeka}}
+* Spanish: {{t|es|[[parar]] [[el]] [[trabajo]]}}, {{t|es|[[hacer]] [[huelga]]}}, {{t|es|huelguear}} {{q|Bolivia}}
+* Swedish: {{t+|sv|strejka}}
+* Ukrainian: {{t|uk|страйкува́ти}}
+* Vietnamese: {{t+|vi|bãi công}}, {{t+|vi|đình công}}
+* Welsh: {{t+|cy|streicio}}
+{{trans-bottom}}
+
+{{trans-top|to impress, seem, appear}}
+* Bulgarian: {{t+|bg|изглеждам}}
+* Czech: {{t+|cs|připadnout}}
+* Dutch: {{t+|nl|schijnen}}
+* Finnish: {{t+|fi|vaikuttaa}}
+* French: {{t+|fr|frapper}}
+* German: {{t+|de|scheinen}}
+* Greek: {{t+|el|εντυπωσιάζω}}
+* Irish: {{t|ga|[[téigh i bhfeidhm]] [[ar]]}}
+* Italian: {{t+|it|sembrare}}
+* Norwegian: {{t+|no|slå}}
+* Portuguese: {{t+|pt|parecer}}
+* Russian: {{t+|ru|поража́ть|impf}}, {{t+|ru|порази́ть|pf}}, {{t+|ru|потряса́ть|impf}}, {{t+|ru|потрясти́|pf}}
+* Scottish Gaelic: {{t|gd|buail air}}
+* Spanish: {{t+|es|ocurrirse}}, {{t+|es|parecer}}
+* Swedish: {{t+|sv|slå}}
+* Ukrainian: {{t|uk|вража́ти}}
+{{trans-bottom}}
+
+{{trans-top|to create an impression}}
+* Bulgarian: {{t|bg|правя впечатление}}
+* Finnish: {{t+|fi|vaikuttaa}}
+* French: {{t+|fr|frapper}}
+{{trans-bottom}}
+
+{{trans-top|to score}}
+* Finnish: {{t+|fi|iskeä}}
+{{trans-bottom}}
+
+{{trans-top|slang, obsolete: to steal money}}
+* Finnish: {{t+|fi|varastaa}}
+{{trans-bottom}}
+
+{{trans-top|to take forcibly or fraudulently}}
+* Finnish: {{t+|fi|ryöstää}}
+{{trans-bottom}}
+
+{{trans-top|to make a sudden impression upon, as if by a blow; to affect with some strong emotion}}
+* Bulgarian: {{t|bg|идва ми на ум}}
+* Finnish: {{t+|fi|koskettaa}}
+* French: {{t+|fr|frapper}}
+* Spanish: {{t+|es|sorprender}}, {{t+|es|impresionar}}, {{t+|es|descubrir}}, {{t+|es|impactar}}, {{t+|es|sacudir}}
+* Swedish: {{t+|sv|slå}}
+{{trans-bottom}}
+
+{{trans-top|to affect by a sudden impression or impulse}}
+* Finnish: {{t+|fi|yllättää}}; {{t|fi|lyödä maahan}} {{qualifier|strike down}}; {{t+|fi|mykistää}}, {{t+|fi|pysäyttää}} {{qualifier|strike dumb}}
+{{trans-bottom}}
+
+{{trans-top|slang, archaic: to borrow money from; to make a demand upon}}
+* Finnish: {{t+|fi|vipata}} {{qualifier|to borrow}}
+{{trans-bottom}}
+
+{{trans-top|to touch; to act by appulse}}
+* Finnish: {{t+|fi|koskea}}
+{{trans-bottom}}
+
+{{trans-top|nautical: to take down}}
+* Bulgarian: {{t+|bg|спускам}}, {{t+|bg|прибирам}}
+* Finnish: {{t+|fi|laskea}}
+* French: {{t+|fr|affaler}}
+* Russian: {{t+|ru|спусти́ть|impf}}, {{t+|ru|спуска́ть|pf}}, {{t+|ru|убира́ть|impf}}, {{t+|ru|убра́ть|pf}}
+{{trans-bottom}}
+
+{{trans-top|nautical: to surrender}}
+* Dutch: {{t|nl|de vlag strijken}}
+* Finnish: {{t|fi|laskea lippu}}
+* French: {{t+|fr|baisser pavillon}}, {{t+|fr|amener}}
+* German: {{t|de|die Fahne streichen}}
+* Greek: {{t+|el|υποστέλλω}}
+* Italian: {{t+|it|arrendersi}}
+* Portuguese: {{t+|pt|impressionar}}, {{t+|pt|parecer}}
+* Russian: {{t+|ru|сдава́ться|impf}}, {{t+|ru|сда́ться|pf}}
+* Spanish: {{t+|es|arriar}}, {{t+|es|bajar}}
+{{trans-bottom}}
+
+{{trans-top|to dismantle and take away}}
+* Finnish: {{t+|fi|purkaa}}
+{{trans-bottom}}
+
+{{trans-top|to set off on a walk or trip}}
+* Finnish: {{t|fi|[[lähteä]] [[kulkemaan]]}}
+{{trans-bottom}}
+
+{{trans-top|to pass with a quick or strong effect; to dart; to penetrate}}
+* Finnish: {{t+|fi|lävistää}}
+{{trans-bottom}}
+
+{{trans-top|dated: to break forth}}
+* Finnish: {{t|fi|rynnistää}}
+{{trans-bottom}}
+
+{{trans-top|of oysters: to become attached to something}}
+* Finnish: {{t+|fi|kiinnittyä}}
+{{trans-bottom}}
+
+{{trans-top|to make and ratify}}
+* Finnish: {{t+|fi|sopia}}
+{{trans-bottom}}
+
+{{trans-top|to level measure with a straight instrument}}
+* Finnish: {{t+|fi|tasata}}
+{{trans-bottom}}
+
+{{trans-top|masonry: to cut off even with the face of the wall}}
+* Finnish: {{t+|fi|iskeä}}
+{{trans-bottom}}
+
+{{trans-top|to hit upon, or light upon, suddenly}}
+* Finnish: {{t+|fi|sattua}}
+{{trans-bottom}}
+
+{{trans-top|to lade into a cooler}}
+* Finnish: {{t+|fi|laittaa}}
+{{trans-bottom}}
+
+{{trans-top|to stroke or pass lightly; to wave}}
+* Finnish: {{t+|fi|liikuttaa}}
+{{trans-bottom}}
+
+{{trans-top|obsolete: to advance; to cause to go forward}}
+{{trans-bottom}}
+
+{{trans-top|to balance, as a ledger or account}}
+* Finnish: {{t+|fi|tasata}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Dutch: {{qualifier|1}} {{t+check|nl|doorhalen}}, {{qualifier|2}} {{t+check|nl|slaan}}, {{qualifier|2}} {{t+check|nl|toeslaan}}
+* Esperanto: {{qualifier|1}} {{t+check|eo|forigi}}, {{qualifier|2}} {{t+check|eo|frapi}}, {{qualifier|2}} {{t+check|eo|bati}}, {{qualifier|3}} {{t+check|eo|striki}}
+* Indonesian: {{t+check|id|tubruk|alt=menubruk}}, {{t+check|id|serang|alt=menyerang}}
+* Irish: {{t-check|ga|smiot}}
+* Norman: {{t-check|nrf|capuchi}} {{qualifier|Jersey}}, {{t-check|nrf|satchi}} {{qualifier|Jersey}}
+* Old English: {{t-check|ang|hnossian}} {{q|2}}
+{{trans-bottom}}
+
+===Noun===
+{{en-noun}}
+
+# {{senseid|en|baseball}} {{lb|en|baseball}} A [[status]] [[result]]ing from a [[batter]] [[swing]]ing and [[miss]]ing a [[pitch]], or not swinging at a pitch when the [[ball]] goes in the [[strike zone]], or [[hit]]ting a [[foul ball]] that is not [[catch|caught]].
+#* {{quote-song|en|year=1996|author=w:Lyle Lovett|title=Her First Mistake|album=w:The Road to Ensenada
+|passage=It was then I knew I had made my third mistake.  Yes, three '''strikes''' right across the plate, and as I hollered "Honey, please wait" she was gone.}}
+# {{lb|en|bowling}} The act of [[knock down|knocking down]] all [[ten]] [[pin]]s on the [[first]] [[roll]] of a [[frame]].
+# {{senseid|en|protest}} A [[work]] [[stoppage]] (or otherwise [[concert]]ed stoppage of an [[activity]]) as a form of [[protest]].
+#: {{syn|en|walkout#Noun}}
+#: {{ant|en|industrial peace|lockout#Noun|non-strike|nonstrike}}
+#: {{hyper|en|labor action|industrial action}}
+#: {{cot|en|go-slow#Noun|slowdown#Noun|stayaway#Noun|stayout#Noun|work-to-rule}}
+#: {{ux|en|After an eleven-week '''strike''', it was management that finally blinked.}}
+# A [[blow]] or [[application]] of [[physical]] [[force]] against something.
+#* {{quote-book|en|text=Thus hand '''strikes''' now include single knuckle '''strikes''', knife hand '''strikes''', finger '''strikes''', ridge hand '''strikes''' etc., and leg '''strikes''' include front kicks, knee '''strikes''', axe kicks,{{...}}|title=An Overview of Martial Arts|page=14|author=Chris Traish; Leigh Olsson|year=1990}}
+#* {{quote-book|en|year=1996|author=w:Annie Proulx|title=Accordion Crimes
+|passage={{...}} and they could hear the rough sound, could hear too the first '''strikes''' of rain as though called down by the music.}}
+#* {{quote-song|en|year=2008|author=w:Lich King (band)|title=Attack of the Wrath of the War of the Death of the Strike of the Sword of the Blood of the Beast|album=Toxic Zombie Onslaught
+|passage=He's got machine guns and hatchets and swords / And some missiles and foods with trans-fats / He will unleash mass destruction, you're dead / You just got smashed... by the ¶ Attack of the Wrath of the / War of the Death of the / '''Strike''' of the Sword of the / Blood... of the Beast}}
+# {{lb|en|military|by extension}} An [[attack]], not necessarily [[physical]].
+#: {{ux|en|[[air strike|air '''strike''']]; [[first strike|first '''strike''']]}}
+# {{lb|en|finance}} In an [[option]] [[contract]], the [[price]] at which the [[holder]] [[buy]]s or [[sell]]s if they [[choose]] to [[exercise]] the option.
+# {{lb|en|historical}} An [[old]] [[English]] [[measure]] of [[corn]] [[equal]] to the [[bushel]].
+#* {{quote-book|en|year=1882|author=James Edwin Thorold Rogers| title=A History of Agriculture and Prices in England| volume=4| page=207| passage=The sum is also used for the quarter, and the '''strike''' for the bushel.}}
+# {{lb|en|cricket}} The [[status]] of being the [[batsman]] that the [[bowler]] is [[bowl]]ing at.
+#: {{ux|en|The batsmen have crossed, and Dhoni now has the '''strike'''.}}
+# The [[primary]] [[face]] of a [[hammer]], [[opposite]] the [[peen]].
+# {{lb|en|geology}} The [[compass]] [[direction]] of the [[line]] of [[intersection]] between a [[rock]] [[layer]] and the [[surface]] of the [[Earth]] or another [[solid]] [[celestial body]].
+# An [[instrument]] with a [[straight edge]] for [[level]]ling a [[measure]] of [[grain]], [[salt]], etc., [[scrape|scraping]] [[off]] what is [[above]] the [[level]] of the [[top]]; a [[strickle]].
+# {{lb|en|obsolete}} {{cap|fullness}} of [[measure]]; the [[whole]] [[amount]] [[produce]]d at one [[time]].
+#: {{usex|en|a '''strike''' of malt; a '''strike''' of coin}}
+# {{lb|en|obsolete|by extension}} {{cap|excellence}}; [[quality]].
+#* {{RQ:Scott Ivanhoe|III|X|pages=266–267|pageref=267|passage={{...}}our cellarer shall have orders to deliver to thee a butt of sack, a runlet of Malvesie, and three hogsheads of ale of the first '''strike''', yearly—If that will not quench thy thirst, thou must come to court, and become acquainted with my butler.}}
+# An [[iron]] [[pale]] or [[standard]] in a [[gate]] or [[fence]].
+# {{lb|en|ironworking}} A [[puddler]]'s [[stirrer]].
+# {{lb|en|obsolete}} The [[extortion]] of [[money]], or the [[attempt]] to [[extort]] money, by [[threat]] of [[injury]]; [[blackmail]].
+# The [[discovery]] of a [[source]] of something.
+#* {{RQ:Economist|date=2013-08-03|volume=408|issue=8847| title=Yesterday’s fuel|url=http://www.economist.com/news/leaders/21582516-worlds-thirst-oil-could-be-nearing-peak-bad-news-producers-excellent| passage=The dawn of the oil age was fairly recent. Although the stuff was used to waterproof boats in the Middle East 6,000 years ago, extracting it in earnest began only in 1859 after an oil '''strike''' in Pennsylvania. The first barrels of crude fetched $18 (around $450 at today’s prices).|archiveurl=https://web.archive.org/web/20180425074221/https://www.economist.com/news/leaders/21582516-worlds-thirst-oil-could-be-nearing-peak-bad-news-producers-excellent|archivedate=25 April 2018}}
+# The [[strike plate]] of a [[door]].
+# {{lb|en|fishing}} A [[nibble]] on the [[bait]] by a [[fish]].
+#* {{quote-book|en|year=2014|author=Michael Gorman|title=Effective Stillwater Fly Fishing|page=87
+|passage=I must admit that my focus was divided, which limited my fishing success. I made a few casts, then arranged my inanimate subjects and took photos. When my indicator went down on my first '''strike''', I cleanly missed the hook up.}}
+# {{lb|en|philately}} A [[cancellation]] [[postmark]].
+# {{lb|en|printing|historical}} An [[imperfect]] [[matrix]] for [[type]].
+
+====Derived terms====
+{{col3|en|copystrike|doublestrike|downstrike|flamestrike|flystrike|footstrike|multistrike|poststrike|prestrike|prostrike|strikebound|strikebreak|strikebreaker|strikebreaking|strikeforce|strikeless|strikelike|strikeover|Striketober|strikelist|superstrike|thunderstrike|trickle|upstrike
+|airstrike
+|alpha strike
+|anti-strike
+|antistrike
+|birdstrike,bird strike
+|bridge strike
+|checkerboard strike
+|deadbolt strike
+|decapitation strike
+|first strike
+|hunger strike
+|general strike
+|latch strike
+|lightning strike
+|on strike
+|rampstrike
+|wingstrike
+|rent strike|go on strike
+|second strike
+|sit-down strike
+|splendid first strike
+|strike action
+|strike jamb
+|strike plate
+|striker|Italian strike
+|tailstrike
+|third strike
+|three strikes|compliance strike|strike measure|surgical strike|token strike
+|wildcat strike| air strike|bird strike|climate strike|farm the strike|February strike|hate strike|heelstrike|one strike and you're out|precision F-strike|preemptive strike|relay strike|sex strike|signature strike|strike bowler|strike breaking|strike camp|strike force|strike insurance|strike partner|strike price|strike rate|strike sheet|strike suit|strike team|strike-break|strike-breaking|strike-slip fault|strike-stick|student strike|sympathy strike|ten-strike
+}}
+
+====Descendants====
+{{top2}}
+{{q|sports}}
+* {{desc|da|strike|bor=1}}
+* {{desc|nl|strike|bor=1}}
+* {{desc|fr|strike|bor=1}}
+* {{desc|de|Strike|bor=1}}
+* {{desc|it|strike|bor=1}}
+* {{desc|ja|ストライク|tr=sutoraiku|bor=1}}
+* {{desc|ko|스트라이크|bor=1}}
+* {{desc|pt|strike|bor=1}}
+* {{desc|ru|страйк|bor=1}}
+* {{desc|es|''strike''|bor=1}}
+* {{desc|sv|strike|bor=1}}
+{{q|protest}}
+* {{desc|da|strejke|bor=1}}
+* {{desc|eo|striko|bor=1}}
+* {{desc|hu|sztrájk|bor=1}}
+* {{desc|ja|ストライキ|tr=sutoraiki|bor=1}}
+* {{desctree|de|Streik|bor=1}}
+* {{desctree|pl|strajk|bor=1}}
+* {{desc|sv|strejk|bor=1}}
+* {{desc|cy|streic|bor=1}}
+{{bottom}}
+
+====Translations====
+{{trans-top|in baseball}}
+* Chinese:
+*: Mandarin: {{t+|cmn|好球|tr=hǎoqiú}}
+* Dutch: {{t+|nl|slag|m}}
+* Esperanto: {{t|eo|trafo}}
+* Finnish: {{t+|fi|lyönti}}
+* German: {{t+|de|Strike|m}}
+* Japanese: {{t+|ja|ストライク|tr=sutoraiku}}
+* Korean: {{t+|ko|스트라이크}}
+* Russian: {{t+|ru|страйк|m}}
+* Spanish: {{t|es|''strike''|m}}
+* Swedish: {{t+|sv|strike|c}}
+* Ukrainian: {{t|uk|страйк|m}}
+{{trans-bottom}}
+
+{{trans-top|in bowling}}
+* Catalan: {{t+|ca|ple|m}}
+* Chinese:
+*: Mandarin: {{t|cmn|全倒}}
+* Danish: {{t+|da|strike|c}}
+* Dutch: {{t+|nl|strike|m}}
+* Finnish: {{t+|fi|kaato}}
+* French: {{t+|fr|strike|m}}
+* German: {{t+|de|Strike|m}}
+* Japanese: {{t+|ja|ストライク|tr=sutoraiku}}
+* Korean: {{t+|ko|스트라이크}}
+* Portuguese: {{t+|pt|strike|m}}
+* Russian: {{t+|ru|страйк|m}}
+* Spanish: {{t+|es|chuza|f}}, {{t+|es|pleno|m}}, {{t+|es|moñona|f}} {{qualifier|Colombia}}
+* Swedish: {{t+|sv|strike|c}}
+{{trans-bottom}}
+
+{{trans-top|work stoppage}}
+* Afrikaans: {{t|af|staking}}
+* Albanian: {{t+|sq|grevë|f}}
+* Arabic: {{t|ar|إِضْرَاب|m}}
+* Armenian: {{t+|hy|գործադուլ}}
+* Asturian: {{t+|ast|güelga|f}}, {{t+|ast|fuelga|f}}, {{t|ast|escadiella|f}}
+* Azerbaijani: {{t+|az|tətil}}
+* Basque: {{t+|eu|greba}}
+* Belarusian: {{t|be|забасто́ўка|f}}, {{t|be|страйк|m}}, {{t|be|ста́чка|f}}, {{t|be|штрайк|m}}
+* Bengali: {{t+|bn|ধর্মঘট}}
+* Breton: {{t+|br|harz-labour}}
+* Bulgarian: {{t+|bg|ста́чка|f}}
+* Burmese: {{t+|my|သပိတ်}}
+* Catalan: {{t+|ca|vaga|f}}
+* Chinese:
+*: Cantonese: {{t|yue|罷工}}
+*: Mandarin: {{t+|cmn|罷工}}
+* Czech: {{t+|cs|stávka|f}}
+* Danish: {{t+|da|strejke|c}}
+* Dutch: {{t+|nl|staking|f}}
+* Esperanto: {{t+|eo|striko}}
+* Estonian: {{t+|et|streik}}
+* Finnish: {{t+|fi|lakko}}
+* French: {{t+|fr|grève|f}}
+* Galician: {{t+|gl|folga|f}}, {{t+|gl|paro|m}}
+* Georgian: {{t|ka|გაფიცვა}}, {{t|ka|აქცია}}
+* German: {{t+|de|Streik|m}}
+* Greek: {{t+|el|απεργία|f}}
+* Haitian Creole: {{t|ht|grèv}}
+* Hebrew: {{t+|he|שְׁבִיתָה|f|tr=sh'vitá}}
+* Hindi: {{t+|hi|हड़ताल|f}}
+* Hungarian: {{t+|hu|sztrájk}}, {{t+|hu|munkabeszüntetés}}
+* Icelandic: {{t|is|verkfall|n}}
+* Ido: {{t+|io|striko}}
+* Indonesian: {{t+|id|mogok}}, {{t+|id|pemogokan}}
+* Irish: {{t|ga|stailc|f}}
+* Italian: {{t+|it|sciopero|m}}
+* Japanese: {{t+|ja|ストライキ|tr=sutoraiki}} {{qualifier|general}}, {{t+|ja|スト|tr=suto}}, {{t+|ja|同盟罷業|tr=どうめいひぎょう, dōmei higyō}} {{qualifier|law}}, {{t+|ja|罷工|tr=ひこう, hikō}}
+* Kazakh: {{t|kk|ереуіл}}
+* Khmer: {{t+|km|កូដកម្ម}}
+* Korean: {{t+|ko|파업(罷業)}}, {{t+|ko|스트라이크}}
+* Kurdish:
+*: Northern Kurdish: {{t+|kmr|grev}}
+* Kyrgyz: {{t+|ky|забастовка}}, {{t|ky|иш таштоо}}, {{t+|ky|стачка}}
+* Lao: {{t|lo|ການນັດຢຸດງານ}}
+* Latin: {{t+|la|operistitium|n}}
+* Latvian: {{t|lv|streiks|m}}
+* Lithuanian: {{t|lt|streikas|m}}
+* Macedonian: {{t|mk|штрајк|m}}
+* Malay: {{t|ms|mogok}}
+*: Jawi: {{t|ms|موݢوق|tr=muguk}}
+* Malayalam: {{t+|ml|സമരം}}
+* Maltese:  {{t-needed|mt}}
+* Māori: {{t|mi|auporo}}, {{t|mi|porotū}}, {{t|mi|porotūnga}}
+* Mongolian:
+*: Cyrillic: {{t+|mn|ажил хаялт}}
+*: Mongolian script: {{t|mn|ᠠᠵᠢᠯ ᠬᠠᠶᠠᠯᠲᠠ}}
+* Norwegian:
+*: Bokmål: {{t|nb|streik|m}}
+*: Nynorsk: {{t|nn|streik|m}}
+* Pashto: {{t+|ps|اعتصاب|m|tr=e'tesāb}}, {{t|ps|هرټال|m|tr=harṭāl}}, {{t|ps|هړتال|m|tr=harṭāl}}
+* Persian:
+*: Iranian Persian: {{t+|fa-ira|اِعْتِصَاب}}
+* Polish: {{t+|pl|strajk|m}}
+* Portuguese: {{t+|pt|greve|f}}
+* Romanian: {{t+|ro|grevă|f}}
+* Russian: {{t+|ru|забасто́вка|f}}, {{t+|ru|ста́чка}}
+* Scottish Gaelic: {{t|gd|stailc|f}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|штра̏јк|m}}
+*: Latin: {{t+|sh|štrȁjk|m}}
+* Slovak: {{t|sk|štrajk|m}}
+* Slovene: {{t+|sl|stavka|f}}
+* Sotho: {{t|st|seteraeke}}
+* Spanish: {{t+|es|huelga|f}}, {{t+|es|paro|m}}
+* Swahili: {{t+|sw|mgomo}}
+* Swedish: {{t+|sv|strejk|c}}
+* Tagalog: {{t+|tl|aklas}}, {{t+|tl|aklasan}}, {{t|tl|welga}}
+* Tajik: {{t|tg|корпартоӣ}}, {{t|tg|эътисоб}} {{qualifier|literary}}
+* Tamil: {{t+|ta|வேலைநிறுத்தம்}}
+* Telugu: {{t+|te|సమ్మె}}
+* Thai: {{t|th|นัดหยุดงาน}}, {{t|th|การนัดหยุดงาน}}
+* Turkish: {{t+|tr|grev}}
+* Turkmen: {{t|tk|iş taşlaýyş}}, {{t|tk|zabastowka}}, {{t|tk|staçka}}
+* Ukrainian: {{t|uk|страйк|m}}, {{t|uk|забасто́вка|f}}
+* Urdu: {{t|ur|ہَڑْتال|f}}
+* Uyghur: {{t|ug|ئىش تاشلاش}}
+* Uzbek: {{t+|uz|zabastovka}}, {{t|uz|ish tashlash}}, {{t+|uz|stachka}}
+* Vietnamese: {{t+|vi|đình công}} ({{t|vi|停工}}), {{t+|vi|bãi công|alt=sự bãi công}}
+* Welsh: {{t+|cy|streic|f}}
+* Yiddish: {{t|yi|סטרײַק|m}}, {{t|yi|זאַבאָסטאָווקע|f}} {{qualifier|Litvish}}
+{{trans-bottom}}
+
+{{trans-top|physical blow}}
+* Armenian: {{t-needed|hy}}
+* Azerbaijani: {{t+|az|zərbə}}, {{t|az|vuruş}}
+* Belarusian: {{t|be|уда́р|m}}
+* Bulgarian: {{t+|bg|у́дар|m}}
+* Chinese:
+*: Mandarin: {{t+|cmn|打擊|tr=dǎjī, dǎjí}}
+* Czech: {{t+|cs|úder|m}}
+* Danish: {{t+|da|slag|n}}
+* Dutch: {{t+|nl|klap|m}}, {{t+|nl|slag|m}}, {{t+|nl|stoot|m}}
+* Esperanto: {{t|eo|frapo}}, {{t|eo|bato}}
+* Finnish: {{t+|fi|isku}}
+* French: {{t+|fr|coup|m}}, {{t+|fr|frappe|f}}
+* German: {{t+|de|Schlag|m}}
+* Gothic: {{t|got|𐍃𐌻𐌰𐌷𐍃|m}}
+* Greek: {{t+|el|χτύπημα|n}}
+* Ido: {{t+|io|frapo}}
+* Japanese: {{t-needed|ja}}
+* Khmer: {{t|km|ការវាយប្រហារ}}
+* Korean: {{t-needed|ko}}
+* Latin: {{t+|la|plāga|f}}
+* Macedonian: {{t|mk|удар|m}}
+* Maltese: {{t|mt|daqqa|f}}
+* Marshallese: {{t|mh|bait}}
+* Mongolian: {{t-needed|mn}}
+* Plautdietsch: {{t|pdt|Schlach|m}}
+* Polish: {{t+|pl|uderzenie|n}}
+* Portuguese: {{t+|pt|ataque|m}}
+* Russian: {{t+|ru|уда́р|m}}
+* Scottish Gaelic: {{t|gd|bualadh|m}}
+* Serbo-Croatian:
+*: Cyrillic: {{t|sh|у̏да̄р|m}}
+*: Latin: {{t+|sh|ȕdār|m}}
+* Slovak: {{t|sk|úder|m}}
+* Slovene: {{t+|sl|udarec|m}}
+* Spanish: {{t+|es|golpe|m}}
+* Swedish: {{t+|sv|slag|n}}
+* Thai: {{t-needed|th}}
+* Ukrainian: {{t+|uk|уда́р|m}}
+{{trans-bottom}}
+
+{{trans-top|compass direction of the line of intersection between a rock layer and the surface of the Earth}}
+* Finnish: {{t+|fi|kulku}}
+* Irish: {{t+|ga|treo|m}}
+{{trans-bottom}}
+
+{{trans-top|(military) an attack, not necessarily physical}}
+* Spanish: {{t|es|interpresa|f}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Esperanto: {{t-check|eo|maltrafo}} (1), {{t-check|eo|plentrafo}} (2)
+* Luxembourgish: {{t-check|lb|Streik}}
+{{trans-bottom}}
+
+===References===
+<references />
+
+===Further reading===
+* {{R:Webster 1913}}
+* {{R:Farmer|volume=7|page=12}}
+
+===Anagrams===
+* {{anagrams|en|a=eikrst|Kister|kiters|trikes}}
+
+{{c|en|Collectives|Violence}}
+{{cln|en|strong verbs|irregular verbs|raising verbs|contranyms}}
+
+==Dutch==
+
+===Etymology===
+{{bor+|nl|en|strike}}.
+
+===Pronunciation===
+* {{audio|nl|Nl-strike.ogg}}
+* {{hyph|nl|strike}}
+
+===Noun===
+{{nl-noun|c|-s|-}}
+
+# {{lb|nl|bowling}} {{l|en|strike}} {{gl|act of knocking down all ten pins on the first roll of a frame}}
+
+==French==
+
+===Pronunciation===
+* {{fr-IPA|strailk}}
+* {{audio|fr|LL-Q150 (fra)-Lyokoï-strike.wav|a=<<France>> (<<Lyon>>)}}
+
+===Noun===
+{{fr-noun|m}}
+
+# {{lb|fr|bowling}} a strike
+
+====Derived terms====
+* {{l|fr|striker}}
+
+====Related terms====
+* {{l|fr|spare}}
+
+==Italian==
+
+===Noun===
+{{it-noun|m|#}}
+
+# {{l|en|strike}} (in baseball and ten-pin bowling)
+
+==Portuguese==
+
+===Etymology===
+{{ety|pt|:ubor|en:strike|text=+|tree=1}}
+
+===Pronunciation===
+{{pt-IPA|br=i^straiki*|pt=straique}}
+* {{rhyme|pt|ajki<a:Brazil><s:2,3>|ajkɨ<a:Portugal><s:2>}}
+* {{hyph|pt|strike}}
+
+===Noun===
+{{pt-noun|m}}
+
+# {{lb|pt|bowling}} {{l|en|strike}} {{gloss|the act of knocking down all pins}}
+# {{lb|pt|baseball}} {{l|en|strike}} {{gloss|the act of missing a swing at the ball}}
+
+==Spanish==
+
+===Etymology===
+{{ety|es|:ubor|en:strike|text=+|tree=1}}
+
+===Pronunciation===
+{{es-pr|straik,estraik}}
+
+===Noun===
+{{es-noun|m}}
+
+# {{lb|es|baseball}} {{l|en|strike}}
+#: {{uxi|es|¡Tres '''''strikes''''' y estás fuera!|Three '''strikes''', you're out!}}
+# {{lb|es|bowling}} {{l|en|strike}}
+
+====Usage notes====
+{{es-unadapted}}
+
+===Further reading===
+* {{R:es:DAMER}}

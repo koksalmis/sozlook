@@ -1,0 +1,933 @@
+{{also|Appendix:Variations of "take"}}
+==English==
+
+===Alternative forms===
+* {{alt|en|tek||Northumbrian}}
+
+===Etymology===
+{{root|en|ine-pro|*teh₂g-|id=touch}}
+From {{inh|en|enm|taken|t=to take, lay hold of, grasp, strike}}, from {{inh|en|ang|tacan|t=to grasp, touch}}, probably of {{der|en|gmq}} origin, from {{der|en|non|taka|t=to touch, take}}. Alternatively, inherited from {{inh|en|gmw-pro|*takan||to take; grasp, touch}}. Both from {{inh|en|gem-pro|*tēkaną|t=to touch}}, from pre-Germanic {{m|ine-pro||*deh₁g-|t=to touch}}, possibly a phonetically altered form of {{der|en|ine-pro|*teh₂g-|*te-th₂g-|id=touch|t=to touch, take}} (see there for details).<ref>{{R:gem:EDPG|head=*takan- ~ *tēkan-|page=507}}</ref><ref>{{R:ine:LIV|head=*teh₂⁽g̑⁾-|pages=616–617|passage=Mit erneuertem Ablaut *''tetōk-''/''tetk-'' für *''tetk-'' < *''dedg-'', assimiliert aus *''te-dg-'' < *''te-tg''- < *''te-th₂⁽g̑⁾-''|translation=With renewed ablaut *''tetōk-''/''tetk-'' for *''tetk-'' < *''dedg-'', assimilated from *''te-dg-'' < *''te-tg''- < *''te-th₂⁽g̑⁾-''}}</ref>
+
+Gradually displaced native {{ncog|en|nim}}, from {{ncog|enm|nimen}}, from {{noncog|ang|niman|t=to take}}.
+
+{{box-top|Cognates}}
+Cognate with {{cog|sco|tak|t=to take}}, {{cog|is|-}} and {{cog|nn|taka|t=to take}}, {{cog|nb|ta|t=to take}}, {{cog|sv|ta|t=to take}}, {{cog|da|tage|t=to take, seize}}, {{cog|fy|take}}, {{m|fy|taakje|t=to grab, steal}}, {{cog|nl|taken|t=to take; grasp}}, {{cog|gml|tacken|t=to grasp}}. {{m+|en|thack}} may be from the same root. Compare {{m|en|tackle}}. Despite superficial similarity, unrelated to {{noncog|ine-pro|*tek-||to take by hand, obtain}}, which is instead cognate with {{m+|en|thig|t=to beg}}.
+{{box-bottom}}
+
+===Pronunciation===
+* {{IPA|en|/ˈteɪ̯k/|[ˈtʰeɪ̯k]}}
+** {{audio|en|En-uk-to take.ogg|a=RP}}
+** {{audio|en|En-us-take.ogg|a=GA}}
+*** {{IPA|en|/ˈteːk/|[ˈtʰeːk]|a=[[w:Monophthongization|monophthongization]]}}
+* {{IPA|en|/ˈtæɪ̯k/|[ˈtʰæɪ̯k]|a=AU}}
+** {{audio|en|En-au-take.ogg}}
+* {{IPA|en|/ˈtɛk/|[ˈtʰɛk]|a=Northumbrian}}
+** {{IPA|en|/ˈtak/|[ˈtʰak]|a=Wearside}}
+* {{rhymes|en|eɪk|s=1}}
+* {{hyph|en|take}}
+
+===Verb===
+{{en-verb|+|+|took|~n,tane<l:archaic,or,Scotland>}}
+
+# {{lb|en|transitive}} To [[get]] into one's hands, [[possession]]{{,}} or [[control]], with or without [[force]].
+#: {{syn|en|confiscate|seize|Thesaurus:take}}
+#: {{ux|en|They '''took''' Charlton's gun from his cold, dead hands.}}
+#: {{ux|en|I'll '''take''' that plate off the table.}}
+#* {{RQ:Hakewill Apologie|pages=402–403|pageref=402|passage=All theſe Ceremonies thus being performed; the Prince which ſucceeded '''taketh''' a torch, and firſt putteth to the fire himſelfe, and after him all the reſt of the company, and by and by as the fire was kindled out of the toppe of the higheſt turret, an Eagle was let fly to carry vp his ſoule into heaven, and ſo he was afterward reputed, and by the ''Romanes'' adored among the reſt of the ''Gods:'' {{...}}}}
+#* {{RQ:Heywood Londini Speculum|sig=B|verso=1|page=7|passage=That viſage miſ-becomes, thy Pipe / Caſt from thee, Warlike dame, / '''Take''' unto thee thy wonted Armes, / And keepe thy Cheekes in frame.}}
+#* {{RQ:Allingham China Governess|page=232|passage=She '''took''' the policeman’s helmet and placed it on a chair, and unfolded his tunic to shake it and fold it up again for him.}}
+#* {{quote-book|en|author=w:George Carlin|title=w:Brain Droppings|location=New York, N.Y.|publisher=[[w:Hachette Books|Hyperion]]|year=1997|page=67|pageurl=https://archive.org/details/braindroppings0000carl/page/67/mode/1up|isbn=0-786-86313-7|oclc=36084460|passage=We '''take''', '''take''', '''take''' until we can't take anymore. Maybe it's because our inner nature is not primarily one of giving, but of taking. Even these things we '''take''' that should balance our lives and give us rest do not. We make work out of them. We do them aggressively; always in control. '''Take'''.}}
+## {{lb|en|transitive}} To [[seize]] or [[capture]].
+##: {{syn|en|apprehend|lay hold of|rape|Thesaurus:capture}}
+##: {{coi|en|'''take''' the guards prisoner}}
+##: {{coi|en|'''take''' prisoners}}
+##: {{ux|en|After a bloody battle, they were able to '''take''' the city.}}
+##* {{RQ:Marlowe Tamburlaine|part=1|act=II|scene=ii|page=31|passage=Therefoꝛe cheere vp your mindes, pꝛapare to fight, / He that can '''take''' oꝛ ſlaughter Tamburlaine, / Shall rule the Pꝛouince of Albania.}}
+##* {{RQ:Hemingway Farewell to Arms|chapter=2|page=13|passage=The river ran behind us and the town had been captured very handsomely but the mountains beyond it could not be '''taken''' and I was very glad the Austrians seemed to want to come back to the town some time, if the war should end, because they did not bombard it to destroy it but only a little in a military way.}}
+##* {{RQ:Orwell Homage|page=32|passage=The front line, ours and the Fascists', lay in positions of immense natural strength, which as a rule could only be approached from one side. Provided a few trenches have been dug, such places cannot be '''taken''' by infantry, except in overwhelming numbers.}}
+## {{lb|en|transitive}} To [[catch]] or get possession of (fish or game).
+##: {{ux|en|'''took''' ten catfish in one afternoon}}
+##* {{RQ:Darwin et al Voyages|volume=III|chapter=XII|page=248|passage=The horses appear to thrive well, yet they are small sized, and have lost so much strength, that they are unfit to be used in '''taking''' wild cattle with the lazo.}}
+## {{lb|en|transitive|cricket}} To [[catch]] the ball; ''especially'' as a [[wicket-keeper]] and after the [[batsman]] has missed or edged it.
+## {{lb|en|transitive}} To [[appropriate]] or [[transfer]] into one's own possession, sometimes by physically carrying off.
+##: {{ux|en|Billy '''took''' her pencil.}}
+##: {{ux|en|The County '''took''' his land by eminent domain.}}
+## {{lb|en|transitive}} To [[exact]].
+##: {{coi|en|'''take''' a toll}}
+##: {{coi|en|'''take''' revenge}}
+##* {{RQ:Melville Mardi|volume=I|chapter=XXII|page=92|passage="Load away now, and '''take''' thy revenge, my fine fellow," said Samoa to himself. But not yet.}}
+##* {{RQ:Tagore Sadhana|page=65|passage=It is only when we invoke the aid of pain for our self-gratification that she becomes evil and '''takes''' her vengeance for the insult done to her by hurling us into misery.}}
+## {{lb|en|transitive}} To [[capture]] or [[win]] (a [[piece]] or [[trick]]) in a [[game]].
+##: {{ux|en|'''took''' the next two tricks}}
+##: {{ux|en|'''took''' Smith's rook}}
+# {{lb|en|transitive}} To [[receive]] or [[accept]] (something, especially something which was [[given]]).
+#: {{syn|en|garner|get|obtain|win|Thesaurus:receive}}
+#: {{ant|en|give}}
+#: {{ux|en|'''took''' third place}}
+#: {{ux|en|'''took''' bribes}}
+#: {{ux|en|The camera '''takes''' 35mm film.}}
+#: {{ux|en|I'll '''take''' questions from the floor later.}}
+#* {{RQ:KJV|Numbers|35|31|page=267|column=1|passage=Moꝛeouer, yee ſhall '''take''' no ſatiſfaction foꝛ the life of a murderer, which is guiltie of death, but he [[shalbe#Contraction|ſhalbe]] ſurely put to death.}}
+#* {{quote-song|en|author=w:Billy Joel|authorlabel=no|title=w:You May Be Right|album={{w|Glass Houses (album)|Glass Houses}}|date=7 March 1980|url=https://www.youtube.com/watch?v=ilsv0C1-aBw|text=You were lonely for a man<br>I said, "'''Take''' me as I am"<br>'Cause you might enjoy some madness for a while}}
+## {{lb|en|transitive}} To [[receive]] or [[accept]] (something) as [[payment]] or [[compensation]].
+##: {{ux|en|The store doesn't '''take''' checks.}}
+##: {{ux|en|She wouldn't '''take''' any money for her help.}}
+##: {{ux|en|Do you '''take''' plastic?}}
+##: {{ux|en|The vending machine only '''takes''' bills, it doesn't '''take''' coins.}}
+##* {{RQ:Lyly Mother Bombie|sig=&#91;E&#93;|verso=1|page=49|passage=I '''take''' no monie, but good vvordes, raile not if I tell true, if I doe not reuenge. Farevvell.}}
+##* {{RQ:Ruskin Unto This Last|page=95|passage=But I said that, so far as you employ it at all, bad work should be paid no less than good work; as a bad clergyman yet '''takes''' his tithes, a bad physician '''takes''' his fee, and a bad lawyer his costs.}}
+## {{lb|en|transitive}} To [[accept]] and [[follow]] (advice{{,}} etc.).
+##: {{ux|en|'''take''' my advice}}
+##* {{RQ:Locke Conduct|section=13|page=49|passage=Between theſe, thoſe ſeem to do beſt who '''taking''' material and uſeful hints, ſometimes from ſingle matters of Fact, carry them in their Minds to be judg'd of, by what they ſhall find in Hiſtory to confirm or reverſe theſe imperfect Obſervations; which may be eſtabliſh'd into Rules fit to be rely'd on, when they are juſtify'd by a ſufficient and wary Induction of Particulars.}}
+## {{lb|en|transitive}} To [[receive]] into some relationship.
+##: {{coi|en|'''take''' a wife}}
+##: {{ux|en|The school only '''takes''' new students in the fall.}}
+##: {{ux|en|The therapist wouldn't '''take''' him as a client.}}
+## {{lb|en|transitive|intransitive|legal}} To [[receive]] or [[acquire]] (property) by law (e.g. as an heir).
+##* {{quote-book|en|author=J. Duncan|chapter=Lodge ''against'' Simonton|title=Reports of Cases Argued and Adjudged in the Supreme Court of Pennsylvania|edition=third|location=Philadelphia, P.A.|publisher=Kay & Brother|month=June|year=1831|year_published=1880|volume=II|page=442|pageurl=https://archive.org/details/reportsofcasesar02rawliala/page/442/mode/1up|passage=There was no [[intestacy#Noun|intestacy]], and they did not '''take''' under the will as heirs, but the widow and the children, under the residuary devise, take as tenants in common.}}
+## {{lb|en|transitive}} To [[accept]], be [[give]]n (rightly or wrongly), or [[assume]] (especially as if by [[right]]).
+##: {{ux|en|He '''took''' all the credit for the project, although he had done almost none of the work.}}
+##: {{ux|en|She '''took''' the blame, in the public's eyes, although the debacle was more her husband's fault than her own.}}
+# {{lb|en|transitive}} To [[remove]].
+#: {{syn|en|knock off|subduct|Thesaurus:remove}}
+#: {{ux|en|'''take''' two eggs from the carton}}
+#* {{RQ:South Five Volumes|volume=X|sermon=VI|page=187|passage=And therefore, according to the tenor of ſuch a covenant, he has made no proviſion to ſecure his people in any ſuch temporalties, but '''took''' from them all right of war and reſiſtance.}}
+#* {{RQ:Woodward Fossils|tome=I|part=I|page=5|passage=Nor can the Wooll be work'd, or made up, without being firſt greaſed or oiled: All which unctuous Matter muſt be '''taken''' forth again out of the Cloth before it can be worn.}}
+#* {{RQ:Poe Raven|page=145|Leave my loneliness unbroken!—quit the bust above my door! / '''Take''' thy beak from out my heart, and '''take''' thy form from off my door!" / Quoth the raven, "Nevermore."}}
+## {{lb|en|transitive}} To [[remove]] or [[end]] by [[death]]; to [[kill]].
+##: {{syn|en|do in|terminate|Thesaurus:kill}}
+##: {{ux|en|The earthquake '''took''' many lives.}}
+##: {{ux|en|The plague '''took''' rich and poor alike.}}
+##: {{ux|en|Cancer '''took''' her life.}}
+##: {{ux|en|He '''took''' his life last night.}}
+## {{lb|en|transitive}} To [[subtract]].
+##: {{syn|en|take away|Thesaurus:subtract}}
+##: {{ux|en|'''Take''' one from three and you are left with two.}}
+# {{lb|en|transitive}} To have [[sex]] with.
+#: {{syn|en|have|sleep with|Thesaurus:copulate with}}
+#* {{quote-book|en|author=w:Pat Booth|title=Malibu|publisher=w:Crown Publishers, Inc.|year=1990|page=222|pageurl=https://archive.org/details/isbn_0000017507/page/222/mode/1up|passage=Sometimes he would have her standing up by the side of the bed, not bothering to undress, merely undoing his fly and using her like a cheap envelope to receive his lust. At others he would '''take''' her on the floor of her clothes closet and then leave her, locked in for the rest of the night, awash with his sex, until her embarrassed maid freed her the next morning.}}<!--
+#* {{quote-newsgroup|en|author=INCESTOR|title=STORY: "Horny Peeping Sister" (6/9) (mf, voy, family) 566710|newsgroup=alt.sex.stories|url=https://groups.google.com/g/alt.sex.stories/c/dt5nwrxL8wA/m/AzIwhXhR1GQJ|date=16 September 2002|passage=I wonder what it would feel like to '''take''' two cocks at the same time.}} ambiguous as to which def. applies-->
+#* {{quote-book|en|author=w:Georges Simenon|translator=Jean Stewart|title=Monsieur Monde Vanishes|location=New York, N.Y.; London|publisher=w:Harcourt Brace Jovanovich|year=1967|origyear=1945|page=126|pageurl=https://archive.org/details/monsieurmondevan00sime_0/page/126/mode/1up|isbn=0-151-62098-9|passage=He remembered her look of distress, her childish "Oh!" when he '''took''' her for the first time, clumsily, because he felt ashamed. And each time after that, each time they had sex together, though he tried to be as gentle as possible, he knew she was wearing the same expression, he avoided seeing her face, and thus it happened that instead of being a pleasure the sexual act became an ordeal.}}
+#* {{quote-book|en|title=The Onion Book of Known Knowledge: A Definitive Encyclopaedia of Existing Information: In 27 Excruciating Volumes|location=New York, N.Y.|publisher=w:Little, Brown and Company|year=2012|page=8|pageurl=https://archive.org/details/onionbookofknown0000unse/page/8/mode/1up|isbn=978-0-316-13326-5|passage=Modern Amsterdam is among Europe's most progressive cities, leading in such fields as design, fisting, felching, civil engineering, fashion, five-ways, pony play, computer science, and transportation. Its stock exchange is the oldest in Europe, and lovely Anastasia '''takes''' six men at once while shitting into a crystal goblet during her live show on the Bloedstraat at 11:30 p.m. every Tuesday.}}
+#* {{quote-av|en|title=w:Mock the Week|season=13|number=4|actor=w:Susan Calman|date=3 July 2014|text=And the queen '''takes''' the bishop...this is turning out to be quite the royal wedding! [winks at the camera]}}
+# {{lb|en|transitive}} To [[defeat]] (someone or something) in a [[fight]].
+#: {{syn|en|beat}}
+#: {{ux|en|Don't try to '''take''' that guy. He's bigger than you.}}
+#: {{ux|en|The woman guarding us looks like a professional, but I can '''take''' her!}}
+#* {{RQ:Dickens Old Curiosity Shop|chapter=6|page=111|passage="I'll stop 'em'" cried Quilp, diving into the little counting-house and returning with a thick stick, "I'll stop 'em. Now my boys fight away. I'll fight you both, I'll '''take''' both of you, both together, both together!"}}
+#* {{RQ:Black Macleod|volume=I|chapter=Fionaghal|page=57|passage="What is cruel now was not cruel then," he said; "it was a way of fighting; it was what is called an ambush now—enticing your enemy, and then '''taking''' him at a disadvantage. And if you did not do that to him he would do it to you. And when a man is mad with anger or revenge, what does he care for anything?"}}
+# {{lb|en|transitive}} To [[grasp]] or [[grip]].
+#: {{syn|en|grab|nim|Thesaurus:grasp}}
+#: {{ux|en|He '''took''' her hand in his.}}
+#* {{RQ:Beckford Vathek|pages=119–120|pageref=119|passage=The young females ſeeing him approach in ſuch haste; and according to cuſtom, expecting a dance; inſtantly aſſembled in a circle, and '''took''' each other by the hand: but Gulchenrouz, coming up out of breath, fell down, at once, on the graſs.}}
+#* {{RQ:Landon Ethel Churchill|volume=II|chapter=The Sick Room|page=142|passage=She sat half upright, supported on Henrietta's shoulder; and, '''taking''' her father's hand, she clasped it with her husband's.}}
+# {{lb|en|transitive}} To [[select]] or [[choose]]; to [[pick]].
+#: {{ux|en|'''Take''' whichever bag you like.}}
+#: {{ux|en|She '''took''' the best men with her and left the rest to garrison the city.}}
+#: {{ux|en|I'll '''take''' the blue plates.}}
+#: {{ux|en|I'll '''take''' two sugars in my coffee, please.}}<!-- This does not mean "consume": you have taken the sugars in your coffee even before you have drunk the coffee. -->
+#* {{RQ:Salusbury Mathematical Collections|volume=I|part=1|page=168|passage={{smallcaps|Salv.}} We can think no other, if we do but conſider the way he '''taketh''' to confute their aſſertion; the confutation of which confiſts in the demolition of buildings, and the toſſing of ſtones, living creatures and men themſelves up into the Air.}}
+## {{lb|en|transitive}} To [[adopt]] ([[select]]) as one's own.
+##: {{ux|en|She '''took''' his side in every argument.}}
+##: {{coi|en|'''take''' a stand on the important issues}}<!-- or is this 'come to have, form'? -->
+##* {{RQ:Harte Flip|page=117|passage=Heeding the wise caution of his com rades, he '''took''' the habit of wearing the ring only at night. Wrapped in his blanket, he stealthily slipped the golden circlet over his little finger, and, as he averred, "slept all the better for it."}}
+##* {{quote-av|en|date=19 June 2026|author=Gooseworx|actor=w:Michael Kovach|role=Jax|episode=w:[[Remember (The Amazing Digital Circus)|Remember]]|title=w:The Amazing Digital Circus|url=https://www.youtube.com/watch?v=PVy-bcTsO8A|number=9|time=1:34|text=Wha-?!  He gets to mess up like this and everyone '''takes''' his side?!}}
+## {{lb|en|transitive|role-playing games}} To apply or assign a [[character]] option.
+##: {{ux|en|I'll '''take''' a level as a fighter, so I can '''take''' the weapon specialization skill.}}
+# {{lb|en|transitive}} To [[carry]] or [[lead]] (something or someone).
+#: {{ant|en|bring}}
+#: {{ux|en|She '''took''' her sword with her everywhere she went.}}
+#: {{ux|en|I'll '''take''' the plate with me.}}
+#* {{RQ:Burke Noble Lord|page=2|passage=Perſonal offence I have given them none. The part they '''take''' againſt me is from zeal to the cauſe. It is well! It is perfectly well! I have to do homage to their juſtice.}}
+## {{lb|en|transitive|especially of a vehicle}} To [[transport]] or [[carry]]; to convey to another place.
+##: {{ux|en|The next bus will '''take''' you to Metz.}}
+##: {{ux|en|I '''took''' him for a ride}}
+##: {{ux|en|I '''took''' him down to London.}}
+##* {{RQ:Huxley Along the Road|page=16|passage=All I claim for the ten-horse-power Citroën is this: that it works. In a modest and unassuming way, not very rapidly, indeed, but steadily and reliably, it '''takes''' one about.}}
+## {{lb|en|transitive|of a path, road{{,}} etc.}} To [[lead]] (to a place); to serve as a means of [[reach]]ing.
+##: {{ux|en|These stairs '''take''' you down to the basement.}}
+##: {{ux|en|Stone Street '''took''' us right past the store.}}
+##* {{RQ:Froude Carlyle|part=London|volume=I|page=188|passage=Our old wooden Battersea bridge '''takes''' me over the river; in ten minutes' swift trotting I am fairly away from the monster and its bricks.}}
+## {{lb|en|transitive}} To [[pass]] (or attempt to pass) through or around.
+##: {{ux|en|She '''took''' the steps two or three at a time.}}
+##: {{ux|en|He '''took''' the curve / corner too fast.}}
+##: {{ux|en|The pony '''took''' every hedge and fence in its path.}}
+## {{lb|en|transitive}} To [[escort]] or [[conduct]] (a person).
+##: {{ux|en|He '''took''' her to lunch at the new restaurant, '''took''' her to the movies, and then '''took''' her home.}}
+##* {{RQ:Coleridge Poems|poem=[[w:To a Young Ass|To a Young Ass, It's Mother Being Tethered Near It]]|page=93|passage=And fain would '''take''' thee with me, in the Dell / Of Peace and mild Equality to dwell, / Where {{smallcaps|Toil}} ſhall call the charmer {{smallcaps|Health}} his Bride, / And {{smallcaps|Laughter}} tickle {{smallcaps|Plenty}}'s ribleſs ſide!}}
+##* {{RQ:Churchill Celebrity|chapter=II|page=25|passage=Here was my chance. I '''took''' the old man aside, and two or three glasses of Old Crow launched him into reminiscence.}}
+##* {{RQ:Tolkien Hobbit|chapter=Queer Lodgings|page=108|passage='You had better wait here,' said the wizard to the dwarves; 'and when I call or whistle begin to come after me — you will see the way I go — but only in pairs, mind, about five minutes between each pair of you. Bombur is fattest and will do for two, he had better come alone and last. Come on Mr. Baggins! There is a gate somewhere round this way.' And with that he went off along the hedge '''taking''' the frightened hobbit with him.}}
+## {{lb|en|reflexive}} To [[go]].
+##* {{quote-book|en|title=The Popes of Avignon|passage=In a rare example of clemency Pope John assured him of a pardon, perhaps on the grounds that the innocent monk had merely been the victim of Louis's overbearing ambitions. Nicholas then '''took''' himself to Avignon where in August 1330 he formally renounced his claim to the papacy.|year=2007|year_published=2008|author=Edwin B. Mullins|publisher=BlueBridge|location=New York, N.Y.|page=59|pageurl=https://archive.org/details/popesofavignonce00mull/page/59/mode/1up|isbn=9781933346151}}
+# {{lb|en|transitive}} To [[use]] as a means of [[transportation]].
+#: {{ux|en|'''take''' the ferry}}
+#: {{ux|en|I '''took''' a plane.}}
+#: {{ux|en|He '''took''' the bus to London, and then '''took''' a train to Manchester.}}
+#: {{ux|en|He's 96 but he still '''takes''' the stairs.}}
+# {{lb|en|transitive}} To [[obtain]] for use by [[payment]] or [[lease]].
+#: {{ux|en|She '''took''' a condo at the beach for the summer.}}
+#: {{ux|en|He '''took''' a full-page ad in the ''Times''.}}
+#* {{RQ:Reade Simpleton|volume=I|chapter=IV|page=113|She '''took''' lodgings opposite him, but observed nothing till this very morning, when she saw him throw off his dressing-gown all in a hurry, and fling on his coat.}}
+#* {{RQ:Disraeli Endymion|volume=II|chapter=IX|page=95|passage=We understand that His Royal Highness Prince Florestan, who has been for some little time in this country, has '''taken''' the mansion in Carlton Gardens, recently occupied by the Marquis of Katterfelto. The mansion is undergoing very considerable repairs, but it is calculated that it will be completed in time for the reception of His Royal Highness by the end of the autumn; His Royal Highness has '''taken''' the extensive moors of Dinniewhiskie for the coming season.}}
+#* {{quote-book|en|year=1986|title=Long Time Passing: Lives Of Older Lesbians|editor=Marcy Adelman|chapter=Always Me|author=Rusty Brown|page=150|text=How about us '''taking''' a place together? I suppose that would be impossible; you go on  the road a great deal more than I do.}}
+## {{lb|en|transitive}} To [[obtain]] or [[receive]] [[regularly]] by (paid) [[subscription]].
+##: {{ux|en|They '''took''' two magazines.}}
+##: {{ux|en|I used to '''take''' ''The Sunday Times''.}}
+# {{lb|en|transitive}} To [[receive]] ([[medicine]] or [[drug]]s) into one's [[body]], e.g. by [[inhalation]] or [[swallowing]]; to [[ingest]].
+#: {{ux|en|'''take''' two of these and call me in the morning}}
+#: {{ux|en|'''take''' the blue pill}}
+#: {{ux|en|I '''take''' aspirin every day to thin my blood.}}
+#* {{RQ:Welsh Trainspotting|page=73|passage=Frankly, he tells me, he's really disappointed in my attitude. He hopes ah'm not '''taking''' drugs, scrutinising my face as if he can tell.}}
+# {{lb|en|transitive|dated}} To [[consume]] (food or drink).
+#: {{ux|en|The general '''took''' dinner at seven o'clock.}}
+#* {{RQ:Besant Ivory Gate|chapter=III|page=48|passage=To such men as Mr. Hellyer, who every night '''take''' much strong drink, and on no occasion whatever take any exercise, sixty is the grand climacteric. He was a year ago just fifty-nine. Alas! he has not even reached his grand climacteric. Already he is gone. He was cut off by pneumonia, or apoplexy, last Christmas.}}
+#* {{RQ:Heller Catch-22|chapter=Major Major Major Major|page=89|passage=He was conscious that other officers tried to avoid eating at the same time, and everyone was gready relieved when he stopped coming there altogether and began '''taking''' his meals in his trailer.}}
+# {{lb|en|transitive}} To [[undergo]]; to put oneself into, to be [[subject]]ed to.
+#: {{coi|en|'''take''' sun-baths}}
+#: {{coi|en|'''take''' a shower}}
+#: {{ux|en|She made the decision to '''take''' chemotherapy.}}
+# {{lb|en|transitive}} To [[experience]] or [[feel]].
+#: {{ux|en|She '''takes''' pride in her work.}}
+#: {{ux|en|I '''take''' offence at that.}}
+#: {{coi|en|to '''take''' a dislike}}
+#: {{coi|en|to '''take''' pleasure in his opponent's death}}
+#* {{RQ:Tusser Good Husbandrie|year=1810|chapter=The Authors life.|page=214|stanza=37|passage=Man '''taketh''' paine, God giueth gaine, / Man doth his best, God doth the rest, / Man well intendes, God foizon sendes, / else want he shall.}}
+#* {{RQ:Marston Scourge of Villanie|chapter=Humours|page=117|passage='''Taking''' great ioy / If you will daine his faculties imploy / But in the mean’st ingenious quality.}}
+#* {{RQ:Lincoln Pratt's Patients|page=18|passage=Thinks I to myself, "Sol, you're run off your course again. This is some rich city man's summer 'cottage' and if you don't look out there's likely to be some nice, lively dog '''taking''' an interest in your underpinning." So I started to back away again into the bushes. But I hadn't backed more'n a couple of yards when I see something so amazing that I couldn't help scooching down behind the bayberries and looking at it.}}
+# {{lb|en|transitive}} To [[submit]] to; to [[endure]] (without [[ill humor]], [[resentment]], or physical [[failure]]).
+#: {{ux|en|'''took''' a [[pay cut]]}} 
+#: {{coi|en|'''take''' a joke}}
+#: {{ux|en|If you're in an abusive relationship, don't just sit and '''take''' it; you can get help.}}
+#: {{ux|en|The hull '''took''' a lot of punishment before it broke.}}
+#: {{ux|en|I can '''take''' the noise, but I can't '''take''' the smell.}}
+#: {{ux|en|That truck bed will only '''take''' two tons.}}
+#* {{quote-av|en|author=Drachinifel|title=The Drydock - Episode 213 (Part 1)|date=11 September 2022|archiveurl=https://web.archive.org/web/20220912024028/https://www.youtube.com/watch?v=L5M0TDuOafI|time=56:34|publisher=w:YouTube|passage={{...}} and, kind of the ultimate example of the plans for the R-class was to refit them with huge bulges, almost monitor-style bulges, to be able to '''take''' multiple air-dropped torpedo attacks, but also to just, literally, slap on four inches of deck armor.}}
+#* {{quote-av|en|date=20 March 2026|author=Gooseworx|actor=Amanda Hufford|role=Ragatha|episode=hjsakldfhl|title=w:The Amazing Digital Circus|url=https://youtube.com/watch?v=DMNlzf8PiEM|number=8|time=16:17|text=I can't '''take''' this anymore.  We gotta ''do'' something about this or I'm gonna lose my mind!}}
+# {{lb|en|transitive}} To [[suffer]]; to [[endure]] (a [[hardship]] or [[damage]]).
+#: {{ux|en|The ship '''took''' a direct hit and was destroyed.}}
+#: {{ux|en|Her career '''took''' a hit.}}
+#: {{ux|en|The corporation '''took''' a $5 million [[write-off]] in the second quarter.}}
+#* {{RQ:Blackmore Perlycross|chapter=His Last Bivouac|page=429|passage=This gap had been caused by the sweep of tempest that went up the valley at the climax of the storm. The wall, being low, had '''taken''' little harm; but the great west gable of the Abbey had been smitten, and swung on its back, as a trap-door swings upon its hinges.}}
+# {{lb|en|transitive}} To [[participate]] in.
+#: {{ux|en|She '''took''' a vacation to France but spent the whole time feeling miserable that her husband couldn't be there with her.}}
+#: {{ux|en|Aren't you supposed to '''take''' your math final today?}}
+#: {{ux|en|Despite my misgivings, I decided to '''take''' a meeting with the Russian lawyer.}}
+# {{lb|en|transitive}} To cause to [[change]] to a specified state or [[condition]].
+#: {{ux|en|He had to '''take''' it apart to fix it.}}
+#: {{ux|en|She '''took''' down her opponent in two minutes.}}
+#* {{quote-book|en|author=Thomas M. Bloch|title=Many Happy Returns: The Story of [[w:Henry W. Bloch|Henry Bloch]], America's Tax Man|location=Hoboken, N.J.|publisher=w:John Wiley & Sons, Inc.|year=2011|page=86|pageurl=https://archive.org/details/manyhappyreturns0000bloc/page/86/mode/1up|isbn=978-0-470-76777-1|passage=In 1961, they lined up a lawyer and an underwriter to '''take''' the company public. And they retained an accounting firm to produce audited financial statements.}}
+# {{lb|en|transitive}} To [[regard]] in a specified way.
+#: {{ux|en|He '''took''' the news badly.}}
+#* {{RQ:Maxwell Mirror and the Lamp|chapter=XXII|page=361|passage=Not unnaturally, "Auntie" '''took''' this communication in bad part. Thus outraged, she showed herself to be a bold as well as a furious virago.}}
+# {{lb|en|transitive}} To conclude or form (a decision or an opinion) in the mind.
+#: {{ux|en|'''took''' the decision to close its last remaining outlet}}
+#: {{ux|en|'''took''' a dim view of city officials}}
+# {{lb|en|transitive}} To [[understand]] (especially in a specified way).
+#: {{ux|en|Don't '''take''' my comments as an insult.}}
+#: {{ux|en|if she '''took''' my meaning}}
+#* {{quote-journal|en|journal=w:The American Journal of Science and Arts|month=January|year=1853|volume=15|issue=43|page=125|pageurl=https://archive.org/details/sim_american-journal-of-science_1853-01_15_43/page/125|issn=0002-9599|passage=The author explained the theory of Dove, which, if we '''took''' him correctly, was, that the lustre of bodies and particularly the metallic lustre arose from the light coming from the one stratum of the superficial particles of bodies interfering on the eye with the light coming from other and deeper strata,—the regular symmetrical arrangement of the particles in these bodies producing effects somewhat analogous to that of mother-of-pearl}}
+#* {{RQ:Guardian|author=Felix Bazalgette|title='It was more than a pub' – the story of five boozers forced to call last orders|archiveurl=https://web.archive.org/web/20230205100856/https://www.theguardian.com/lifeandstyle/2022/oct/29/pub-the-story-of-five-boozers-forced-to-call-last-orders-for-good|date=29 October 2022|passage=More than a third of the new flats will be a mix of council rent and "affordable" rent – definitions vary but often this is '''taken''' to mean that their cost won't exceed 80% of the normal market rate.}}
+# {{lb|en|transitive}} To [[believe]], to [[accept]] the statements of.
+#: {{ux|en|'''take''' her word for it}}
+#: {{ux|en|'''take''' him at his word}}
+#* {{RQ:Rowe Tamerlane|page=36|passage=''Ax''. Oh! name the mighty Ranſom, task my Power, / Let there be Danger, Difficulty, Death, / T' enhance the Price. / ''Baj''. I '''take''' thee at thy word, / Bring me the ''Tartar''’s Head.}}
+# {{lb|en|transitive}} To [[assume]] or [[suppose]]; to [[reckon]]; to [[regard]] or [[consider]].
+#: {{ux|en|I '''took''' him to be a person of honor.}}
+#: {{ux|en|He was often '''taken''' to be a [[man of means]].}}
+#: {{ux|en|Do you '''take''' me for a fool?}}
+#: {{ux|en|Do you '''take''' me to be stupid?}}
+#: {{ux|en|Looking at him as he came into the room, I '''took''' him for his father.}}
+#: {{ux|en|Using "gay" as a noun can be '''taken''' to be offensive.}}
+#* {{RQ:Udall Ralph Roister Doister|pages=51–52|pageref=51|passage=For (as I heare ſay) ſuche your conditions are, / To ye be worthie fauour of no liuing man, / To be abhorred of euery honeſt man. / To be '''taken''' for a woman enclined to vice.}}
+#* {{RQ:Trollope Australia|volume=I|chapter=Gold|page=80|passage=When we were ashore we had to walk a couple of miles through the forest in search of the village in which we were to sleep, a place called Tiaro, and when we found it, about two in the morning, the first innkeeper whom we knocked up, a German, '''took''' us for bushrangers and would not let us in.}}
+#* {{quote-book|en|author=E[wdin] Basil Redlich|title=The Early Traditions of Genesis|location=London|publisher=Gerald Duckworth & Co. Ltd.|year=1950|page=108|pageurl=https://archive.org/details/earlytraditionso0000ebas/page/108/mode/1up|passage=The dimensions of the ark, if we '''take''' a cubit to be equal to 1½ feet, are 450 × 75 × 45 feet. It is to be built in three stories and to contain rooms or nests for Noah's family and the animals.}}
+# {{lb|en|transitive}} To [[draw]], [[derive]], or [[deduce]] (a meaning from something).
+#: {{ux|en|'''take''' it from her comments she won't be there.}}
+#: {{ux|en|I'm not sure what moral to '''take''' from that story.}}
+#* {{RQ:Tillotson Sermons|page=196|passage=And the firm belief of a future Judgment, which ſhall ''render to every man according to his deeds'', if it be well conſider'd, is to a reaſonable nature the moſt forcible motive of all other to a good life; becauſe it is '''taken''' from the conſideration of the greateſt and moſt laſting happineſs and miſery that Humane nature is capable of.}}
+# {{lb|en|transitive}} To [[derive]] (as a title); to [[obtain]] from a [[source]].
+#: {{ux|en|"As I Lay Dying" '''takes''' its title from Book XI of Homer's "Odyssey"}}
+#* {{RQ:Wiseman Chirurgicall Treatises|page=55|passage=The benign or milder Species '''takes''' its Originall from a bilious hot ''ſerum'': the other is commonly ſaid to proceed from [[adustion#Noun|Aduſtion]] in the Bloud, with a mixture of Choler or ſalt Phlegm.}}
+# {{lb|en|transitive}} To [[catch]] or [[contract]] (an illness{{,}} etc.).
+#: {{ux|en|'''took''' a chill}}
+#: {{ux|en|to [[take cold|'''take''' cold]]}}
+# {{lb|en|transitive}} To come upon or [[catch]] (in a particular state or situation).<!--take him by surprise? take him red handed?-->
+# {{lb|en|transitive}} To [[captivate]] or [[charm]]; to gain or secure the interest or affection of.
+#: {{ux|en|'''took''' her fancy}}
+#: {{ux|en|'''took''' her attention}}
+#* {{quote-book|en|author=w:Thomas Moore|title=[[w:The Epicurean|The Epicurean: A Tale]]|location=London|publisher=John Macrone|year=1839|page=33|pageurl=https://archive.org/details/epicureantale00moorrich/page/n53/mode/1up|passage=I know not why, but there was a something in those half-seen features,—a charm in the very shadow that hung over their imagined beauty,—which '''took''' my fancy more than all the out-shining loveliness of her companions.}}
+# {{lb|en|transitive|of a material}} To [[absorb]] or be [[impregnate]]d by (dye, ink{{,}} etc.); to be susceptible to being treated by (polish{{,}} etc.).
+#: {{ux|en|cloth that '''takes''' dye well}}
+#: {{ux|en|The [[flu shot]] didn't '''take''' (on me).}}
+#: {{ux|en|the leather that '''takes''' a certain kind of polish}}
+# {{lb|en|transitive|of a|ship}} To [[let in]] (water).
+#* {{quote-book|en|author=Anne Sinai|title=Israel & the Arabs: Prelude to the Jewish State|location=New York, N.Y.|publisher=w:Facts on File, Inc.|year=1972|page=107–108|pageurl=https://archive.org/details/israelarabsprelu0000sina_c3m4/page/107/mode/1up|isbn=0-871-96169-5|passage=The British brought the ship into Haifa harbor. The ship was taking seawater in 4 places, and the passengers had been without fresh water for the last few days of their voyage, with several ill from drinking seawater.}}
+# {{lb|en|transitive}} To [[require]] {{q|a person, resource or thing in order to achieve an outcome}}.
+#: {{ux|en|Looks like it's gonna '''take''' a taller person to get that down.}}
+#: {{ux|en|Finishing this on schedule will '''take''' a lot of overtime.}}
+#* {{quote-journal|en|journal=Millard's Review of the Far East|number=7|date=15 January 1921|volume=XV|page=357|pageurl=https://archive.org/details/millards-1921.01.15/page/357/mode/1up|oclc=9189701|passage=If the summary of the Tientsin society as accurate, a famine population of.more than 14,000,000 is already bad enough. If it '''takes''' five dollars to keep one of them alive, the task of relieving the whole population affected will require nearly $80,000,000.}}
+#* {{RQ:Harper Lee Mockingbird|chapter=13|page=145|passage=I know now what he was trying to do, but Atticus was only a man. It '''takes''' a woman to do that kind of work.}}
+#* {{RQ:Rushdie Fury|page=36|passage=It '''took''' an effort to restrain himself, and in a level voice to reassure earnest young Mark in his David Ogilvy-clone outfit that even the most red-faced colonels in England were unlikely to be upset by his banal formulation.}}
+#* {{quote-book|en|author=Rachel Hagger-Holt|author2=Sarah Hagger-Holt|title=Living It Out|location=Norwich, Norfolk|publisher=w:Canterbury Press|year=2009|page=82|pageurl=https://books.google.ca/books?id=lWqmDwAAQBAJ&pg=PA82|isbn=978-1-848-25550-0|passage=While it '''takes''' courage to come out, the acceptance of parents and other family members can really help the person coming out to accept themselves.}}
+#* {{RQ:Economist|title=Code blue|archiveurl=https://web.archive.org/web/20230727160802/https://www.economist.com/finance-and-economics/2013/08/31/code-blue|date=31 August 2013|passage=[[time was#Phrase|TIME was]] it '''took''' a war to close a financial exchange. Now all it needs is a glitch in technology. On August 26th trading on Eurex, the main German derivatives exchange, opened as usual; 20 minutes later it shut down for about an hour.}}
+# {{lb|en|transitive}} To [[proceed]] to fill.
+#: {{ux|en|He '''took''' a seat in the front row.}}
+# {{lb|en|transitive}} To [[fill]], [[occupy]], require, or use up (space).
+#: {{ux|en|His collection '''takes''' a lot of space.}}
+# {{lb|en|transitive}} To fill or require: to [[last]] or [[expend]] (an amount of time).
+#: {{ux|en|Unloading the moving truck '''took''' us half a day, but this mess of a house will '''take''' us all weekend to tidy up. It '''takes''' ages to finish house moving!}}
+#: {{ux|en|Hunting that whale '''takes''' most of his free time.}}
+#: {{ux|en|The trip will '''take''' about ten minutes.}}
+#: {{ux|en|It '''takes''' a while to get used to the smell.}}
+#* {{RQ:Grey 30,000|chapter=12|page=193|passage="Barbara, what I have to confess will amaze and grieve you," began Lucinda, with grave tenderness. "But it is best for your happiness, for the future that I see can be yours. And surely best for all of us Huetts. It has '''taken''' me years—years to come to this decision—to break one aspect of our happy home life here for a possible fuller and better one."}}
+# {{lb|en|transitive}} To [[avail]] oneself of; to [[exploit]].
+#: {{ux|en|He '''took''' that opportunity to leave France.}}
+#* {{quote-book|en|author=Cameron Judd|title=The Overmountain Men: A Novel|location=Nashville, T.N.|publisher=Cumberland House|year=2000|page=166|pageurl=https://archive.org/details/overmountainmenn0000judd/page/166/mode/1up|isbn=1-581-82097-6|passage=When that happened, he almost gave up the idea of asking what he had come to ask. But then the opportunity arose, and he '''took''' it, then waited breathlessly for her answer.}}
+#* {{quote-book|en|author=[[w:Stephen White (author)|Stephen White]]|title=The Program|location=Waterville, M.E.|publisher=w:Thorndike Press|year=2001|page=365|pageurl=https://archive.org/details/program0000whit/page/365/mode/1up|isbn=0-786-23411-3|passage=He '''took''' the pause to allow himself time to begin to catalog all the surfaces he may have touched during the scuffle.}}
+# {{lb|en|transitive}} To [[practice]]; [[perform]]; [[execute]]; [[carry out]]; [[do]].
+#: {{ux|en|'''take''' a walk}}
+#: {{ux|en|'''take''' action/steps/measures to fight drug abuse}}
+#: {{ux|en|'''take''' a trip}}
+#: {{ux|en|'''take''' aim}}
+#: {{ux|en|'''take''' the tempo slowly}}
+#: {{ux|en|The kick is '''taken''' from where the foul occurred.}}
+#: {{ux|en|Pirès ran in to '''take''' the kick.}}
+#: {{ux|en|The throw-in is '''taken''' from the point where the ball crossed the touch-line.}}
+#* {{RQ:Defoe Roxana|page=94|passage=We had ſome very agreeable Converſations upon this Subject; and once he told me, with a kind of more than ordinary Concern upon his Thoughts, that he was greatly beholden to me for '''taking''' this hazardous and diffiult{{sic}} Journey; for that I had kept him Honeſt; {{...}}}}
+#* {{RQ:Dante Cayley Divine Comedy|volume=II|canto=XX|page=146|lines=73–75|passage=Unarmed he issues, and with but the spear / That Judas jousted with, he '''takes''' an aim, / Which through the chest of Florence drives it sheer.}}
+#* {{RQ:Wilde Pomegranates|page=12|passage=At last they reached a little bay, and began to '''take''' soundings.}}
+# {{lb|en|transitive}} To assume or perform (a form or role).
+## {{lb|en|transitive}} To [[assume]] (a form).
+##: {{ux|en|'''took''' the form of a duck}}
+##: {{ux|en|'''took''' shape}}
+##: {{ux|en|a god '''taking''' the likeness of a bird}}
+## {{lb|en|transitive}} To [[perform]] (a role).
+##: {{ux|en|'''take''' the part of the villain/hero}}
+##: {{ux|en|When we play baseball, he always '''takes''' pitcher.}}
+## {{lb|en|transitive}} To [[assume]] and [[undertake]] the duties of (a job, an office{{,}} etc.).
+##: {{ux|en|'''take''' office}}
+##: {{ux|en|'''take''' the throne}}
+##* {{RQ:Economist|title=Cronies and capitols|archiveurl=https://web.archive.org/web/20230727163558/https://www.economist.com/business/2013/08/10/cronies-and-capitols|date=10 August 2013|passage=Policing the relationship between government and business in a free society is difficult. Businesspeople have every right to lobby governments, and civil servants to '''take''' jobs in the private sector.}}
+# {{lb|en|transitive}} To [[bind]] oneself by.
+#: {{ux|en|he '''took''' the oath of office last night}}
+#* {{RQ:Paine Rights of Man|pages=106|passage=On this, they withdrew to a tenisground in the neighbourhood of Berſailles, as the moſt convenient place they could find, and, after renewing their ſeſſion, '''took''' an oath never to ſeparate from each other, under any circumſtance whatever, death excepted, until they had eſtabliſhed a conſtitution.}}
+# {{lb|en|transitive}} To [[go]] into, through, or along.
+#: {{ux|en|go down two blocks and '''take''' the next left}}
+#: {{ux|en|'''take''' the path of least resistance}}
+#* {{RQ:Fletcher Shakespeare Two Noble Kinsmen|act=III|scene=v|page=45|passage=''Theſ''. This way the Stag '''tooke'''.}}
+#* {{RQ:Rushdie Fury|chapter=6|page=69|passage=After getting out of Beloved Ali's cab he'd picked up a copy of the ''News'' and the ''Post'', then had '''taken''' an erratic route home, walking fast, as if trying to escape something....Ellen DeGeneres, posters proclaimed, was coming soon to the Beacon Theatre.}}
+## {{lb|en|transitive}} To [[go]] or [[move]] into.
+##: {{ux|en|the witness '''took''' the stand}}
+##: {{ux|en|the next team '''took''' the field}}
+# {{lb|en|transitive}} To have and use one's [[recourse]] to.
+#: {{coi|en|'''take''' cover/shelter/refuge}}
+# {{lb|en|transitive}} To [[ascertain]] or [[determine]] by [[measurement]], [[examination]] or [[inquiry]].
+#: {{coi|en|'''take''' her pulse / temperature / blood pressure}}
+#: {{coi|en|'''take''' a census}}
+#* {{RQ:Swift Gulliver's Travels|part=III|pages=23–24|pageref=23|passage=He firſt '''took''' my Altitude by a Quadrant, and then with Rule and Compaſſes, deſcribed the Dimenſions and Out-lines of my whole Body, all which he enter'd upon Paper, and in ſix days brought my Clothes very ill made, and quite out of ſhape, by happening to miſtake a Figure in the Calculation.}}
+# {{lb|en|transitive}} To write down; to get in, or as if in, writing.
+#: {{ux|en|He '''took''' a mental inventory of his supplies.}}
+#: {{ux|en|She '''took''' careful notes.}}
+#* {{RQ:Wodehouse Bill the Conqueror|edition=10th|chapter=A Marriage Has Been Arranged|section=2|page=6|passage=The days when he was plain George Pyke, humble clerk in a solicitor’s office, and used to thrill at the soft voice of Lucy Maynard as she '''took''' the order for his frugal lunch at the Holborn Viaduct Cabin, had long since faded from his memory.}}
+# {{lb|en|transitive}} To [[make]] (a photograph, film, or other [[reproduction]] of something).
+#: {{ux|en|She '''took''' a video of their encounter.}}
+#: {{ux|en|Could you '''take''' a picture of us?}}
+#: {{coi|en|The police '''took''' his fingerprints.}}
+# {{lb|en|transitive|dated}} To make a picture, photograph{{,}} etc. of (a person, scene{{,}} etc.).
+#: {{ux|en|The photographer will '''take''' you sitting down.}}
+#: {{ux|en|to '''take''' a group/scene}}
+# {{lb|en|transitive}} To [[obtain]] [[money]] from, especially by [[swindling]].
+#: {{ux|en|'''took''' me for ten grand}}
+# {{lb|en|transitive|now chiefly by enrolling in a class or course}} To [[apply]] oneself to the [[study]] of.
+#: {{ux|en|As a child, she '''took''' ballet.}}
+#: {{ux|en|Next semester, I plan to '''take''' math, physics, literature, and art history.}}
+# {{lb|en|transitive}} To deal with.
+#: {{ux|en|'''take''' matters as they arise}}
+# {{lb|en|transitive}} To [[consider]] in a particular way, or to consider as an example.
+#: {{ux|en|I've had a lot of problems recently: '''take''' last Monday, for example. My car broke down on the way to work. Then {{...}} etc.}}
+# {{lb|en|transitive|baseball}} To [[decline]] to [[swing]] at (a pitched ball); to [[refrain]] from hitting at, and allow to pass.
+#: {{ux|en|He'll probably '''take''' this one.}}
+# {{lb|en|transitive}} To accept as an input to a relation.
+## {{lb|en|transitive|grammar}} To have to be used with (a certain grammatical form{{,}} etc.).
+##: {{ux|en|This verb '''takes''' the dative; that verb '''takes''' the genitive.}}<!-- would "the adjective takes the ending '-er' in the nominative" also be this senses? -->
+## {{lb|en|transitive|mathematics|computing}} To accept (zero or more [[argument]]s).
+##: {{ux|en|The function '''takes''' two arguments, an array of size ''n'' and an integer ''k''.}}
+# {{lb|en|transitive|Greece|Cyprus|informal}} To [[buy]].
+#: {{ux|en|'''take''' a ticket}}
+# {{lb|en|intransitive}} To get or [[accept]] (something) into one's [[possession]].
+#: {{ux|en|My husband and I have a dysfunctional marriage. He just '''takes''' and '''takes'''; he never gives.}}
+# {{lb|en|intransitive}} To engage, take hold or have effect.
+#* {{RQ:Bacon Sylva Sylvarum|edition=3rd|century=II|chapter=Experiments in Consort, Touching Sounds; and First Touching the Nullity and Entity of Sounds|page=40|para=119|passage=And ſo likewiſe ''Flame percuſſing the Aire ſtrongly'', (as when Flame ſuddenly '''taketh''', and openeth,) giueth ''a Noiſe''; So, Great ''Flames'', whiles the one implelleth the other, giue a bellowing ''Sound''.}}
+## {{lb|en|of a haircut, style, look, etc.}} To look good enough to keep.
+##: {{ux|en|I tried a mustache a couple years ago, but it didn't '''take'''.}}
+## {{lb|en|of ink, dye{{,}} etc.}} To [[adhere]] or be absorbed properly.
+##: {{ux|en|the dye didn't '''take'''}}
+##: {{ux|en|Boiling pasta with a bit of the sauce in the water will help the sauce "'''take'''."}}
+## {{lb|en|of a plant{{,}} etc.}} To begin to grow after being grafted or planted; to {{lb|en|literally|or|figuratively}} [[take root]], take hold.
+##: {{ux|en|not all grafts '''take'''}}
+##: {{ux|en|I started some tomato seeds last spring, but they didn't '''take'''.}}
+##* {{quote-book|en|author=[[w:Stephen Luce|S[tephen] B[leecker] Luce]]|author2=[[w:Aaron Ward (sailor)|Aaron Ward]]|title=Text-book of Seamanship.{{nb...|The Equipping and Handling of Vessels Under Sail Or Steam. For the Use of the United States Naval Academy}}|location=New York, N.Y.|publisher=w:D. Van Nostrand|year=1884|page=179|pageurl=https://books.google.ca/books?id=cS_QAAAAMAAJ&pg=PA178-IA3|passage=The cradles are supported under their centres by shores, on which the keel '''takes'''. The ends of the cradles are hinged, and can drop down clear when the boat is being hoisted or lowered.}}
+## {{lb|en|of a|mechanical device}} To catch; to engage.
+##* {{quote-book|en|author=Sheldon Russell|title=The Yard Dog|location=New York, N.Y.|publisher=w:Minotaur Books|year=2009|page=210|pageurl=https://archive.org/details/yarddog00russ/page/210/mode/1up|isbn=978-0-312-56670-8|passage=At the depot, Hook climbed out, slamming the door twice before the latch '''took'''. A train idled on the main track, the engine hissing as it waited for the crew change. From the windows, passengers watched on at the world outside.}}
+## {{lb|en|possibly|dated}} To win acceptance, favor or favorable reception; to charm people.
+##* {{RQ:Addison Drummer|chapter=Prologue|page=4|passage=Each VVit may praiſe it, for his ovvn dear Sake, / And hint He vvrit it, if the Thing ſhou'd '''take'''.}}
+##* {{quote-book|en|author=w:Richard Martin Stern|title=The Kessler Legacy|location=New York, N.Y.|publisher=w:Charles Scribner's Sons|year=1967|page=103|pageurl=https://archive.org/details/kesslerlegacy00ster/page/103/mode/1up|passage=Here was only cruelty and pain; where was the loving side of Christianity? "When I was young," I said, "I was vaccinated with religion, but the vaccination didn't '''take'''."}}
+# {{lb|en|intransitive|copulative}} To become; to be affected in a specified way.
+#: {{ux|en|They '''took''' ill within 3 hours.}}
+#: {{ux|en|She '''took''' sick with the flu.}}
+# {{lb|en|intransitive|possibly|dated}} To be able to be accurately or beautifully photographed.
+#* {{quote-book|en|author=w:Jessie Fothergill|chapter=IX|title=Kith and Kin: A Novel|location=London|publisher=Robert Bentley and Son|year=1881|volume=II|page=259|pageurl=https://archive.org/details/kithandkinanove01fothgoog/page/n268/mode/1up|passage='Photographs never do give anything but a pale imitation, you know, but the likenesses, as likenesses, are good. She "'''takes''' well" as they say, and those were done lately.'}}
+# {{lb|en|intransitive|dialectal|proscribed}}<ref>'''1970''', Harry Shaw, ''Errors in English and ways to correct them'', page 93: In the sentence, "He took and beat the horse unmercifully," took and should be omitted entirely.</ref> {{non-gloss|An intensifier.}}
+#* {{quote-book|en|author=w:Harriet Beecher Stowe|title=The Mayflower; Or, Sketches of Scenes and Characters Among the Descendants of the Pilgrims|location=New York, N.Y.|publisher=w:Harper & Brothers|year=1843|page=34|pageurl=https://archive.org/details/mayflowerorsketc00stowiala/page/34/mode/1up|passage=I don't know but she would, but just then poor Sukey came in, and looked so frightened and scarey—Sukey is a pretty gal, and looks so trembling and delicate, that it's kinder a shame to plague her, and so I '''took''' and come away for that time.}}
+#* {{RQ:Meredith Richard Feverel|volume=I|page=100|passage=Speed-the-Plough lurched round on his elbow and regarded him indifferently. "Moighty foin, that be! D'ye call that Doctrin'? He bean't al'ays, or I shoon't be scrapin' my heels wi' nothin' to do, and what's warse, nothin' to eat. Why, look heer. Luck 's luck, and bad luck's the con-trary. Varmer Bollop, t'other day, has's rick burnt down. Next night his gran'ry's burnt. What do he '''tak'''{{'}} and go and do? He '''takes''', and goes, and hangs unsel', and turns us out o' 'ploy. God warn't above the Devil then, I thinks, or I can't make out the reckonin'."}}
+#* {{quote-book|en|author=Arthur Sketchley|title=Mrs. Brown at the Crystal Palace|location=London|publisher=w:George Routledge and Sons|year=1875|page=100|pageurl=https://archive.org/details/22633663.78967.emory.edu/page/n104/mode/1up|passage=As made Queen 'Lizzybeth swear like blazes, and ketched poor old Dizzy sich a smack o' the face, as sent 'im up in a corner a-wimperin' with 'is 'ankercher to 'is nose, as made Gladstin give a grin, tho' he took good care to keep out of old Betsey's way, as glared at 'im; and then '''took''' and turned on me and says, "Let me give you a turn, for you're a-layin' on your back too much."}}
+#* {{quote-book|en|author=Max Brand &#91;pseudonym; [[w:Frederick Schiller Faust|Frederick Schiller Faust]]&#93;|title=Silvertip's Trap|location=New York, N.Y.|publisher=w:Dodd, Mead & Company|year=1943|page=30|pageurl=https://archive.org/details/pg000044_202207/pg000024.jpg|passage=I took and beat the devil out of him. I got him against the wall, and the back of his head bumped the wall just when my fist hit his chin, and he went out like a light, and that's how he come to have that big cut on his chin, like you was talking about.}}
+#* {{quote-book|en|author=w:Darcy O'Brien|title=Two of a Kind: The Hillside Stranglers|location=New York, N.Y.; Scarborough, Ont.|publisher=w:New American Library|year=1985|page=34|pageurl=https://archive.org/details/twoofkindhillsid0000darc/page/34/mode/1up|passage={{...}} I went and kicked the door in and took care of some other people. Then I '''took''' and went back to the hotel—" ¶ "The hotel where you live, right? The Gilbert Hotel?" ¶ "Right. I '''took''' and went back to the hotel, took a shower, went out and talked to a police officer—" ¶ "A police officer. Sheriff's deputy? LAPD? What's his name?" ¶ "Can't recall. Jim. Charlie, could be."}}
+# {{lb|en|transitive|obsolete}} To [[deliver]], [[bring]], [[give]] (something) to (someone).<!--this is a contranym!-->
+#* {{RQ:Tyndale NT|book=Matthew|chapter=22|verse=19|folio=xxxi|verso=1|passage=Jeſus perceaved there wylynes ãd ſayde: Why tempte ye me ye ypocrytes: lett me ſe the tribute money. And they '''toke''' hym a peny.}}
+# {{lb|en|transitive|obsolete|outside|dialects|and|slang}} To give or deliver (a blow, to someone); to strike or hit.
+#: {{ux|en|He '''took''' me a blow on the head.}}
+# {{lb|en|archaic}} To [[visit]]; to include in a course of travel.
+#* {{quote-book|en|author=w:William Penn|title=A Collection of the Works of William Penn:{{nb...|To Which Is Prefixed a Journal of His Life, With Many Original Letters and Papers Not Before Published}}|location=London|publisher={{...|Printed and Sold by the Assigns of}} J. Sowle,{{nb...|at the Bible in George-Yard, Lombard-Street}}|year=1677|year_published=1726|volume=I|page=60|pageurl=https://archive.org/details/collectionofwork01penn/page/60/mode/1up|passage=Now about a Year ſince, ''R. B.'' and ''B. F.'' '''took''' that City in the Way from ''Frederickſtadt'' to ''Amſterdam'', and gave them a Viſit: In which they informed them ſomewhat of ''Friend's Principles'', and recommended the Teſtimony of TRUTH to them, as both a nearer and more certain Thing than the utmoſt of ''De Labadie''{{'}}s Doctrine. They left them tender and loving.}}
+#* {{quote-book|en|author=[[w:John Whitehead (physician)|John Whitehead]]|title=The Life of the Rev. John Wesley, M.A.{{nb...}}|location=Dublin|publisher={{...|Printed and solid by}} John Jones,{{nb...|90, Bride-Street}}|year=1793|year_published=1805|page=441|pageurl=https://archive.org/details/liferevjohnwesl00whitgoog/page/n439/mode/1up|passage=But it seems that he did not attend to this circumstance at present; for in May, he set out again for ''Epworth'', and '''took''' ''Manchester'' in his way, to see his friend Mr. ''Clayton'', who had now left ''Oxford''.}}
+# {{lb|en|obsolete|rare}} To portray in a [[painting]].
+#* {{RQ:Dryden Miscellaneous Works|chapter=To The Pious Memory of the Accomplish'd Young Lady Mrs. {{w|Anne Killigrew}},{{nb...|Excellent in the Two Sister-Arts of Poesy and Painting}}|volume=II|page=216|passage=Beauty alone could beauty '''take''' ſo right: / Her dreſs, her ſhape, her matchleſs grace, / Were all obferv'd, as well as heavenly face.}}
+# {{used in phrasal verbs|take in|take off|take on|take out|take to|take something to|take up|lang=en}}
+
+====Usage notes====
+* In a few informal [[sociolect]]s, the past form {{m|en|took}} is sometimes replaced by the [[proscribed]] form {{m|en|taked}}.
+* Similarly, the participle {{m|en|taken}} is sometimes replaced by the equally [[proscribed]] {{m|en|tooken}}.
+
+====Conjugation====
+{{en-conj|stem=tak|old=1|past=took|past_2sg_old2=tookest|past_ptc=taken|past_ptc2=took|past_ptc2_qual=note1|note1=Colloquial or dialectal.}}
+
+====Derived terms====
+<!--NOTE: do not add nouns derived from phrasal verbs here; e.g., "take-over"/"takeover" is from "to take over" and should therefore be listed under "take over"-->
+<!--"mickey-take" is derived from "take the mickey"-->
+<!--"piss-take" is derived from "take the piss"-->
+{{col4|en|take easy|take serious|take someone to brown town
+|betake|put-and-take|take breath|take it or leave it alone|take one's life in one's hands|take your oil
+|foretake|take it sleazy
+|fortake|take one's eyes off the ball|take the law into one's hands
+|for the taking
+|mistake|take in hand|take one's cue from|take some beating|take some doing|take underwing
+|ontake
+|out-take
+|overtake| take someone down the garden path|take to drink
+|partake
+|take aback
+|take a bath
+|take a bite
+|take a bow
+|take a breather|time-taking|take a flying fuck
+|take a chance
+|take a chill pill
+|take a dive
+|take a dump|take a tinkle
+|take a gamble
+|take a load off
+|take a look
+|take a pew
+|take a picture
+|take a risk
+|take a run at|take to pound town
+|take a spill|take to the next level
+|take a spin
+|take a tumble
+|take a view
+|take across
+|take action
+|take advantage
+|take after
+|take against|take a whack at|take to the field
+|take along|take the aam off|take to one's scrapers|take to the sea
+|take-all
+|take amiss
+|take apart
+|take around
+|take aside
+|take away<!--"take-away"/"takeaway" is derived from "take away"-->
+|take back
+|take captive
+|take charge| give someone an inch and he'll take a yard
+|take comfort<!--"from" or "in"-->
+|take cover|take something to the face|take something to the head|take the stage
+|take down<!--"takedown" is derived from "take down"-->
+|take exception to
+|take five| take a beat|take home|take someone out back
+|take flight
+|take for a drive
+|take for a ride
+|take for a spin|take a reef in|take wind
+|take for granted
+|take form|take a decision|take a hit|take potluck|take the coward's way out|take time off
+|take French leave,take a French leave<ll:obsolete>
+|take fright|take the wax out of one's ears
+|take guard
+|take heart
+|take hold
+|take-home pay
+|take hostage
+|take in
+|take in turn
+|take issue to,take issue with
+|take it as it comes
+|take it away|put and take|take a Bex|take bread and salt|take one's rise|take one's sweet little time|take roll|take someone for all they've got|take the micky|take the register|take the ride|take the roll|take up cudgels|take your change out of that
+|take it easy
+|take it like a man
+|take it on the chin
+|take it out on<!--"take no prisoners" is listed under "take someone prisoner"-->
+|take it outside
+|take matters into one's own hands
+|take off the table
+|take off
+|take offence,take offense
+|take on
+|take one's rest
+|take one's time
+|take oneself off
+|[[take out]]<!--"takeout" is derived from "take out"-->
+<!--"takeout double" is derived from "takeout"-->
+|take over<!--"takeover" is derived from "take over"-->
+|take part
+|take personally
+|take place
+|take pleasure
+|take pride
+|[[take prisoner|take someone prisoner]]
+|take round
+|take shape
+|take sides
+|take silk
+|take slave,taken slave
+|[[takest]] {{qualifier|{{m|en|thou}} form}}
+|take stock
+|take that
+|take the biscuit
+|take the cake
+|take the fall
+|take the gilt off the gingerbread
+|take the mask off
+|take the matter into one's own hands
+|take the mick
+|take the mickey
+|take the piss
+|take the purple
+|take the shilling
+|take the trouble
+|take the wrong way
+|take through
+|take time
+|take to extremes
+|take to heart
+|take to one side
+|take to one's bed
+|take to one's heels
+|take to
+|take to the bank
+|take to the streets
+|take turns
+|take umbrage
+|take up for
+|take up with
+|take up
+|take upon
+|take vows
+|take with a pinch of salt
+|undertake
+|uptake|take it up the bum|take it up the bumhole|take it up the butt|take it up the butthole|take it up the rear|take it up the rear end|withtake
+|wrongtake
+|you can't take it with you
+|be taken bad|be taken ill|be taken sick|get taken in|have drink taken|have one's name taken|lunatics have taken over the asylum|point taken|taken short
+|are you taking any medications|care-taking|for the taking|leave-taking|like taking candy from a baby|note-taking|piss-taking|prize-taking|profit taking|profit-taking|risk-taking|taking up the mantle|turn-taking|take a crap|take a dookie|take a piss|take a pitch|take a rain check|take a raincheck|take a running jump|take a toll|take an l|take coals to Newcastle|take credit|take its rise|take oath|take off one's chest|take on strength|take one's eyes off|take one's turn|take several seats|take shipping|take someone's life|take something off someone's hands|take something to one's grave|take the Fifth|take the place of|take time out|take to the cleaner's|take to the grave|take under|take up residence|take with|take-over|take-under|caretake|entertake|notetake|numbertaker|offtake|retake|take the meaning|takeable|taker|wapentake}}
+<!--"take your time": this is given as "take one's time" above-->
+
+====Translations====
+{{see translation subpage|Verb}}
+
+===Noun===
+{{en-noun}}
+
+# An act of taking.
+#* {{quote-book|en|title=Report to Congress: Impacts of California Sea Lions and Pacific Harbor Seals on Salmonids and West Coast Ecosystems|publisher=U.S. Department of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service|year=1999|page=32|pageurl=https://books.google.ca/books?id=_RwXAQAAIAAJ&pg=PA32|passage=The 1994 Amendments address the incidental '''take''' of marine mammals in the course of commercial fishing, not the direct lethal '''take''' of pinnipeds for management purposes.}}
+#* {{quote-book|en|author=w:Lissa Evans|title=Their Finest Hour and a Half|location=London{{nb...}}|publisher=[[w:Doubleday (publisher)|Doubleday]]|year=2009|page=321|pageurl=https://archive.org/details/theirfinesthoura0000evan/page/321/mode/1up|isbn=978-0-385-61423-8|passage='I saw you in Norfolk doing twenty-odd '''takes''' with that fisherman chap and it looked perfect in the rushes.'}}
+# Something that is taken; a [[haul]].
+## Money that is taken in, (legal or illegal) proceeds, income; {{lb|en|in particular}} profits; takings.
+##* {{RQ:NYT|author=w:Paul Krugman|title=The Depravity of Climate-Change Denial|archiveurl=https://web.archive.org/web/20230517193607/https://www.nytimes.com/2018/11/26/opinion/climate-change-denial-republican.html|date=26 November 2018|passage=Why would anyone go along with such things? Money is still the main answer: Almost all prominent climate deniers are on the fossil-fuel '''take'''.}}
+##: {{ux|en|He wants half of the '''take''' if he helps with the job.}}
+##: {{ux|en|The mayor is on the '''take'''.}}
+## The or a quantity of [[fish]], [[game]] animals or [[pelt]]s, etc which have been taken at one time; [[catch]].
+##* {{quote-journal|en|journal=w:National Geographic|year=1987|month=October|volume=172|number=4|title=North Carolina's Outer Banks|author=Charles E. Cobb, Jr.|page=507
+|text=Since a state ban was lifted in 1984, hunters may shoot one swan per season. A permit system limited last season's '''take''' to 6,000.}}
+# An [[interpretation]] or [[view]], [[opinion]] or [[assessment]]; [[perspective]]; a [[statement]] expressing such a [[position]].
+#: {{syn|en|conclusion|mind|verdict|Thesaurus:judgement}}
+#: {{ux|en|What's your '''take''' on this issue, Fred?}}
+#: {{ux|en|Another unsolicited maths '''take''': talking about quotients in terms of "equivalence classes" or cosets is really unnatural.}}
+#* {{RQ:Wired|author=w:Jenna Wortham|title=So Long, and Thanks for All the Tips!|archiveurl=https://web.archive.org/web/20230606063403/https://www.wired.com/2008/11/so-long-and-tha-2/|date=19 November 2008|passage=Should you crave a fix of my '''take''' on tech culture, get the urge to build a 3-D home cinema or want the skivvy on the latest internet memes or robo-romances, you can keep a close eye on me via Twitter or drop me a line at my new digs.}}
+#* {{RQ:Slate|author=w:Ben Mathis-Lilley|title=Fox News Military Analyst Says John McCain Broke Under Torture and Gave Secrets to North Vietnamese|archiveurl=https://web.archive.org/web/20221128221827/https://slate.com/news-and-politics/2018/05/fox-news-analyst-john-mccain-broke-under-torture.html|date=10 May 2018|passage=I wrote Thursday morning that the Washington Post had printed a column that qualified as the worst '''take''' on the debate over whether Gina Haspel, who supported the torture of "War on Terror" detainees, should become CIA director. I was very wrong. ''This'' is the worst '''take''':}}
+#* {{RQ:New Yorker|author=Sheldon Pearce|title=Kendrick Lamar and the Mantle of Black Genius|archiveurl=https://web.archive.org/web/20230804095354/https://www.newyorker.com/culture/cultural-comment/kendrick-lamar-and-the-mantle-of-black-genius|date=26 October 2020|passage=Another of the victims, Michael Brown, was an aspiring rapper himself and a Lamar fan. Though Kendrick's controversial '''take''' on Brown's death is somewhat glossed over, the book is constantly putting into context how the rapper's art is a product of the same trauma and working in service to the Black communities that experienced that trauma.}}
+#* {{RQ:WaPo|author=Sarah Lyon|title=In a small space, do you really need a dining table?|url=https://www.washingtonpost.com/home/2022/09/14/small-spaces-dining-table/|archiveurl=https://web.archive.org/web/20240817192158/https://www.washingtonpost.com/home/2022/09/14/small-spaces-dining-table/|archivedate=17 August 2024|date=14 September 2022|passage=We turned to the experts to get their '''takes''' on whether you truly need a dining table in a small home. For some designers, having one is nonnegotiable; others have found ways around it. Read on to see what works best for you.}}
+#* {{quote-song|en|title=What's Your Take?|author={{w|Momus (musician)|Momus}}|year=2025|album=Acktor|passage=What's your '''take''' on Hitler / Now Americans / Want to share his big ideal / With everyone?}}
+# An [[approach]], a (distinct) [[treatment]].
+#: {{ux|en|a new '''take''' on a traditional dish}}
+#* {{quote-book|en|author=Tim Richardson|title=Great Gardens of America|location=London|publisher=w:Frances Lincoln Limited|year=2009|page=87|pageurl=https://archive.org/details/greatgardensofam0000rich/page/87/mode/1up|isbn=978-0-711-22886-3|passage=Whatever the provenance, the result is a delightfully novel '''take''' on a stalwart, often deadening Victorian feature.}}
+#* {{quote-book|en|author=w:David Walliams|title=Camp David: The Autobiography|location=London|publisher=w:Penguin Books|year=2012|year_published=2013|page=288|pageurl=https://archive.org/details/campdavidautobio0000wall/page/288/mode/1up|isbn=978-0-241-95772-1|passage=''The League of Gentlemen'' was all set in one town; ''The Fast Show'' did what it said on the tin, the sketches came thick and fast; ''Goodness Gracious Me'' was a brilliant '''take''' on British Asian culture.}}
+#* {{RQ:Rolling Stone|author=Brittany Spanos|title=Celine Dion Delivers Powerful Queen Cover at Billboard Music Awards|archiveurl=https://web.archive.org/web/20230326114241/https://www.rollingstone.com/music/music-news/celine-dion-delivers-powerful-queen-cover-at-billboard-music-awards-55927/|date=23 May 2016|passage=As part of her acceptance speech for the Billboard Icon Award during the show, Dion showed off her well-honed Las Vegas showmanship during her '''take''' on the Queen classic and statement of endurance.}}
+# {{lb|en|film}} A [[scene]] [[record]]ed ([[film]]ed) at one time, without an [[interruption]] or [[break]]; a recording of such a scene.
+#: {{ux|en|It's a '''take'''.}}
+#: {{ux|en|Act seven, scene three, '''take''' two.}}
+# {{lb|en|music}} A recording of a musical performance made during an uninterrupted single recording period.
+# A visible ([[facial]]) [[response]] to something, especially something [[unexpected]]; a facial gesture in response to an event.
+#: {{ux|en|did a [[double take]] and then a triple '''take'''}}
+#: {{ux|en|I did a '''take''' when I saw the new car in the driveway.}}
+#* {{quote-book|en|author=w:William Shatner|author2=[[w:Ron Goulart|&#91;Ron Goulart&#93;]]|title=TekLords|location=New York, N.Y.|publisher=w:G. P. Putnam's Sons|year=1991|page=48|pageurl=https://archive.org/details/teklords0000shat/page/48/mode/1up|isbn=0-399-13616-9|passage="When our client mentioned Dr. Chesterton, you did a '''take''' that was perceptible to one with my trained eye. Know the gent, ''amigo''?"}}
+#* {{quote-book|en|author=Laura McBride|title=Catch a Falling Starr: A Novel|location=New York, N.Y.{{nb...}}|publisher=w:iUniverse, Inc.|year=2007|page=138|pageurl=https://archive.org/details/catchfallingstar0000mcbr/page/138/mode/1up|isbn=978-0-595-44510-3|passage=Biddy did a {{'}}'''take'''{{'}} and stared at Mandy speechless for a moment—then she fled back to the kitchen.}}
+#* {{quote-book|en|author=Carsten Stroud|title=The Homecoming|location=New York, N.Y.|publisher=w:Alfred A. Knopf|year=2013|page=301|pageurl=https://archive.org/details/homecoming0000stro_s7o3/page/301/mode/1up|isbn=978-0-307-70096-4|passage=He's a stone-cold snake, Nick, but he's our stone—cold snake. Keep tugging on hanging threads and one day your pants will fall off." ¶ Nick did a '''take''', grinning in spite of his miserable mood. "How, exactly, would that work?" ¶ Mavis shrugged, grinned right back at him.}}
+# {{lb|en|medicine}} An instance of [[successful]] [[inoculation]]/[[vaccination]].
+# {{lb|en|rugby|cricket}} A [[catch]] of the ball (in cricket, especially one by the [[wicket-keeper]]).
+# {{lb|en|printing}} The quantity of [[copy]] given to a [[compositor]] at one time.
+#* {{quote-book|en|author=w:John Southward|chapter=XXI|title=Practical Printing: A Handbook of the Art of Typography|edition=second|location=London|publisher=J. M. Powell & Son|year=1884|page=197|pageurl=https://archive.org/details/practicalprinti00powegoog/page/197/mode/1up|passage=When the copy arrives, it is taken in hand by the printer, who first of all divides it into "'''takes'''" or short portions, distributing these among the various compositors. A '''take''' usually consists of a little more than a stickful of matter, but it varies sometimes, for if a new paragraph occurs it is not overlooked. These '''takes''' are carefully numbered, and a list is kept of the compositors who take the several pieces.}}
+
+====Derived terms====
+{{col|en
+|double-take,double take
+|give and take
+|hot take|retake|stocktake
+|land-take
+|long take|continuous take|house take
+|mickey-take
+|piss-take
+|on the take
+|take two|wild take
+|take-or-pay
+}}
+
+====Translations====
+{{trans-top|act of taking}}{{multitrans|data=
+* Czech: {{tt+|cs|vzetí|n}}
+* Esperanto: {{t+|eo|preni}}
+* Finnish: {{tt+|fi|ottaminen}}, {{tt+|fi|otto}}
+* French: {{t+|fr|prise|f}}
+* Hebrew: {{tt|he|לקיחה|f|tr=lekicha}}
+* Hungarian: {{tt+|hu|megfogás}}, {{tt+|hu|halászat}}, {{tt+|hu|kihalászás}}, {{tt+|hu|kifogás}}
+* Japanese: {{tt+|ja|取得|tr=shutoku}}
+* Macedonian: {{tt|mk|земање|n}}
+* Norwegian: {{tt|no|fangst|m}}
+* Polish: {{tt+|pl|branie}}, {{tt+|pl|wzięcie}}
+* Portuguese: {{tt+|pt|tomada|f}}
+* Romanian: {{tt+|ro|luare|f}}
+* Russian: {{t+|ru|взятие|n}}
+* Serbo-Croatian: {{tt|sh|uzimanje|n}}
+* Spanish: {{t+|es|toma|f}}
+* Swedish: {{tt+|sv|tagande|n}}
+* Turkish: {{tt+|tr|tutma}}, {{tt+|tr|tutuş}}
+{{trans-bottom}}
+
+{{trans-top|something that is taken}}
+* Czech: {{tt|cs|vzaný|m}}
+* Finnish: {{tt+|fi|saalis}}, {{tt+|fi|otettu}}
+* Japanese: {{tt+|ja|獲得|tr=kakutoku}}
+* Korean: {{tt|ko|취득물}} {{qualifier|literally}}
+* Norwegian: {{tt|no|fangst|m}}
+* Swedish: {{tt+|sv|byte|n}}, {{tt+|sv|fångst|c}}
+{{trans-bottom}}
+
+{{trans-top-see|profit|recompense}}
+* Czech: {{tt+|cs|zisk|m}}
+* Finnish: {{tt+|fi|tuotto}}, {{tt+|fi|voitto}}
+* Hebrew: {{tt+|he|שלל|m|tr=shalal}}, {{tt+|he|רווח|m|tr=revach}}
+* Hungarian: {{tt+|hu|bevétel}}, {{tt+|hu|nyereség}}
+* Japanese: {{tt+|ja|利益|tr=rieki}}
+* Korean: {{tt+|ko|이익}}, {{tt+|ko|이득}}
+* Macedonian: {{tt|mk|добивка|f}}
+* Norwegian: {{tt|no|gevinst|m}}
+* Portuguese: {{tt+|pt|rendimento|m}}
+* Serbo-Croatian: {{tt+|sh|dobīt|f}}, {{tt+|sh|nagrada|f}}
+* Swedish: {{tt+|sv|intäkter|c-p}}
+* Turkish: {{tt+|tr|kâr}}, {{tt+|tr|kazanç}}
+* Vietnamese: {{t|vi|tiền thu}}
+{{trans-bottom}}
+
+{{trans-top-see|interpretation or view|interpretation|view|point of view|viewpoint|perspective|opinion|reaction|stance}}
+* Czech: {{tt+|cs|názor|m}}
+* Finnish: {{tt+|fi|mielipide}}, {{tt+|fi|tulkinta}}, {{tt+|fi|näkemys}}
+* German: {{t+|de|Auffassung|f}}
+* Hungarian: {{tt+|hu|nézet}}, {{tt+|hu|vélemény}}, {{tt+|hu|értékelés}}, {{tt+|hu|látásmód}}, {{tt+|hu|felfogás}}
+* Japanese: {{tt+|ja|見解|tr=kenkai}}
+* Korean: {{tt+|ko|견해}}, {{tt+|ko|관점}}
+* Macedonian: {{tt|mk|поглед|m}}
+* Portuguese: {{tt+|pt|ponto de vista|m}}
+* Serbo-Croatian: {{tt+|sh|pogled|m}}
+* Swedish: {{tt+|sv|synpunkt|c}}
+* Turkish: {{tt+|tr|tepki}}, {{tt+|tr|görüş}}
+* Vietnamese: {{t+|vi|quan điểm}}
+{{trans-bottom}}
+
+{{trans-top|film: attempt to record a scene}}
+* Catalan: {{tt+|ca|presa}}
+* Esperanto: {{tt|eo|scenfilmado}}, {{tt|eo|sceno}}
+* Finnish: {{tt+|fi|otto}}
+* French: {{tt+|fr|prise}}
+* Hungarian: {{tt+|hu|felvétel}}, {{tt+|hu|filmfelvétel}}
+* Icelandic: {{t+|is|taka|f}}
+* Japanese: {{tt|ja|テイク|tr=teiku}}
+* Norwegian: {{tt|no|opptak|n}}
+* Polish: {{t+|pl|ujęcie|n}}
+* Portuguese: {{tt+|pt|tomada|f}}
+* Russian: {{tt+|ru|дубль|m}}
+* Spanish: {{tt+|es|toma|f}}
+* Swedish: {{tt+|sv|tagning|c}}
+* Vietnamese: {{t+|vi|cảnh}}
+{{trans-bottom}}
+
+{{trans-top|catch}}
+* Finnish: {{tt+|fi|koppi}}, {{tt+|fi|kiinniotto}}
+* Hungarian: {{tt+|hu|elkapás}}, {{tt+|hu|átvétel}}, {{tt+|hu|labdaátvétel}}
+* Norwegian: {{tt|no|mottak|n}}
+* Vietnamese: {{t+|vi|chầu}}, {{t+|vi|mẻ}}
+}}
+{{trans-bottom}}
+
+{{checktrans-top}}
+* Chinese:
+*: Mandarin: {{t+check|cmn|拿|tr=ná}}, {{t+check|cmn|取|tr=qǔ}}, {{t+check|cmn|握|tr=wò}}, {{t+check|cmn|接受|tr=jiēshòu}}, {{t+check|cmn|应付|tr=yìngfù}}
+* Dutch: {{t+check|nl|nemen}}
+* German: {{t+check|de|nehmen}}
+* Ido: {{t+check|io|prenar}}
+* Italian: {{qualifier|2,5,9,10}} {{t+check|it|prendere}}, {{qualifier|1,4,6}} {{t+check|it|portare}}, {{qualifier|3, also ''to rape''}} {{t+check|it|violentare}}
+* Serbo-Croatian: {{t-check|sh|узети}} ([[uzeti]])
+* Sicilian: {{qualifier|2,5,9,10}} {{t+check|scn|pigghiari}}
+* Slovak: {{t-check|sk|vziať}}, {{t-check|sk|zobrať}}
+* Tagalog: {{t-check|tl|kunin}}
+* Turkish: {{qualifier|1,2,7}} {{t+check|tr|almak}}, {{qualifier|4}} {{t+check|tr|yakalamak}}, {{qualifier|5}} {{t+check|tr|anlamak}}
+{{trans-bottom}}
+
+===See also===
+* [[Appendix:Collocations of do, have, make, and take]]
+<!--These need to be checked and put in the section for the noun or verb senses as appropriate-->
+* {{l|en|intake}}
+* {{l|en|outtake}}
+<!--"slow on the uptake" is derived from "uptake"-->
+* {{l|en|spit take}}
+* {{l|en|taking}}, {{l|en|taking}}
+* {{l|en|uptake}}
+
+===References===
+<references/>
+
+===Anagrams===
+* {{anagrams|en|a=aekt|Kate|kate|keta|teak}}
+
+{{cln|en|strong verbs|contranyms|irregular verbs|raising verbs}}
+{{C|en|Sex}}
+
+==Albanian==
+
+===Pronunciation===
+* {{IPA|sq|/ˈtakɛ/}}
+
+===Etymology 1===
+{{unk|sq}}.
+
+====Noun====
+{{sq-noun|f|head=táke|táke|tákeja|táket}}
+
+# a small [[boat]] or [[barge]], up to about ten metres long, capable of carrying a load of roughly thirty to forty quintals
+
+=====Declension=====
+{{sq-noun-f|tak|e|eja}}
+
+===Etymology 2===
+{{unk|sq}}.
+
+====Noun====
+{{sq-noun|f|head=táke|táke|tákeja|táket}}
+
+# {{lb|sq|colloquial}} a [[slap]] or [[smack]] with the palm of the hand
+#: {{ux|sq|Ia dha një '''take''' faqeve.|He gave him a slap across the face.}}
+# {{lb|sq|figuratively|colloquial}} a [[reprimand]], [[rebuke]], or sharp warning
+#: {{syn|sq|shpullë|dackë|pëllëmbë|qortim}}
+#: {{ux|sq|I dhe një '''take'''.|He gave him a reprimand.}}
+#: {{ux|sq|E hëngri një '''take'''.|He got a reprimand.}}
+
+=====Declension=====
+{{sq-noun-f-e}}
+
+===Etymology 3===
+{{unk|sq}}.
+
+====Noun====
+{{sq-noun|f|head=táke|táke|tákeja|táket}}
+
+# a [[sawed-off shotgun]]; a hunting gun with a shortened barrel
+#: {{ux|sq|E qëlloi me '''take'''.|He shot him with a sawed-off shotgun.}}
+
+=====Declension=====
+{{sq-noun-f-e}}
+
+===Further reading===
+* {{R:sq:FMGSH:2026}}
+
+==Chinese==
+
+===Etymology===
+From {{bor|yue|en|take}}.
+
+===Pronunciation===
+{{zh-pron
+|c=tik1
+|cat=v,n,cls
+}}
+
+===Verb===
+{{head|zh|verb}} {{tlb|zh|Hong Kong Cantonese}}
+
+# to [[consume]] ([[drug]]s)
+#* {{quote-av|zh|url=https://www.youtube.com/watch?v=DZvEs8ePnLE|year=2012|title=zh:企硬 2012（青少年篇）|author=lw:zh:政府新聞處<t:{{w|Information Services Department}}>}}
+#*: {{zh-q|企硬！'''ta{i}ke{1}'''嘢 衰 硬！|Stand firm! '''Taking''' drugs certainly causes one to make grave mistakes!|C}}
+# {{lb|zh|film}} to [[film]], to [[record]] a [[scene]]
+
+===Noun===
+{{head|zh|noun}}
+
+# {{lb|zh|Hong Kong Cantonese|film}} [[#English|take]]; [[attempt]]s of [[record]]ing or [[film]]ing at one time {{zh-mw|c:個}}
+
+===Classifier===
+{{head|zh|classifier}}
+
+# {{lb|zh|Hong Kong Cantonese}} {{zh-classifier|[[attempt]]s}}
+#: {{zh-co|一'''ta{i}ke{1}'''過|in one '''attempt'''|C}}<!--there's a few useful google books result for this-->
+
+==Japanese==
+
+===Romanization===
+{{ja-romaji}}
+
+# {{ja-romanization of|たけ}}
+
+==Māori==
+
+===Pronunciation===
+* {{mi-IPA|take|stress='-}}
+
+===Verb===
+{{mi-verb|a}}
+
+# to [[originate]], [[derive]]
+
+===Noun===
+{{mi-noun}}
+
+# [[reason]], [[purpose]]
+# [[cause]]
+# [[origin]], [[source]], [[beginning]]
+# [[root]] 
+# [[stump]]
+# [[topic]], [[subject]], [[matter]], [[issue]], [[concern]]
+# [[claim]], [[right]]
+# [[plan]]
+# [[base]], [[foot]] (e.g. of a hill)
+
+===References===
+{{R:mi:Te Aka 3}}
+
+==Marshallese==
+
+===Etymology===
+{{bor+|mh|en|turkey}}.
+
+===Pronunciation===
+{{mh-ipa-rows|tak&y}}
+
+===Noun===
+{{mh-head|noun}}
+
+# a [[turkey]]
+
+===References===
+* {{R:mh:MEOD|MED2T.htm#take}}
+
+{{C|mh|Fowls|Poultry}}
+
+==Mauritian Creole==
+
+===Etymology===
+From {{inh|mfe|fr|taquet}}.
+
+===Pronunciation===
+* {{IPA|mfe|/take/}}
+
+===Noun===
+{{head|mfe|noun}}
+
+# electrical [[switch]]
+# [[fastener]], [[bolt]], [[latch]]
+
+===References===
+* {{R:mfe:Baker:1987|page=309}}
+* {{R:mfe:Carpooran:2011|page=1015}}
+
+==Middle English==
+
+===Etymology 1===
+
+====Verb====
+{{enm-verb|taketh|takende|toke|taken}}
+
+# {{alt form|enm|taken}}
+
+====Verb====
+{{head|enm|verb form}}
+
+# {{alt form|enm|taken}}: {{infl of|enm|taken||past|part}}
+
+===Etymology 2===
+
+====Noun====
+{{enm-noun}}
+
+# {{alt form|enm|tak||tack {{gl|small nail}}}}
+
+===Etymology 3===
+
+====Verb====
+{{enm-verb|stem=tak}}
+
+# {{alt form|enm|takken}}
+
+===Etymology 4===
+
+====Noun====
+{{enm-noun}}
+
+# {{alt form|enm|tak||tack {{gl|fee paid to keep swine}}}}
+
+==Norwegian Nynorsk==
+
+===Verb===
+{{nn-verb-irreg|tek|tok|teke}}
+
+# {{alternative form of|nn|taka}}
+
+{{cln|nn|strong verbs|class 6 strong verbs}}
+
+==Pilagá==
+
+===Verb===
+{{head|plg|verb}}
+
+# [[want]]
+#: ''se-'''take''''' — ''I '''want'''''
+
+===References===
+* '''2001''', Alejandra Vidal, quoted in ''Subordination in Native South-American Languages''
+
+==Swahili==
+
+===Pronunciation===
+{{sw-IPA}}
+
+===Verb===
+{{head|sw|verb form|head=-take}}
+
+# {{inflection of|sw|taka|-taka|subjunctive|stem}}

@@ -34,10 +34,10 @@ RLS: `authenticated` rolü yalnızca `user_id = auth.uid()` olan satırları oku
 
 İstemci `signInWithOtp({ email })` ile kod ister, `verifyOtp({ email, token, type: 'email' })` ile oturum açar. Kodun e-postada görünmesi için panelde:
 
-1. **Authentication → Emails → Magic link** şablonunu `{{ .Token }}` içerecek şekilde değiştir.
+1. **Authentication → Emails → Magic link or OTP** şablonunu `{{ .Token }}` içerecek şekilde değiştir.
 2. **Authentication → Sign In / Providers → Email**: "Email OTP Length" = 6.
 
-Supabase'in yerleşik e-posta servisi yalnızca organizasyon üyelerine ve saatte birkaç e-posta gönderir. Geliştirme için yeterlidir; herkese açık sürümden önce özel SMTP (ör. Resend) bağlanmalıdır.
+Supabase, şablonların düzenlenebilmesi için özel SMTP ister. Şu an Gmail SMTP bağlı (gönderen: Sözlook, günde ~500 e-posta sınırı). Herkese açık sürümden önce kendi alan adıyla bir e-posta servisine (ör. Resend) geçilmesi planlanıyor; bu yalnızca panel ayarıdır, kod değişmez.
 
 ## Eşitleme kuralları (istemciler)
 

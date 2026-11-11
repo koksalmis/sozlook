@@ -44,4 +44,7 @@ Supabase'in yerleşik e-posta servisi yalnızca organizasyon üyelerine ve saatt
 - **Gönder:** yerelde değişen kelimeler `upsert(..., { onConflict: 'user_id,word' })`. Silme = `deleted_at = now()` ile güncelleme.
 - **Çek:** `updated_at > son_çekilen - 60 sn` olan satırlar (küçük örtüşme, saat/commit sırası farklarına karşı). Birleştirme idempotent.
 - **Çakışma:** aynı kelime iki yerde değiştiyse son yazan kazanır.
-- **İlk giriş:** yereldeki tüm kelimeler gönderilir, sonra buluttakiler çekilir; aynı kelime iki tarafta varsa eski `saved_at` korunur.
+- **İlk giriş:** yereldeki tüm kelimeler gönderilir, sonra buluttakiler çekilir; aynı kelime iki tarafta varsa yereldeki kayıt geçerli olur.
+- **Bekleyen yerel değişiklik korunur:** eşitleme sürerken kaydedilen veya kaldırılan kelime, buluttan gelen eski bilgiyle ezilmez; bir sonraki eşitlemede gönderilir.
+
+Eklentideki uygulama: `extension/sync-core.js` (saf birleştirme mantığı, `tests/sync-core.test.mjs`) ve `extension/sync.js` (arka plan çalışanında REST istekleri). Eşitleme; giriş sonrası, popup açılınca, kelime kaydedilip kaldırılınca (1,5 sn sonra) ve 15 dakikada bir çalışır.

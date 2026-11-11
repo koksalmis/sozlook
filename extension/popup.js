@@ -47,4 +47,24 @@
   window.addEventListener('focus', refresh);
   globalThis.chrome?.storage?.onChanged?.addListener(refresh);
   refresh();
+
+  // Eşitleme durumu (yalnızca kurulu eklentide).
+  const syncFooter = document.querySelector('#sync-footer');
+  async function renderSync() {
+    const { syncSession: session, syncState: state } = await chrome.storage.local.get(['syncSession', 'syncState']);
+    syncFooter.replaceChildren();
+    if (!session) {
+      const link = text('a', 'sync-link', 'Telefonunla eşitle ↗'); link.href = 'options.html#sync';
+      link.addEventListener('click', event => { event.preventDefault(); chrome.tabs.create({ url: chrome.runtime.getURL('options.html#sync') }); });
+      syncFooter.append(link); return;
+    }
+    if (state?.status === 'syncing') { syncFooter.textContent = 'Eşitleniyor…'; return; }
+    if (state?.status === 'error') { syncFooter.append(text('span', 'sync-error', 'Eşitlenemedi')); return; }
+    syncFooter.textContent = state?.lastSyncAt ? `Eşitlendi · ${new Date(state.lastSyncAt).toLocaleTimeString('tr-TR', { hour: '2-digit', minute: '2-digit' })}` : 'Eşitleme açık';
+  }
+  if (globalThis.chrome?.runtime?.id && chrome.storage?.local) {
+    renderSync();
+    chrome.storage.onChanged.addListener((changes, area) => { if (area === 'local' && (changes.syncSession || changes.syncState)) renderSync(); });
+    chrome.runtime.sendMessage({ type: 'sozlook:sync-now' }).catch(() => {});
+  }
 })();

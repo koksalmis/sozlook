@@ -13,8 +13,26 @@
       </fieldset>
       <p id="settings-status" role="status" aria-live="polite"></p>
     </section>
+    <section class="setting sync" id="sync" aria-labelledby="sync-title" hidden>
+      <div class="section-heading"><h2 id="sync-title">Telefonunla eşitle</h2><p>Giriş yaparsan kaydettiğin kelimeler Sözlook iPhone uygulamasında da görünür; birinde sildiğin kelime diğerinden de kalkar. Giriş yapmazsan kelimelerin yalnızca bu tarayıcıda kalır.</p></div>
+      <form id="sync-email-form" class="sync-form" novalidate>
+        <label for="sync-email">E-posta adresin</label>
+        <div class="row"><input id="sync-email" type="email" autocomplete="email" placeholder="ornek@eposta.com" required><button type="submit" class="primary">Kod gönder</button></div>
+        <p class="hint">Şifre yok. E-postana gelen 6 haneli kodla giriş yaparsın.</p>
+      </form>
+      <form id="sync-code-form" class="sync-form" novalidate hidden>
+        <label for="sync-code"><span id="sync-code-email"></span> adresine gönderdiğimiz kodu yaz</label>
+        <div class="row"><input id="sync-code" inputmode="numeric" autocomplete="one-time-code" maxlength="10" placeholder="123456" required><button type="submit" class="primary">Giriş yap</button></div>
+        <p class="hint">Kod birkaç dakika içinde gelir; gelmezse spam klasörüne bak. <button type="button" id="sync-change-email" class="link">E-postayı değiştir</button></p>
+      </form>
+      <div id="sync-account" class="sync-account" hidden>
+        <div><span class="badge">Eşitleme açık</span><p><strong id="sync-account-email"></strong></p><p id="sync-last" class="hint"></p></div>
+        <div class="actions"><button type="button" id="sync-now" class="secondary">Şimdi eşitle</button><button type="button" id="sync-sign-out" class="link">Çıkış yap</button></div>
+      </div>
+      <p id="sync-status" role="status" aria-live="polite"></p>
+    </section>
     <aside class="tip"><span class="tip-label">KÜÇÜK BİR KISAYOL</span><p>İki modda da <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> ile seçtiğin kelimenin kartını açabilirsin. <kbd>Esc</kbd> ile kapat.</p></aside>
   </main>
   <footer><span>Oku. Anla. Öğren.</span><span>Tercihlerin bu tarayıcıda saklanır.</span></footer>
-  <script src="storage.js"></script><script src="options.js"></script>
+  <script src="storage.js"></script><script src="options.js"></script><script src="options-sync.js"></script>
 </body></html>
